@@ -1,6 +1,7 @@
 # Configuration locale et clés secrètes (voir les fichiers *.exemple.php)
 config/paiement_cles.php
 config/serveur.php
+.env
 
 # Fichiers trop lourds pour GitHub
 *.psd

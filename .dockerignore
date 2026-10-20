@@ -1,0 +1,34 @@
+.git
+.gitignore
+.dockerignore
+.env
+.env.*
+Dockerfile
+docker-compose.yml
+docker/initdb
+DEPLOIEMENT.md
+
+# Configuration locale (remplacée par les fichiers de docker/)
+config/paiement_cles.php
+config/serveur.php
+
+# Mêmes exclusions que preparer_mise_en_ligne.bat
+toun_mobile
+vidéo
+Cours
+schemas_memoire
+sauvegarde_*
+**/Nouveau dossier*
+*.psd
+*.aep
+*.doc
+*.docx
+*.sql
+*.bat
+*.zip
+README.txt
+_toun_diag.php
+diag_*.php
+~$*
+**/*-1.php
+à propos.php

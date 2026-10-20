@@ -1,0 +1,52 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "${APP_PORT:-8080}:80"
+    environment:
+      TZ: ${TZ:-Africa/Abidjan}
+      SITE_URL: ${SITE_URL:-}
+      DB_HOST: db
+      DB_NAME: ${DB_NAME:-bd_toun}
+      DB_USER: ${DB_USER:-toun}
+      DB_PASSWORD: ${DB_PASSWORD:?Renseignez DB_PASSWORD dans .env}
+      PAIEMENT_FOURNISSEUR: ${PAIEMENT_FOURNISSEUR:-jeko}
+      JEKO_CLE: ${JEKO_CLE:-}
+      JEKO_CLE_ID: ${JEKO_CLE_ID:-}
+      JEKO_BOUTIQUE: ${JEKO_BOUTIQUE:-}
+      FEDAPAY_CLE_SECRETE: ${FEDAPAY_CLE_SECRETE:-}
+      FEDAPAY_MODE: ${FEDAPAY_MODE:-sandbox}
+      CINETPAY_APIKEY: ${CINETPAY_APIKEY:-}
+      CINETPAY_SITE_ID: ${CINETPAY_SITE_ID:-}
+      PAIEMENT_SIMULATION: ${PAIEMENT_SIMULATION:-false}
+    volumes:
+      - uploads:/var/www/html/uploads
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    environment:
+      TZ: ${TZ:-Africa/Abidjan}
+      MYSQL_DATABASE: ${DB_NAME:-bd_toun}
+      MYSQL_USER: ${DB_USER:-toun}
+      MYSQL_PASSWORD: ${DB_PASSWORD:?Renseignez DB_PASSWORD dans .env}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:?Renseignez DB_ROOT_PASSWORD dans .env}
+    volumes:
+      - db_data:/var/lib/mysql
+      # Le dump bd_toun.sql placé ici est importé au tout premier démarrage
+      - ./docker/initdb:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -u root -p\"$$MYSQL_ROOT_PASSWORD\" --silent"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 30s
+
+volumes:
+  uploads:
+  db_data:
