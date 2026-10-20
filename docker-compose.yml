@@ -4,6 +4,9 @@ services:
     restart: unless-stopped
     ports:
       - "${APP_PORT:-8080}:80"
+    labels:
+      tsdproxy.enable: "true"
+      tsdproxy.ephemeral: "false"
     environment:
       TZ: ${TZ:-Africa/Abidjan}
       SITE_URL: ${SITE_URL:-}
