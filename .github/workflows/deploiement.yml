@@ -1,0 +1,33 @@
+name: Déploiement
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploiement
+  cancel-in-progress: false
+
+jobs:
+  deploiement:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mettre à jour le site sur le serveur
+        env:
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH || '~/toun' }}
+        run: |
+          if [ -z "$SSH_HOST" ]; then
+            echo "::warning::Secrets SSH non configurés : déploiement ignoré (voir DEPLOIEMENT.md)."
+            exit 0
+          fi
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_deploiement
+          chmod 600 ~/.ssh/id_deploiement
+          ssh -i ~/.ssh/id_deploiement -p "$SSH_PORT" -o StrictHostKeyChecking=accept-new \
+            "$SSH_USER@$SSH_HOST" \
+            "cd $DEPLOY_PATH && git pull --ff-only && docker compose up -d --build && docker image prune -f"

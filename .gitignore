@@ -2,6 +2,7 @@
 config/paiement_cles.php
 config/serveur.php
 .env
+toun_deploiement*
 
 # Fichiers trop lourds pour GitHub
 *.psd
