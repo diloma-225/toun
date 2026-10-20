@@ -1,0 +1,620 @@
+{
+  "cle": "strat",
+  "anciens_titres": [
+    "Comprendre la stratégie",
+    "Manager une équipe",
+    "Piloter la performance"
+  ],
+  "titre_quiz": "Évaluation finale : Stratégie management",
+  "description_quiz": "Cette évaluation vérifie votre maîtrise du diagnostic et des choix stratégiques, du rôle stratégique de la fonction RH, de ses nouveaux enjeux et de la communication d’entreprise. La note minimale requise est de 10/20.",
+  "modules": [
+    {
+      "titre": "La stratégie d’entreprise : diagnostic et choix stratégiques",
+      "description": "Comprendre ce qu’est une stratégie, conduire un diagnostic interne et externe, construire une matrice SWOT et justifier un choix stratégique.",
+      "duree": "85",
+      "lecons": [
+        {
+          "titre": "Stratégie et management stratégique : les notions de base",
+          "type": "texte",
+          "texte": "La notion de stratégie est ancienne. Plus de cinq siècles avant notre ère, le penseur chinois Sun Tzu (Souen-tseu), auteur de L’Art de la guerre, la présentait déjà comme l’art d’élaborer ses manœuvres par l’analyse et le calcul avant le début des combats. Transposée à l’entreprise, la stratégie désigne l’ensemble des choix de long terme qui fixent les objectifs de l’organisation et les moyens qu’elle mobilise pour les atteindre dans un environnement concurrentiel.\n\nOn peut retenir la définition suivante : la stratégie regroupe les moyens auxquels une entreprise a recours pour utiliser au mieux sa structure, ses compétences, ses processus et ses ressources, afin de tirer profit des opportunités de son environnement tout en limitant l’impact des contraintes externes qui pourraient compromettre ses objectifs.\n\nTrois caractéristiques distinguent une décision stratégique d’une décision courante :\n• elle engage l’entreprise sur le moyen ou le long terme (trois à cinq ans en général) ;\n• elle mobilise des ressources importantes et difficilement réversibles ;\n• elle concerne la position de l’entreprise face à ses marchés et à ses concurrents.\n\nOn distingue habituellement trois niveaux de décision :\n• les décisions stratégiques, prises par la direction générale, qui définissent les métiers et les grandes orientations ;\n• les décisions tactiques, qui traduisent la stratégie en objectifs par fonction (production, commercial, ressources humaines, finance) ;\n• les décisions opérationnelles, qui organisent l’activité au quotidien.\n\nLe management stratégique est la démarche qui permet de passer de l’intention à l’action. Il se déroule en quatre temps :\n• la définition de la finalité : vocation, métier et objectifs de l’entreprise ;\n• le diagnostic stratégique, externe (environnement) et interne (ressources et compétences) ;\n• le choix d’une stratégie parmi plusieurs options possibles ;\n• la mise en œuvre et le contrôle, avec des plans d’action, une organisation adaptée et des indicateurs de suivi.\n\nCette démarche n’est pas figée : lorsque l’environnement évolue, l’entreprise doit réajuster sa stratégie. C’est pourquoi le management stratégique est aujourd’hui compris comme une gestion du changement plus que comme la simple administration des opérations courantes. Les ressources humaines y occupent une place centrale, puisque ce sont les compétences et l’engagement des collaborateurs qui rendent la stratégie réalisable.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Le diagnostic externe : analyser l’environnement",
+          "type": "texte",
+          "texte": "Le diagnostic externe a pour objet d’identifier les opportunités et les menaces que l’environnement présente pour l’entreprise. Il s’intéresse à ce que l’entreprise ne contrôle pas, mais dont elle doit tenir compte. On distingue deux niveaux d’analyse : le macro-environnement et l’environnement concurrentiel.\n\nLe macro-environnement s’analyse souvent à l’aide de la grille PESTEL, qui regroupe six familles de facteurs :\n• Politiques : stabilité des institutions, politiques publiques, fiscalité, accords régionaux (UEMOA, CEDEAO, ZLECAf) ;\n• Économiques : croissance, inflation, taux d’intérêt, pouvoir d’achat, accès au crédit ;\n• Socioculturels : démographie, urbanisation, habitudes de consommation, niveau de formation ;\n• Technologiques : innovations, diffusion du mobile money et du numérique, équipements disponibles ;\n• Écologiques : réglementation environnementale, gestion des déchets, attentes en matière de développement durable ;\n• Légaux : droit du travail, Actes uniformes de l’OHADA, normes sectorielles.\n\nL’environnement concurrentiel se lit avec le modèle des cinq forces de Michael Porter. L’intensité de la concurrence et la rentabilité d’un secteur dépendent :\n• de la rivalité entre les concurrents existants ;\n• de la menace de nouveaux entrants ;\n• de la menace de produits de substitution ;\n• du pouvoir de négociation des fournisseurs ;\n• du pouvoir de négociation des clients.\n\nPlus ces forces sont fortes, moins le secteur est attractif. Certains auteurs ajoutent une sixième force, le rôle de l’État, particulièrement important dans les économies où la puissance publique fixe des prix, accorde des agréments ou investit directement.\n\nLe diagnostic externe permet aussi de dégager les facteurs clés de succès du secteur, c’est-à-dire les éléments qu’il faut maîtriser pour réussir : qualité, prix, réseau de distribution, image de marque, délais. L’analyse passe par quelques questions simples : qu’attendent les clients ? que recherchent-ils ? achètent-ils d’abord un prix ? qui sont les principaux concurrents et comment réussissent-ils ?\n\nExemple : pour une entreprise ivoirienne de distribution de produits laitiers, la hausse des prix des matières premières importées constitue une menace, tandis que la croissance de la population urbaine d’Abidjan et le développement du paiement mobile constituent des opportunités.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Le diagnostic interne : ressources, compétences et facteurs clés de succès",
+          "type": "texte",
+          "texte": "Le diagnostic interne recense les forces et les faiblesses de l’entreprise. Il porte sur ce qu’elle maîtrise : ses ressources, ses compétences et son organisation. Son but est de vérifier si l’entreprise est capable de saisir les opportunités repérées et de résister aux menaces.\n\nL’analyse examine successivement plusieurs domaines :\n• les ressources financières : rentabilité, capacité d’autofinancement, endettement, trésorerie ;\n• les ressources techniques : outil de production, technologies, capacité, qualité ;\n• les ressources commerciales : part de marché, notoriété, réseau de distribution, portefeuille de clients ;\n• les ressources humaines : effectifs, pyramide des âges, qualifications, compétences clés, climat social, taux de rotation du personnel ;\n• l’organisation et le management : structure, circulation de l’information, culture d’entreprise, système d’information.\n\nLa chaîne de valeur proposée par Michael Porter est un outil utile pour mener cette analyse. Elle décompose l’entreprise en activités principales (logistique d’approvisionnement, production, logistique de distribution, commercialisation, services après-vente) et en activités de soutien (infrastructure, gestion des ressources humaines, développement technologique, achats). Pour chaque activité, on se demande si elle crée de la valeur pour le client et si elle est mieux ou moins bien maîtrisée que chez les concurrents.\n\nOn s’attache ensuite à identifier les compétences distinctives, c’est-à-dire les savoir-faire que l’entreprise maîtrise mieux que ses concurrents. Une ressource procure un avantage concurrentiel durable lorsqu’elle crée de la valeur, qu’elle est rare et qu’elle est difficile à imiter ou à transférer. Les compétences collectives et les routines construites au fil du temps par les équipes répondent souvent à ces critères : c’est pourquoi le capital humain est une source majeure d’avantage concurrentiel.\n\nLe diagnostic interne se conclut en confrontant les forces et faiblesses de l’entreprise aux facteurs clés de succès du secteur. Une force n’a de valeur stratégique que si elle correspond à ce que le marché attend. Par exemple, disposer d’un personnel très qualifié est une force décisive pour un cabinet de conseil, mais elle ne suffit pas si le facteur clé de succès du marché visé est avant tout le prix.\n\nLes informations nécessaires proviennent des états financiers, des tableaux de bord, du bilan social, des enquêtes auprès des clients et du personnel, et des entretiens avec les responsables.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Cas pratique : construire la matrice SWOT d’une PME ivoirienne",
+          "type": "texte",
+          "texte": "La matrice SWOT (en français MOFF : menaces, opportunités, forces, faiblesses) réunit dans un même tableau les conclusions des diagnostics interne et externe. Elle se présente en quatre cases :\n• Forces (Strengths) : atouts internes de l’entreprise ;\n• Faiblesses (Weaknesses) : points faibles internes ;\n• Opportunités (Opportunities) : évolutions favorables de l’environnement ;\n• Menaces (Threats) : évolutions défavorables de l’environnement.\n\nCas : la société Akwaba Cajou, PME de Bouaké, transforme la noix de cajou. Elle emploie 45 salariés et réalise un chiffre d’affaires de 850 millions de FCFA, dont 70 % à l’exportation d’amandes en vrac.\n\nDiagnostic interne :\n• Forces : proximité des zones de production, savoir-faire reconnu des équipes de décorticage, certification qualité obtenue récemment ;\n• Faiblesses : machines anciennes à l’origine de 12 % de pertes, dépendance à deux clients étrangers, absence de marque propre, encadrement intermédiaire peu formé.\n\nDiagnostic externe :\n• Opportunités : politique publique de soutien à la transformation locale du cajou, demande croissante des supermarchés d’Abidjan pour des produits conditionnés, accès au marché régional ouvert par la ZLECAf ;\n• Menaces : volatilité des cours internationaux, arrivée de concurrents asiatiques installés dans la zone, coût élevé de l’énergie.\n\nLecture de la matrice. La SWOT n’a d’intérêt que si l’on en tire des orientations. On croise donc les cases deux à deux :\n• Forces × Opportunités : s’appuyer sur la certification et le savoir-faire pour lancer une gamme d’amandes grillées conditionnées sous marque propre, destinée au marché national ;\n• Faiblesses × Opportunités : solliciter les dispositifs publics de financement pour moderniser les machines ;\n• Forces × Menaces : utiliser la proximité des producteurs pour sécuriser l’approvisionnement par des contrats avec les coopératives ;\n• Faiblesses × Menaces : réduire la dépendance à deux clients en diversifiant les débouchés.\n\nCalcul simple de l’enjeu de la modernisation. Si l’entreprise traite 1 500 tonnes de noix par an et que les pertes passent de 12 % à 5 %, le gain est de :\nGain = 1 500 × (12 % − 5 %) = 105 tonnes\n\nCet exemple montre qu’une SWOT bien construite reste factuelle, chiffrée lorsque c’est possible, et débouche sur des choix. Elle révèle aussi la dimension humaine de la stratégie : la nouvelle gamme et les nouvelles machines exigeront de former l’encadrement et les opérateurs, ce qui relève de la gestion stratégique des ressources humaines.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Les choix stratégiques et leur mise en œuvre",
+          "type": "texte",
+          "texte": "À partir du diagnostic, l’entreprise choisit sa stratégie. Ce choix se fait à deux niveaux : la manière de concurrencer sur un domaine d’activité, puis l’évolution du portefeuille d’activités.\n\nLes stratégies concurrentielles définies par Michael Porter sont au nombre de trois :\n• la domination par les coûts : produire moins cher que les concurrents grâce aux volumes, à la standardisation et à la maîtrise des charges ;\n• la différenciation : proposer une offre perçue comme unique (qualité, service, image, innovation) pour laquelle le client accepte de payer plus ;\n• la focalisation (ou concentration) : se spécialiser sur un segment étroit de clientèle ou une zone géographique, en appliquant une logique de coût ou de différenciation.\n\nLes stratégies de développement concernent l’évolution des activités :\n• la spécialisation : se concentrer sur un seul métier pour en devenir un acteur de référence ;\n• la diversification : entrer dans de nouveaux métiers, liés ou non au métier d’origine ;\n• l’intégration : prendre en charge des activités situées en amont (approvisionnement) ou en aval (distribution) ;\n• l’internationalisation : se développer sur des marchés étrangers.\n\nCes stratégies se réalisent par croissance interne (investissements propres, embauches), par croissance externe (acquisitions, fusions) ou par alliances et partenariats. La croissance externe est rapide, mais elle comporte un risque humain : des fusions mal préparées peuvent vider l’entreprise de sa mémoire et de ses talents. La croissance interne, plus lente, s’appuie sur le développement des compétences du personnel.\n\nUn bon choix stratégique doit satisfaire trois critères :\n• la pertinence : il répond au diagnostic ;\n• la faisabilité : l’entreprise dispose ou peut acquérir les ressources nécessaires, notamment les compétences ;\n• l’acceptabilité : il est compatible avec les attentes des dirigeants, des actionnaires et du personnel.\n\nLa mise en œuvre traduit la stratégie en actions concrètes :\n• adapter la structure et répartir les responsabilités ;\n• allouer les budgets et les ressources ;\n• décliner les objectifs par direction, par service puis par collaborateur ;\n• adapter la politique de ressources humaines (recrutement, formation, mobilité, rémunération) ;\n• communiquer la stratégie en interne pour obtenir l’adhésion des équipes ;\n• suivre les résultats à l’aide d’un tableau de bord et corriger les écarts.\n\nUne stratégie qui n’est ni comprise ni portée par les collaborateurs reste lettre morte. C’est la raison pour laquelle la fonction ressources humaines et la communication d’entreprise sont des leviers essentiels de sa réussite, comme le montrent les modules suivants.",
+          "fichier": "",
+          "duree": "20 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Quel ouvrage de Sun Tzu présente déjà la stratégie comme l’art d’élaborer ses manœuvres avant le début des combats ?",
+          "reponses": [
+            "Le Prince",
+            "L’Art de la guerre",
+            "De la guerre",
+            "La Richesse des nations"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Dans la grille PESTEL, à quelle famille de facteurs appartiennent les Actes uniformes de l’OHADA ?",
+          "reponses": [
+            "Politiques",
+            "Économiques",
+            "Technologiques",
+            "Légaux"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Dans la chaîne de valeur de Porter, laquelle de ces activités est une activité de soutien ?",
+          "reponses": [
+            "Les achats",
+            "La production",
+            "La commercialisation",
+            "Les services après-vente"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "À quelles conditions une ressource procure-t-elle un avantage concurrentiel durable ?",
+          "reponses": [
+            "Elle est abondante et peu coûteuse",
+            "Elle est achetée récemment sur le marché",
+            "Elle crée de la valeur, est rare et difficile à imiter",
+            "Elle est facile à transférer à un partenaire"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Quel critère d’un bon choix stratégique vérifie que l’entreprise dispose ou peut acquérir les ressources nécessaires ?",
+          "reponses": [
+            "La pertinence",
+            "La faisabilité",
+            "L’acceptabilité",
+            "La rentabilité immédiate"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "De la gestion du personnel à la fonction RH stratégique",
+      "description": "Retracer l’évolution de la fonction personnel vers la gestion des ressources humaines et expliquer la dimension politique de la fonction RH.",
+      "duree": "60",
+      "lecons": [
+        {
+          "titre": "Historique de la fonction gestion du personnel",
+          "type": "texte",
+          "texte": "La fonction gestion du personnel est née pour répondre à des problèmes quantitatifs par des solutions elles aussi quantitatives : disposer du nombre de travailleurs nécessaires à la production et les faire travailler davantage. Son histoire se lit à travers trois grandes périodes.\n\nDes années 1880 à la Première Guerre mondiale, l’employeur cherche à accroître l’intensité du travail principalement par des stimulants financiers, comme les primes. On parle de « stimulation sans organisation » : la fonction personnel reste embryonnaire et marginale.\n\nEntre les deux guerres, la rationalisation du travail, inspirée de Taylor, s’impose avec un objectif majeur : éviter les gaspillages. La fonction personnel devient progressivement autonome. Elle est chargée de réguler la main-d’œuvre nécessaire à la production. À partir des années 1950, elle prend les traits de la modernité de l’époque : centralisation, uniformisation et harmonisation des règles.\n\nDe la reconstruction d’après-guerre aux années 1970, le modèle fordien se généralise. Il associe production de masse et consommation de masse. Dans le même temps, le courant des relations humaines montre que le « facteur humain » influe sur la productivité. La rencontre de ce courant avec le fordisme, fondé sur la bureaucratie et la rationalisation, favorise l’essor de la fonction personnel, qui connaît alors son intégration économique et statutaire.\n\nAu terme de cette évolution, la fonction présente des caractéristiques bien marquées :\n• un caractère administratif fort, fondé sur la division du travail, la spécification des fonctions et des règles impersonnelles ;\n• une gestion centralisée et rationalisée ;\n• un traitement bureaucratique, avec l’illusion qu’un ensemble humain se commande par les structures ;\n• un caractère subordonné aux autres fonctions : le personnel est vu comme une contrainte et un coût à minimiser, dont on attend surtout l’exécution des ordres ;\n• une fonction séparée, chaque service poursuivant ses propres objectifs ;\n• une professionnalisation progressive, avec un corps de spécialistes et une doctrine.\n\nLe responsable du personnel agit alors surtout dans un registre technique : gérer, contrôler, surveiller, négocier, récompenser. Sa mission est d’assurer le bon fonctionnement interne de l’entreprise, dans une logique défensive. Son rôle est limité à l’assistance de la direction et à la défense des prérogatives managériales.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Du salarié variable d’ajustement à la ressource stratégique",
+          "type": "texte",
+          "texte": "Malgré les apports des théories de la motivation et de l’approche sociotechnique, l’entreprise taylorienne et fordienne s’intéresse davantage aux conditions de travail qu’à la motivation des salariés. Ceux-ci restent considérés comme une force coûteuse et indocile, une variable d’ajustement que l’on réduit ou augmente selon l’activité.\n\nCe modèle atteint ses limites lorsque l’environnement change. Les exigences des clients augmentent, les facteurs hors prix (qualité, délais, service, innovation) deviennent décisifs et les solutions organisationnelles classiques ne suffisent plus. L’engagement et l’intelligence des personnes deviennent alors des facteurs de réussite.\n\nL’entreprise ne peut plus organiser, prévoir et commander comme auparavant. L’organisation doit devenir plus ouverte, plus souple et plus tolérante. Il ne s’agit plus seulement de diviser, de répartir et de coordonner le travail, mais de mobiliser, d’inciter et de responsabiliser des personnes plus autonomes.\n\nC’est le passage progressif de la notion de productivité à celle de compétitivité qui a déplacé la question des ressources humaines. Elle quitte le registre de l’organisation du travail pour entrer dans celui de la stratégie de l’entreprise. L’organisation statique, faite d’organigrammes, de descriptions de postes et de relations faibles entre opérationnels et fonctionnels, laisse place à une organisation dynamique dans laquelle la ressource humaine devient la ressource fondamentale.\n\nPlusieurs évolutions traduisent cette reconnaissance du capital humain :\n• la formation professionnelle continue est de plus en plus considérée comme un investissement stratégique et non comme une simple dépense ;\n• la gestion prévisionnelle des effectifs (GPE), centrée sur les nombres, cède la place à la gestion prévisionnelle des emplois et des compétences (GPEC), centrée sur les savoir-faire ;\n• la ressource humaine est reconnue comme rare, structurante et organisationnelle.\n\nIl faut retenir l’opposition entre deux conceptions :\n• dans la gestion du personnel, le salarié est un coût à minimiser et un exécutant ;\n• dans la gestion des ressources humaines, il est une ressource à développer et un acteur de la compétitivité.\n\nCette nouvelle logique explique pourquoi la direction des ressources humaines est aujourd’hui associée à la définition de la stratégie et non plus seulement à l’application des décisions prises par d’autres.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "La dimension politique de la fonction RH",
+          "type": "texte",
+          "texte": "L’articulation entre la GPEC et la formation fait de la fonction RH un indicateur et un moteur du changement. Or toute stratégie de changement repose sur une volonté politique de la direction. D’où l’idée d’une dimension politique de la fonction RH.\n\nEst politique, selon la définition retenue par le cours, tout ce qui met en cause l’existence d’un ensemble humain à travers des rapports de commandement et d’obéissance organisés en vue du bien commun. Cette définition recouvre trois réalités :\n• la politique concerne l’ensemble, la totalité de l’organisation ;\n• elle repose sur une relation de commandement et d’obéissance, qui soumet les personnes à des règles et à des valeurs ;\n• elle poursuit le bien commun, synthèse des intérêts des différents groupes qui composent l’ensemble.\n\nAppliquée à l’entreprise, la notion de politique désigne ce qui permet à des groupes différents de coexister et de coopérer, en assumant à la fois leur collaboration et leurs conflits. Les relations de pouvoir y sont complexes et hétérogènes : les acteurs, les intérêts, les aspirations, les finalités, les compétences et les qualifications diffèrent.\n\nLa relation entre l’entreprise et le salarié ne se réduit plus à un échange simple où l’entreprise apporte sécurité et égalité, et le salarié fidélité et coopération. Il existe une dépendance réciproque : chacune des deux parties a besoin de l’autre pour satisfaire ses propres besoins. C’est là que se situe la dimension politique de la fonction RH, entendue comme instance d’homogénéisation, de régulation et de conscience.\n\nCette vision conduit à repenser le salarié. La gestion classique adoptait une vision pessimiste : le salarié devait être protégé contre lui-même et la hiérarchie pensait à sa place. La fonction RH politique considère au contraire un salarié qui veut évoluer et qui peut contribuer.\n\nElle permet aussi de dépasser l’antagonisme traditionnel entre l’entreprise et le salarié. La fonction personnel classique voyait dans le salarié la diversité, l’imprévisibilité et la discontinuité, tandis que l’entreprise recherchait l’unité, la soumission et la continuité. La dimension politique veut sortir de cette vision conflictuelle : les démarches de gestion prévisionnelle cherchent à rassembler les parties autour d’une vision commune et solidaire de leurs intérêts respectifs.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les utilités d’une gestion politique de l’emploi",
+          "type": "texte",
+          "texte": "La gestion politique de l’emploi présente des avantages pour les deux parties de la relation de travail.\n\nPour le salarié, l’articulation entre la GPEC et la formation continue l’aide à se situer face au pouvoir en évitant deux attitudes extrêmes : le refus systématique et la soumission inconditionnelle. Elle écarte également deux postures :\n• la posture autonome, dans laquelle le salarié pense et agit uniquement pour lui-même, en fonction de ses seuls besoins ;\n• la posture « exécutionniste », dans laquelle il ne se perçoit plus comme l’auteur de ses actes, mais comme le simple agent qui exécute la volonté d’un autre.\n\nLe contrat d’emploi reconnaît la nécessité de l’obéissance. Mais cette obéissance est mieux acceptée lorsque le salarié a la possibilité de participer : participation aux évaluations, aux ajustements par les formations proposées, aux décisions d’affectation.\n\nPour l’entreprise, la gestion politique de l’emploi permet de dépasser la logique du rapport de force. Elle aide à comprendre la nature des conflits et des ambivalences, et à les résoudre non plus par des outils d’inspiration taylorienne, mais par la discussion et l’écoute. Elle met en avant l’engagement et la responsabilité partagée.\n\nExemple d’application : une entreprise de distribution d’Abidjan doit réorganiser ses entrepôts après l’introduction d’un logiciel de gestion des stocks. Une approche classique imposerait les nouvelles affectations par note de service. Une approche politique associe les magasiniers à l’évaluation de leurs compétences, leur propose des formations ciblées et discute avec eux des nouveaux postes. Les tensions diminuent et l’appropriation du nouvel outil est plus rapide.\n\nLa fonction RH devient ainsi un acteur majeur du changement. Ce changement suppose une volonté politique de la direction générale et implique :\n• de nouveaux rapports entre l’entreprise et ses salariés ;\n• une nouvelle responsabilité des salariés ;\n• un sentiment d’appartenance à l’entreprise et une meilleure compréhension par chacun de son rôle.\n\nCe module montre que la fonction RH a changé de nature : d’une fonction administrative et subordonnée, elle est devenue une fonction de régulation et de pilotage du changement. Le module suivant précise les outils qui lui permettent de jouer ce rôle stratégique : la prospective, la GPEC et les techniques de gestion stratégique des ressources humaines.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Support de cours : Évolution et dimension politique de la fonction RH",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "strategie-management-module-2.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Des années 1880 à la Première Guerre mondiale, par quel moyen l’employeur cherche-t-il surtout à accroître l’intensité du travail ?",
+          "reponses": [
+            "Des stimulants financiers comme les primes",
+            "La formation professionnelle continue",
+            "La participation aux décisions",
+            "La gestion prévisionnelle des compétences"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Quel est l’objectif majeur de la rationalisation du travail inspirée de Taylor entre les deux guerres ?",
+          "reponses": [
+            "Développer la motivation des salariés",
+            "Éviter les gaspillages",
+            "Favoriser le dialogue social",
+            "Individualiser les rémunérations"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Sur quoi est centrée la GPEC, qui remplace progressivement la gestion prévisionnelle des effectifs ?",
+          "reponses": [
+            "Sur le nombre de salariés",
+            "Sur la réduction des coûts salariaux",
+            "Sur les savoir-faire et les compétences",
+            "Sur le contrôle des horaires"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Dans la gestion des ressources humaines, comment la formation professionnelle continue est-elle de plus en plus considérée ?",
+          "reponses": [
+            "Comme une simple dépense",
+            "Comme une obligation sans effet",
+            "Comme une récompense individuelle",
+            "Comme un investissement stratégique"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Dans la gestion politique de l’emploi, que désigne la posture autonome du salarié ?",
+          "reponses": [
+            "Il exécute la volonté d’un autre",
+            "Il pense et agit uniquement pour ses propres besoins",
+            "Il refuse systématiquement toute autorité",
+            "Il participe aux décisions d’affectation"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "Prospective, GPEC et gestion stratégique des ressources humaines",
+      "description": "Utiliser la prospective et la GPEC pour aligner les ressources humaines sur la stratégie, et distinguer gestion opérationnelle et gestion stratégique du personnel.",
+      "duree": "70",
+      "lecons": [
+        {
+          "titre": "La prospective au service de la décision",
+          "type": "texte",
+          "texte": "La prospective est un regard sur l’avenir destiné à éclairer l’action présente. Michel Godet la définit comme un système destiné à éclairer les conséquences des stratégies d’action envisageables. Pour Bernard Cazes, elle consiste à rassembler des éléments d’appréciation, chiffrés ou non, sur l’avenir, afin de prendre des décisions grâce auxquelles cet avenir sera plus conforme à nos préférences.\n\nFace à l’incertitude, une entreprise peut adopter trois attitudes :\n• une attitude passive, celle de « l’autruche », qui consiste à subir le changement ;\n• une attitude réactive, qui consiste à attendre le changement pour y répondre ;\n• une attitude prospective, à la fois anticipatrice et proactive.\n\nL’anticipation consiste à se préparer à un changement à venir. La proactivité consiste à agir pour provoquer un changement souhaitable. Les deux se complètent.\n\nLa prospective présente plusieurs intérêts :\n• elle structure la réflexion et la transforme en action efficace, en attirant l’attention sur les faits les plus significatifs plutôt que sur l’accessoire et l’immédiat ;\n• elle considère l’avenir comme un domaine de liberté : elle augmente les marges de manœuvre, car son but n’est pas de prédire l’avenir mais d’aider à le construire (Hugues de Jouvenel) ;\n• elle considère l’avenir comme un domaine de volonté : « il n’y a pas de vent favorable pour celui qui ne sait pas où il va » (Sénèque). Sans finalités, le présent perd son sens.\n\nL’entreprise doit donc développer non seulement des capacités d’adaptation, mais aussi l’aptitude à provoquer le changement et à l’anticiper. Elle ne doit pas être seulement un « réacteur au changement », mais un « acteur du changement ».\n\nAppliquée aux ressources humaines, la prospective conduit à se demander quels métiers, quelles compétences et quels effectifs seront nécessaires dans trois à cinq ans. Plusieurs phénomènes rendent cette réflexion indispensable :\n• le monde économique est en mutation constante et les technologies évoluent très vite ;\n• de nouveaux métiers apparaissent, tandis que le travail de certains employés de bureau est transformé, voire supprimé ;\n• le personnel de tous niveaux cherche à s’adapter en suivant des formations, pas toujours choisies de manière cohérente.\n\nCes constats posent deux questions : l’adaptation des personnes est-elle coordonnée dans l’entreprise ? S’inscrit-elle dans un plan qui correspond aux besoins de l’avenir le plus probable ? La GPEC est l’outil qui permet d’y répondre.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "La DRH partenaire de la stratégie : le modèle de Dave Ulrich",
+          "type": "texte",
+          "texte": "L’enjeu actuel de la gestion des ressources humaines peut se résumer en une question : comment contribuer davantage à la création de valeur et à la performance de l’entreprise ? L’Américain Dave Ulrich a proposé une réponse pragmatique en divisant le travail de la DRH en quatre missions :\n• une mission de partenaire stratégique, qui accompagne le développement de l’activité ;\n• une mission d’agent du changement ;\n• un rôle de facilitateur centré sur l’individu, de son recrutement à sa formation ;\n• un rôle d’expert administratif (paie, régimes de prévoyance).\n\nCe schéma met en évidence quatre problématiques.\n\nDévelopper la motivation des salariés. Le salarié est considéré comme un client interne dont la satisfaction conditionne la réussite de l’entreprise. Il faut connaître ses attentes, résumées par les « 5E » : équité, employabilité, épanouissement, écoute et éthique.\n\nAdministrer efficacement. La gestion administrative du personnel doit être exemplaire en productivité. Le système d’information RH (SIRH) et l’intranet ont permis d’automatiser de nombreuses tâches et de faire participer le salarié à sa propre gestion. Pourtant, le DRH consacre encore plus de la moitié de son temps à l’administration ; les technologies doivent lui permettre de se consacrer davantage au changement et à la stratégie.\n\nMettre en œuvre la stratégie. Pour être un partenaire stratégique, le DRH participe à la définition de la stratégie et veille à ce que la stratégie RH soutienne celle de l’entreprise. Il évalue en amont les conséquences humaines de chaque scénario et dissuade la direction de choix de court terme qui détruiraient de la valeur à moyen et long terme.\n\nFavoriser le changement. La DRH encourage les comportements nouveaux, développe une culture de transformation et pratique une veille sociale pour repérer les organisations et procédés qui améliorent la performance.\n\nLa définition qui relie le mieux stratégie et GRH rappelle que l’entreprise doit utiliser au mieux sa structure, ses compétences, ses processus et ses ressources pour saisir les opportunités de son environnement et réduire l’effet des contraintes. Concrètement, la première étape d’une stratégie RH consiste à la mettre en parallèle avec les priorités de l’entreprise, puis à combler les écarts entre la situation actuelle et la situation désirée.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "La GPEC et l’impact des pratiques RH sur la performance",
+          "type": "texte",
+          "texte": "La gestion prévisionnelle des emplois et des compétences (GPEC) est un ensemble de techniques qui vise deux buts principaux :\n• donner un fondement solide à la politique du personnel et aider à la préciser ;\n• ordonner les actions de court terme (recrutement, formation, mutation, promotion) en fonction des objectifs et des contraintes de l’entreprise définis à moyen ou long terme.\n\nAutrement dit, la GPEC cherche à maintenir en permanence l’harmonie entre les personnes de l’entreprise, compte tenu de leur évolution, et les exigences des postes de travail, compte tenu de leur propre évolution.\n\nLe lien entre les pratiques RH (acquisition, rétribution, développement, animation, négociation) et la performance de l’organisation est analysé selon trois approches.\n\nL’approche universaliste recherche les « meilleures pratiques » (best practices), supposées efficaces dans toutes les organisations. Elle repose sur l’idée que l’effet des pratiques est universel, mesurable dans la performance financière et additif lorsque plusieurs pratiques sont utilisées ensemble.\n\nL’approche contingente considère que les pratiques doivent s’adapter à la stratégie et au contexte de l’organisation. Les facteurs de contingence sont :\n• organisationnels : taille, structure ;\n• humains : âge, diversité, compétences ;\n• opérationnels : cycle de vie des produits et services, systèmes d’information et de contrôle.\n\nL’approche configurationnelle (D. Miller, 1986) étudie l’effet des combinaisons de pratiques. L’efficacité naît de la cohérence entre les pratiques RH elles-mêmes (complémentarité interne ou horizontale) et entre ces pratiques et la stratégie (complémentarité externe ou verticale).\n\nLes orientations stratégiques influencent ces pratiques. Une stratégie de croissance s’appuie sur les acquisitions, l’emploi ou la mise à disposition de personnel, avec le risque, en cas de méga-fusions, de créer une organisation « creuse » démotivée. Une stratégie d’adaptation arbitre entre réduction ou augmentation des effectifs, centralisation ou décentralisation, uniformisation ou individualisation des pratiques. Une stratégie de perfection s’appuie sur la qualité (zéro défaut) et sur des indicateurs économiques, sociaux (rotation du personnel, climat social) et financiers.\n\nEnfin, les pratiques RH ne réussissent que si elles sont institutionnalisées. Cela suppose deux conditions :\n• l’implémentation : les pratiques sont réellement adoptées et utilisées avec intensité ;\n• l’internalisation : elles sont intégrées au système de valeurs des salariés, parce qu’elles sont source de satisfaction, de motivation ou d’appropriation.\n\nLes effets d’une politique RH prennent du temps : selon L. Dyer, la conception et la mise en œuvre d’une politique de GRH demandent entre 9 et 21 mois.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Gestion opérationnelle et gestion stratégique du personnel",
+          "type": "texte",
+          "texte": "La gestion opérationnelle du personnel regroupe les missions courantes de la fonction RH, chacune avec ses activités et ses outils :\n• assurer l’acquisition des ressources humaines : recruter à l’aide de l’analyse des emplois, des tests, des entretiens, du contrat de travail et du manuel d’accueil ;\n• gérer les mouvements du personnel : évaluer le personnel (fiches et bilans annuels) et exécuter les décisions de mobilité ;\n• gérer les conditions d’emploi : réajuster les salaires à l’aide de la convention collective, de la grille salariale, de l’indice du coût de la vie et des enquêtes salariales ; veiller aux conditions de travail, à l’hygiène, à la sécurité et à la protection sociale ;\n• gérer la formation : évaluer les besoins, rechercher les causes des insuffisances, planifier et évaluer les actions.\n\nSelon D. Weiss, passer à une gestion stratégique n’est pas une simple différence de vocabulaire : « stratégique » signifie une riposte cohérente et flexible de l’entreprise à l’évolution de l’environnement. Les managers doivent alors se consacrer davantage à la gestion du changement qu’aux opérations courantes.\n\nLa gestion stratégique des RH prend trois formes : la gestion prévisionnelle des RH, le leadership et le développement organisationnel.\n\nLe leadership est l’aptitude du dirigeant à influencer les comportements de ses collaborateurs pour atteindre les objectifs dans le respect des « 3E » du management :\n• l’Efficacité : atteindre les objectifs ;\n• l’Efficience : tirer le meilleur parti des ressources disponibles ;\n• l’Économie : réaliser les activités au moindre coût.\n\nLe développement organisationnel est un effort planifié, global, piloté par la direction, visant à améliorer l’efficacité et la santé de l’organisation par des interventions sur ses processus, en s’appuyant sur les sciences humaines. Ses techniques les plus connues sont la direction participative par objectifs (DPO), l’analyse systématique des performances (ASP), l’analyse de la valeur et les cercles de qualité.\n\nLa gestion prévisionnelle a deux grandes missions : optimiser l’adéquation entre les ressources et les besoins de l’organisation, et réduire l’inadéquation entre les attentes du personnel et les réponses de l’organisation, en prévenant, traitant ou transformant les risques en opportunités.\n\nEn pratique, huit techniques jouent un rôle clé :\n• l’analyse des emplois, base du recrutement, de l’évaluation et de la formation ;\n• l’évaluation des postes, base objective des salaires et de la répartition des tâches ;\n• le plan de carrière, pour préparer les potentiels et retenir les meilleurs ;\n• l’adéquation homme/poste, pour repérer les écarts de performance ;\n• la culture d’organisation efficace, source d’identité et de solidarité ;\n• le leadership ;\n• le développement organisationnel ;\n• la formation, pour s’adapter au poste actuel et préparer les postes futurs.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Support de cours : Prospective et gestion stratégique des RH",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "strategie-management-module-3.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Face à l’incertitude, comment qualifie-t-on l’attitude passive qui consiste à subir le changement ?",
+          "reponses": [
+            "L’attitude de « l’autruche »",
+            "L’attitude réactive",
+            "L’attitude proactive",
+            "L’attitude anticipatrice"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Dans le modèle de Dave Ulrich, que recouvre le rôle d’expert administratif ?",
+          "reponses": [
+            "La définition de la stratégie",
+            "La veille sociale",
+            "La paie et les régimes de prévoyance",
+            "Le recrutement et la formation"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Que recherche l’approche universaliste du lien entre pratiques RH et performance ?",
+          "reponses": [
+            "Des pratiques adaptées à la taille de l’entreprise",
+            "Des « meilleures pratiques » efficaces partout",
+            "Des combinaisons cohérentes de pratiques",
+            "Des pratiques propres à chaque salarié"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Dans l’approche configurationnelle, à quoi correspond la complémentarité externe ou verticale ?",
+          "reponses": [
+            "À la cohérence entre les pratiques RH et la stratégie",
+            "À la cohérence des pratiques RH entre elles",
+            "À l’adaptation des pratiques à l’âge du personnel",
+            "À l’addition des effets de plusieurs pratiques"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Selon L. Dyer, combien de temps demandent la conception et la mise en œuvre d’une politique de GRH ?",
+          "reponses": [
+            "Moins de 3 mois",
+            "Entre 3 et 6 mois",
+            "Entre 9 et 21 mois",
+            "Au moins 5 ans"
+          ],
+          "bonne": 2
+        }
+      ]
+    },
+    {
+      "titre": "Les nouveaux enjeux de la gestion des ressources humaines",
+      "description": "Identifier les mutations qui transforment la GRH et les défis que le responsable RH doit concilier au quotidien.",
+      "duree": "45",
+      "lecons": [
+        {
+          "titre": "Individualisation du management et nouveaux modes de travail",
+          "type": "texte",
+          "texte": "Les objectifs de la gestion des ressources humaines évoluent avec les mutations technologiques, sociales et sociétales. Ces évolutions concernent aussi bien les grands groupes, notamment ceux qui gèrent des équipes dans plusieurs pays, que les PME.\n\nUne individualisation croissante du management RH. Dans tous les domaines de la GRH, le management des équipes et des performances s’accompagne d’un suivi de plus en plus personnalisé, au niveau de chaque collaborateur. Ce changement tient à l’évolution des mentalités et à l’arrivée de nouvelles générations, qui ne se managent pas comme les précédentes. Le besoin de reconnaissance est devenu un facteur de motivation majeur ; il suppose de prendre en compte chaque individualité.\n\nPlusieurs pratiques traduisent cette individualisation de l’offre RH :\n• les parcours de formation individualisés ;\n• le choix laissé au salarié dans certains éléments de sa rémunération ;\n• le tutorat, qui associe un salarié expérimenté à un nouvel arrivant ou à un collaborateur en évolution.\n\nDe nouveaux modes de travail. Historiquement, la GRH était pensée pour un environnement de travail clos, stable et bien délimité. L’évolution rapide de la frontière entre vie professionnelle et vie privée, ainsi que le développement du travail mobile, obligent à repenser cette conception. Trois modes de travail se développent :\n• le télétravail, qui permet d’exercer tout ou partie de son activité à distance, notamment depuis le domicile. Il est de plus en plus encadré par le droit du travail et souvent associé à une meilleure performance des collaborateurs concernés ;\n• le travail nomade, qui permet à un professionnel en déplacement de réaliser ses tâches sur un terminal numérique mobile ;\n• le coworking, qui offre à des salariés d’entreprises sans locaux propres des espaces de travail partagés avec d’autres structures. Les incubateurs reposent sur ce principe : la proximité de personnes issues d’entreprises différentes favorise un enrichissement mutuel.\n\nCes évolutions modifient le travail du responsable RH. Il doit organiser le suivi d’équipes qui ne sont plus réunies en permanence dans un même lieu, adapter les règles relatives au temps de travail et aux équipements, et préserver la cohésion et le sentiment d’appartenance. À Abidjan comme dans d’autres grandes villes, le télétravail partiel est par exemple une réponse aux temps de trajet importants, à condition d’être encadré par des règles claires et des objectifs mesurables.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Bien-être au travail, responsabilité sociale et exigence d’immédiateté",
+          "type": "texte",
+          "texte": "Bien-être au travail et responsabilité sociale de l’entreprise. La GRH ne peut plus se concevoir sans le respect de bonnes pratiques et de principes éthiques dans les relations entre l’entreprise et ses interlocuteurs, à commencer par ses propres collaborateurs.\n\nLa responsabilité sociale (ou sociétale) de l’entreprise, souvent désignée par le sigle RSE, repose sur l’idée que l’entreprise a un rôle à jouer dans la société, notamment en matière d’environnement et de développement durable. Elle recouvre l’ensemble des actions positives qui ont un impact sur le capital humain, sur l’environnement et sur les relations avec les parties prenantes.\n\nPour la direction des ressources humaines, la RSE implique notamment :\n• de mieux prendre en compte chaque collaborateur à titre individuel, en accordant l’attention nécessaire à ses éventuelles vulnérabilités ;\n• de prévenir les facteurs reconnus de souffrance au travail ;\n• de valoriser chaque parcours professionnel dans une logique de relation à long terme.\n\nL’encadrement de proximité joue un rôle déterminant, car c’est lui qui est au contact quotidien des équipes. Mais la DRH porte la responsabilité globale de la politique de bien-être et de prévention.\n\nUne exigence d’immédiateté. Comme dans leur vie personnelle, les collaborateurs attendent des réponses rapides et de qualité à leurs demandes RH : demande de congé, question sur la rémunération, inscription à une formation. Un retour rapide est désormais perçu comme normal.\n\nLes nouvelles solutions RH répondent à cette attente en développant l’autonomie du collaborateur et les services en libre-service (self-service) : consultation de son bulletin de paie, saisie d’une demande d’absence, accès au catalogue de formation. Cette attente s’explique aussi par le fait que l’entreprise demande elle-même aux collaborateurs d’être toujours plus impliqués : l’engagement attendu appelle en retour une réactivité de la fonction RH.\n\nExemple : dans une banque de la place, la mise en place d’un portail RH permettant de déposer et de suivre en ligne les demandes de congé a réduit le délai de réponse de plusieurs jours à quelques heures. Les gestionnaires RH ont pu consacrer le temps libéré à l’accompagnement individuel des collaborateurs.\n\nCes trois tendances, individualisation, responsabilité sociale et immédiateté, convergent : elles placent le collaborateur au centre de la politique RH et exigent de la fonction RH à la fois des outils performants et une forte présence humaine.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les défis de la GRH : concilier des impératifs parfois contradictoires",
+          "type": "texte",
+          "texte": "Gérer et développer les ressources humaines suppose de rechercher en permanence un équilibre entre plusieurs impératifs, parfois contradictoires. Quatre défis principaux peuvent être identifiés.\n\nConcilier performance et satisfaction des collaborateurs. Le processus RH doit être conçu au moins autant dans l’intérêt des salariés que dans celui de la direction. Les outils RH doivent permettre une organisation efficiente tout en améliorant la motivation, l’engagement et l’épanouissement de chacun. Le télétravail en est un exemple : il améliore les conditions de travail des collaborateurs, qui deviennent plus productifs.\n\nPréparer l’avenir sans négliger la GRH du quotidien. Réformes législatives, évolutions technologiques, départs à la retraite, mouvements d’effectifs : la GRH est un exercice permanent d’anticipation. Grâce à des outils comme la GPEC, le plan de développement des compétences ou la politique de recrutement, le responsable RH conserve une vision à trois ou cinq ans. Ce rôle ne doit cependant pas se faire au détriment des attentes immédiates des collaborateurs, qui ont besoin d’un accompagnement « ici et maintenant ».\n\nConduire le changement technologique avec prudence. Le système d’information des ressources humaines (SIRH) offre souvent un bon compromis : une GRH dématérialisée, plus d’autonomie pour les collaborateurs et une DRH déchargée de nombreuses tâches chronophages. Mais la dernière solution technologique n’apporte pas toujours un progrès. Avant de généraliser un outil, il faut évaluer sa valeur ajoutée en gardant à l’esprit les objectifs poursuivis et l’usage réel qu’en feront les collaborateurs. Il ne faut pas « digitaliser pour digitaliser ».\n\nAllier proximité humaine et technologie. Dans toute transition, le responsable RH doit s’assurer que les équipes disposent du temps et des compétences nécessaires pour conduire le changement. Il mobilise lui-même des compétences en conduite du changement, en management, en pilotage de projet et en communication.\n\nRecrutement, formation, rémunération, évaluation : la GRH couvre tous les aspects de la relation entre l’entreprise et le collaborateur et influence directement sa performance et son engagement.\n\nTrois points sont à retenir :\n• la GRH conditionne la cohésion, le bien-être et la performance de l’entreprise ;\n• les responsables RH font face en permanence à des mutations technologiques, législatives et sociales qui modifient leurs missions et les obligent à arbitrer entre plusieurs défis ;\n• une GRH moderne favorise à la fois l’efficience de l’organisation et l’épanouissement des salariés.\n\nCes défis rejoignent les quatre rôles décrits par Dave Ulrich : partenaire stratégique, agent du changement, facilitateur auprès des collaborateurs et expert administratif.",
+          "fichier": "",
+          "duree": "15 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Qu’offre le coworking aux salariés d’entreprises sans locaux propres ?",
+          "reponses": [
+            "Un travail exclusivement à domicile",
+            "Des espaces de travail partagés avec d’autres structures",
+            "Un terminal numérique pour leurs déplacements",
+            "Un bureau individuel dans leur entreprise"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Que signifie le sigle RSE ?",
+          "reponses": [
+            "Rémunération sociale de l’employé",
+            "Régime spécial d’emploi",
+            "Réseau des services de l’entreprise",
+            "Responsabilité sociale (ou sociétale) de l’entreprise"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Le travail nomade permet à un professionnel :",
+          "reponses": [
+            "De travailler uniquement depuis son domicile",
+            "De partager un local avec d’autres entreprises",
+            "De réaliser ses tâches en déplacement sur un terminal mobile",
+            "D’être accompagné par un tuteur expérimenté"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Lequel de ces exemples illustre un service RH en libre-service (self-service) ?",
+          "reponses": [
+            "La consultation en ligne de son bulletin de paie",
+            "L’entretien annuel avec son manager",
+            "La négociation de la convention collective",
+            "La visite médicale du travail"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Grâce à des outils comme la GPEC, à quel horizon le responsable RH conserve-t-il une vision ?",
+          "reponses": [
+            "Une semaine",
+            "Trois à cinq ans",
+            "Six mois",
+            "Vingt ans"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "La communication d’entreprise au service de la stratégie",
+      "description": "Organiser la communication interne et externe de l’entreprise, en diagnostiquer les obstacles, bâtir un plan de communication et réagir en situation de crise.",
+      "duree": "85",
+      "lecons": [
+        {
+          "titre": "Les fondements de la communication d’entreprise",
+          "type": "texte",
+          "texte": "Le mot communication vient du latin communicare, qui signifie mettre en commun. La communication est un processus dynamique par lequel un émetteur et un récepteur échangent des informations, des idées, des opinions ou des sentiments.\n\nLa communication d’entreprise regroupe toutes les formes d’échanges d’informations, à l’intérieur de l’entreprise comme vers l’extérieur, à destination d’une cible déterminée. Elle comprend deux volets : la communication interne et la communication externe. Ces deux volets doivent rester cohérents : même identité visuelle, discours non contradictoires.\n\nLes valeurs, socle de la communication. Des valeurs clairement formalisées renforcent la culture d’entreprise, développent l’éthique et les bonnes conduites, aident les dirigeants à manager et à décider, guident la communication et accompagnent le changement. Elles favorisent l’engagement interne des salariés, puis l’engagement externe, en améliorant la confiance et la fidélité des clients. Pour qu’elles soient appropriées, il faut avant tout des preuves concrètes de leur mise en œuvre et leur rappel régulier par le management, relayés par le journal interne, l’intranet ou des ateliers.\n\nLa communication interne regroupe l’ensemble des actes de communication qui se produisent à l’intérieur de l’organisation. Elle crée un esprit d’entreprise et motive le personnel. Elle comporte trois composantes :\n• la composante d’ouverture : l’entreprise se fait connaître de son personnel (publication des résultats, transmission d’informations, explication du projet d’entreprise) ;\n• la composante interactive : les membres du personnel échangent librement, ce qui favorise une atmosphère conviviale et la solidarité ;\n• la composante identitaire : le personnel adopte l’esprit-maison et développe un sentiment d’appartenance.\n\nLa communication externe regroupe les actions par lesquelles l’entreprise entre en relation avec son environnement : clients, partenaires, pouvoirs publics, médias. Ses objectifs sont notamment :\n• faire connaître l’entreprise et ses produits, et informer la cible ;\n• créer une préférence pour ses produits ;\n• construire une image de marque forte et accroître la notoriété ;\n• animer les réseaux de vente et enrichir l’image institutionnelle.\n\nElle utilise la publicité média (télévision, radio, affichage, presse, cinéma, internet) et le hors-média (promotion des ventes, sponsoring, mécénat, marketing direct, relations publiques, publicité sur le lieu de vente).\n\nLes services RH s’emparent de plus en plus de la communication interne : leurs compétences en gestion sociale les rendent utiles pour accompagner le changement, une restructuration ou une crise, et pour fédérer les équipes autour de la culture d’entreprise.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les réseaux et les outils de la communication interne",
+          "type": "texte",
+          "texte": "La communication interne circule selon plusieurs réseaux. Chacun correspond à une vision stratégique de l’entreprise.\n\nLa communication descendante (ou hiérarchique) va de la direction vers les salariés. Elle sert à informer, former et diriger, c’est-à-dire à donner des consignes d’exécution. Supports : journal interne, tableau d’affichage, réunions, notes de service.\n\nLa communication ascendante (ou salariale) va des salariés vers la direction. Elle permet de connaître les aspirations du personnel, de désamorcer les tensions, de développer un bon climat social et d’améliorer la performance. Supports : boîte à idées, sondages d’opinion, tribunes libres dans le journal interne, échanges verbaux, mais aussi tracts, lettres ouvertes et rumeurs.\n\nLa communication horizontale (ou latérale) relie des personnes de même niveau, par exemple le directeur financier et le directeur des ressources humaines. Associée au management participatif, elle rassemble le personnel autour d’objectifs communs, fonde l’esprit-maison et améliore la coordination.\n\nLa communication transversale (ou décloisonnée) répond aux défauts des organisations très hiérarchisées, où le cloisonnement entre services ralentit l’exécution. Elle fait circuler l’information à la fois verticalement et horizontalement entre toutes les directions, en s’appuyant sur un bon système d’information et des indicateurs partagés.\n\nLa communication décentralisée s’est développée avec le numérique : web, réseaux sociaux, applications mobiles permettent à chacun de diffuser des messages.\n\nEnfin, la communication informelle (ou spontanée) circule sans circuit identifiable. La rumeur en est le symbole : ses émetteurs et ses récepteurs sont imprécis et elle est difficile à maîtriser.\n\nLes outils de la communication interne se classent en deux grandes catégories.\n\nLes outils écrits, privilégiés car « les paroles s’envolent, les écrits restent » :\n• note d’information ou de service, compte rendu, rapport, note de synthèse ;\n• lettre ouverte, journal d’entreprise, revue de presse, affiches ;\n• intranet, messagerie, blog, boîte à idées, manuels de procédures.\n\nLes outils oraux :\n• l’entretien individuel ou en groupe restreint ;\n• la réunion ;\n• la téléréunion, la visioconférence, la web-conférence ;\n• les salons et expositions internes, les conventions et séminaires.\n\nLes supports numériques permettent de créer des contenus (vidéos, articles, photos), d’animer une communauté et de mesurer plus facilement l’efficacité des actions. Le choix d’un outil dépend toujours de la cible, du message et de l’objectif recherché.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Diagnostiquer la communication interne et gérer les conflits",
+          "type": "texte",
+          "texte": "Les obstacles à la communication. Toute communication rencontre des obstacles. On ne peut pas les supprimer totalement, mais on peut les identifier pour en réduire les effets. On en distingue trois types.\n\nLes obstacles techniques gênent la transmission fidèle du message. Ils peuvent être tangibles (bruit physique qui nuit à la lisibilité ou à l’audibilité) ou intangibles, liés à la perception : stéréotypes qui provoquent des réactions automatiques, distorsions qui font que deux personnes n’interprètent pas un message de la même façon, image de soi qui conduit à ne retenir que les messages qui la confortent.\n\nLes obstacles sémantiques concernent le sens du message. Ils tiennent à l’abstraction (simplification qui rend l’information incomplète), à la réification (croire que le sens est contenu dans les mots eux-mêmes) et à la tendance à évaluer, qui confond les faits et les jugements de valeur.\n\nLes obstacles pragmatiques proviennent de l’environnement économique et social. La structure économique évolue vite et crée un fort besoin d’information, tandis que la structure sociale est plus lente et résiste au changement.\n\nL’évaluation de la communication interne s’appuie sur :\n• des critères objectifs, mesurables : réponses aux questionnaires, contenu de la boîte à idées, nombre de participants aux réunions, nombre de documents demandés ;\n• des critères subjectifs, qualitatifs : le journal interne est-il attendu et lu ? les suggestions enrichissent-elles la réflexion ? les réunions apportent-elles des solutions ou révèlent-elles des tensions ?\n\nLa démarche d’évaluation suit quatre étapes :\n• mesurer la communication existante et préciser ce que l’on cherche à évaluer ;\n• recueillir les informations sur le terrain (entretiens, analyse des documents, enquête quantitative) ;\n• analyser les dysfonctionnements à l’aide d’outils comme la carte mentale, la matrice MOFF ou le diagramme de Pareto, puis proposer des actions correctives, palliatives ou préventives ;\n• communiquer les résultats aux publics internes dans un rapport (contexte, écarts entre prévu et réalisé, résultats, conclusions, recommandations).\n\nLa gestion des conflits. Un conflit apparaît lorsque les préoccupations des parties semblent inconciliables. Il n’est pas toujours négatif : sans conflit, une organisation stagne. Le manager doit d’abord repérer les sources (mauvaise communication, compétition excessive, dysfonctionnements, stress) et les types de conflit : destructif, d’intérêt ou de pouvoir, de génération ou d’opinion. Il peut ensuite jouer le rôle de médiateur neutre, recourir à l’arbitrage lorsque deux visions s’opposent, ou au recours hiérarchique en cas d’urgence. Cette dernière solution est rapide, mais elle ne règle pas le problème relationnel. Bien géré, le conflit devient une occasion d’apprentissage pour l’équipe.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Du plan de communication interne à la stratégie de communication externe",
+          "type": "texte",
+          "texte": "Le plan de communication interne. La communication est un résultat qui s’apprécie à quatre niveaux : la connaissance, la compréhension, l’adhésion et la contribution. Le plan de communication doit donc être construit à partir des objectifs de l’entreprise et des moyens dont elle dispose. Son élaboration répond à une série de questions :\n• Quand communiquer ? Un plan annuel relaie la stratégie et développe une culture commune ; des actions ponctuelles accompagnent les moments forts (réorganisation, changement de direction, lancement d’un produit, fusion, licenciement économique).\n• À qui ? La cible est segmentée, par exemple par niveau hiérarchique ou selon l’implication dans un projet. On ne dit pas les choses de la même manière à tous.\n• Que dire ? On définit un message précis et on adapte sa forme à chaque cible.\n• Comment ? La communication directe (face-à-face, courriel personnalisé, réunion) individualise le message ; la communication médias (intranet, journal) et la communication événementielle (séminaires, conventions) touchent un plus grand nombre.\n• Avec quel média ? Le choix dépend de la cible et du message : supports papier, intranet, vidéo.\n• Pour quelle efficacité ? On mesure si la cible a compris et apprécié l’action, puis son effet sur les comportements.\n\nIl faut trouver un juste milieu : trop de communication tue la communication.\n\nLa stratégie de communication externe est l’ensemble des actions cohérentes mises en œuvre pour promouvoir les produits, la marque ou l’entreprise elle-même. Elle comporte cinq composantes :\n• les objectifs, cohérents avec la stratégie marketing : faire connaître, faire aimer, faire agir ;\n• les cibles, c’est-à-dire le public visé, y compris les prescripteurs et les influenceurs ;\n• le positionnement, qui distingue durablement le produit de la concurrence dans l’esprit du consommateur ;\n• la stratégie créative : axe de communication, concept d’évocation, promesse, preuve de la promesse, bénéfice consommateur et ton du message ;\n• la stratégie des moyens (plan média) : choix des médias et du hors-média, budget et calendrier.\n\nOn distingue aussi la communication institutionnelle, qui valorise l’entreprise dans son ensemble auprès des clients, actionnaires, pouvoirs publics ou futurs salariés, et la communication commerciale, qui cherche à faire acheter (publicité, marketing direct, promotion des ventes, relations publiques, parrainage et mécénat).\n\nAvant d’établir un plan de communication externe, l’entreprise doit se situer par rapport à la concurrence, faire l’état des lieux de ses actions actuelles et de leur retour sur investissement, puis fixer ses objectifs, son public, ses outils et son budget.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "La communication de crise",
+          "type": "texte",
+          "texte": "Une crise est un processus qui, sous l’effet d’un événement déclencheur interne ou externe, révèle une série de dysfonctionnements affectant temporairement ou durablement la sûreté, la santé humaine, l’environnement, le produit, la réputation ou la pérennité d’une organisation. Les définitions actuelles insistent sur les dysfonctionnements internes plutôt que sur la fatalité : une crise peut donc être anticipée.\n\nLa communication de crise est l’ensemble des techniques et actions mises en œuvre pour lutter contre les effets négatifs d’un événement (accident, pollution, licenciement, rappel de produit) sur l’image de l’entreprise ou de ses produits. Elle ne laisse aucune place à l’improvisation.\n\nUn incident ne justifie pas toujours une communication de crise. Elle devient nécessaire lorsque apparaît l’un des facteurs suivants :\n• atteinte à des personnes ou à l’environnement ;\n• dérèglement du fonctionnement de l’entreprise ;\n• intérêt croissant des médias ou forte activité sur les réseaux sociaux ;\n• remise en cause de la crédibilité de l’entreprise ou de ses dirigeants, réputation en danger.\n\nLa communication de crise est avant tout une relation avec les parties prenantes, ou porteurs d’enjeux : salariés, clients, victimes et familles, autorités, médias, actionnaires, bailleurs de fonds. Ce sont eux qui décident de l’issue de la crise ; si leurs besoins d’information sont satisfaits, la crise s’éteint plus vite. Lors de l’affaire du Tylenol en 1982, l’entreprise a reconnu le problème, retiré tous les produits et présenté ses excuses : sa réputation a été préservée.\n\nElle remplit trois rôles :\n• un rôle d’anticipation, en identifiant à l’avance les parties prenantes, leurs attentes et les risques associés ;\n• un rôle d’information : le bon message, au bon moment, aux bonnes personnes, avec les bons outils ;\n• un rôle d’atténuation des effets négatifs.\n\nSon objectif majeur est de préserver la crédibilité de l’organisation : éviter qu’un accident devienne une crise et qu’une crise devienne une catastrophe.\n\nLe silence est le principal danger. Le mutisme et la dissimulation frustrent l’opinion, attirent les médias et alimentent la rumeur : en matière d’information, le vide est la porte ouverte aux rumeurs.\n\nPour bâtir un scénario de crise, trois règles s’imposent :\n• anticiper, en préparant à l’avance un dispositif et des responsables désignés ;\n• riposter rapidement : les vingt-quatre premières heures sont décisives ;\n• communiquer avec qualité : une information précise, un message rassurant et des discours cohérents envers le personnel et l’extérieur.\n\nExemple : lors d’un rappel de lots d’eau minérale en Côte d’Ivoire, l’entreprise qui informe dès le premier jour les distributeurs, les autorités sanitaires, ses salariés et le public, en indiquant les lots concernés et les modalités d’échange, limite durablement l’atteinte à sa marque.",
+          "fichier": "",
+          "duree": "15 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Que signifie le mot latin communicare, à l’origine du mot communication ?",
+          "reponses": [
+            "Transmettre un ordre",
+            "Mettre en commun",
+            "Convaincre un public",
+            "Écrire un message"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Quelle composante de la communication interne amène le personnel à développer un sentiment d’appartenance ?",
+          "reponses": [
+            "La composante d’ouverture",
+            "La composante interactive",
+            "La composante identitaire",
+            "La composante commerciale"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Quel réseau de communication relie des personnes de même niveau, comme le directeur financier et le DRH ?",
+          "reponses": [
+            "La communication horizontale",
+            "La communication descendante",
+            "La communication ascendante",
+            "La communication informelle"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Parmi les obstacles sémantiques, comment appelle-t-on le fait de croire que le sens est contenu dans les mots eux-mêmes ?",
+          "reponses": [
+            "L’abstraction",
+            "Le stéréotype",
+            "La distorsion",
+            "La réification"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "En communication de crise, quelle période est considérée comme décisive pour riposter ?",
+          "reponses": [
+            "La première semaine",
+            "Le premier mois",
+            "Les vingt-quatre premières heures",
+            "Les trois premiers mois"
+          ],
+          "bonne": 2
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Laquelle de ces caractéristiques distingue une décision stratégique d’une décision opérationnelle ?",
+      "reponses": [
+        "Elle est prise chaque jour par les chefs d’équipe",
+        "Elle engage l’entreprise sur le moyen ou le long terme et mobilise des ressources importantes",
+        "Elle concerne uniquement l’organisation des horaires de travail",
+        "Elle peut être annulée sans conséquence"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Dans le modèle des cinq forces de Porter, laquelle de ces forces figure parmi les cinq ?",
+      "reponses": [
+        "Le taux d’absentéisme du personnel",
+        "La structure de l’organigramme",
+        "La menace des produits de substitution",
+        "Le niveau de trésorerie de l’entreprise"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Dans une matrice SWOT, « l’arrivée de concurrents étrangers sur le marché » doit être classée dans :",
+      "reponses": [
+        "Les menaces",
+        "Les faiblesses",
+        "Les forces",
+        "Les opportunités"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Une PME traite 1 500 tonnes de noix par an. Si ses pertes passent de 12 % à 5 %, combien de tonnes gagne-t-elle ?",
+      "reponses": [
+        "75 tonnes",
+        "180 tonnes",
+        "60 tonnes",
+        "105 tonnes"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Quelle stratégie consiste à proposer une offre perçue comme unique pour laquelle le client accepte de payer plus cher ?",
+      "reponses": [
+        "La domination par les coûts",
+        "La différenciation",
+        "L’intégration en amont",
+        "La croissance externe"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Dans la gestion du personnel traditionnelle, comment le salarié est-il principalement considéré ?",
+      "reponses": [
+        "Comme un coût à minimiser dont on attend l’exécution des ordres",
+        "Comme un client interne à satisfaire",
+        "Comme la ressource fondamentale de la compétitivité",
+        "Comme un partenaire associé à la stratégie"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Quel passage a permis de faire entrer la question des ressources humaines dans le registre de la stratégie ?",
+      "reponses": [
+        "Le passage de la paie manuelle à la paie informatisée",
+        "Le passage de la compétitivité à la productivité",
+        "Le passage de la notion de productivité à celle de compétitivité",
+        "Le passage de la GPEC à la gestion prévisionnelle des effectifs"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Selon la dimension politique de la fonction RH, la posture « exécutionniste » du salarié correspond à :",
+      "reponses": [
+        "Un salarié qui refuse systématiquement toute décision",
+        "Un salarié qui agit uniquement pour ses propres besoins",
+        "Un salarié qui négocie chaque consigne",
+        "Un salarié qui ne se perçoit plus comme l’auteur de ses actes et exécute la volonté d’un autre"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Une entreprise qui agit pour provoquer un changement souhaitable adopte une attitude :",
+      "reponses": [
+        "Passive",
+        "Proactive",
+        "Réactive",
+        "Défensive"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Que désignent les « 5E » évoqués dans le modèle de Dave Ulrich ?",
+      "reponses": [
+        "Efficacité, efficience, économie, évaluation, effectif",
+        "Embauche, emploi, entretien, évaluation, exécution",
+        "Équité, employabilité, épanouissement, écoute, éthique",
+        "Entreprise, environnement, État, éthique, emploi"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Dans les « 3E » du management, l’efficience consiste à :",
+      "reponses": [
+        "Tirer le meilleur parti des ressources disponibles",
+        "Atteindre les objectifs fixés",
+        "Réaliser les activités au moindre coût",
+        "Évaluer les performances du personnel"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Le tutorat et les parcours de formation individualisés illustrent quel enjeu actuel de la GRH ?",
+      "reponses": [
+        "La centralisation de la gestion du personnel",
+        "L’individualisation du management RH",
+        "La réduction des effectifs",
+        "L’uniformisation des pratiques"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Quelle recommandation s’applique à la mise en place d’un SIRH ?",
+      "reponses": [
+        "Généraliser immédiatement la solution la plus récente",
+        "Supprimer tout contact humain avec la DRH",
+        "Réserver l’outil aux seuls gestionnaires RH",
+        "Évaluer sa valeur ajoutée au regard des objectifs et de l’usage réel, sans « digitaliser pour digitaliser »"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Les boîtes à idées et les sondages d’opinion sont des supports de quel type de communication interne ?",
+      "reponses": [
+        "La communication descendante",
+        "La communication commerciale",
+        "La communication ascendante",
+        "La communication de crise"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "En situation de crise, pourquoi le silence de l’entreprise est-il dangereux ?",
+      "reponses": [
+        "Parce qu’il laisse un vide d’information qui alimente la rumeur",
+        "Parce qu’il augmente le coût de la publicité",
+        "Parce qu’il est interdit par la loi",
+        "Parce qu’il réduit l’intérêt des médias"
+      ],
+      "bonne": 0
+    }
+  ]
+}

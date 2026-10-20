@@ -1,0 +1,38 @@
+SPOT TOUN - PROJET AFTER EFFECTS
+================================
+
+CONTENU DU DOSSIER
+- Construire_Spot_TOUN.jsx : script qui construit tout le projet dans After Effects
+- elements/                : toutes les images (téléphones, personnes, logos, certificat...)
+- audio/                   : voix off, musique et effets sonores (séparés)
+- polices/                 : police Poppins utilisée pour les textes
+- Spot_TOUN_apercu.mp4     : la vidéo finale (aperçu)
+
+ÉTAPES
+1. Installez les polices du dossier "polices" (double-clic sur chaque fichier > Installer).
+   Faites-le AVANT d'ouvrir After Effects.
+2. Ouvrez After Effects et créez un nouveau projet vide.
+3. Menu Fichier > Scripts > Exécuter le fichier de script...
+   et choisissez "Construire_Spot_TOUN.jsx".
+   Laissez le script dans ce dossier (il a besoin des dossiers "elements" et "audio").
+4. Patientez quelques secondes : la composition "SPOT TOUN - Final" s'ouvre.
+5. Enregistrez votre projet (.aep).
+
+MODIFIER LE SPOT
+- Chaque scène est une composition séparée dans le dossier "Scènes" :
+  01 Accroche, 02 TOUN, 03 Choisir - Payer - Apprendre, 04 Certificat,
+  05 Entreprises, 06 TOUN AI, 07 Fin. Les transitions sont dans "Transitions".
+- Textes : double-cliquez sur un calque texte pour changer le mot.
+  Les "pilules" (texte dans un fond arrondi) = un calque forme + un calque texte.
+  Si vous rallongez un texte, agrandissez la taille du rectangle
+  (Contenu > Rectangle > Taille).
+- Couleurs : calque "Fond" de chaque scène, ou Contenu > Fond des formes.
+- Images : clic droit sur une image dans le panneau Projet > Remplacer le métrage.
+- Animations : touche U sur un calque pour afficher ses images clés.
+- Le flou de mouvement est activé.
+
+EXPORT
+Composition > Ajouter à la file d'attente de rendu (ou Adobe Media Encoder, format H.264).
+
+Si After Effects affiche une police manquante, vérifiez l'étape 1.
+Police Poppins : licence SIL Open Font License (libre d'utilisation).

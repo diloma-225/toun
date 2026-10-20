@@ -1,0 +1,6 @@
+<?php
+require __DIR__.'/entreprise_init.php';
+$rows=[];try{$s=$con->prepare("SELECT * FROM t_notifications WHERE id_user=? ORDER BY date_notification DESC LIMIT 30");$s->execute([$userId]);$rows=$s->fetchAll();}catch(Throwable $e){}
+$active_page='notifications.php';
+?>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Notifications — TOUN</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"><link rel="stylesheet" href="entreprise-menu.css"><link rel="stylesheet" href="entreprise-ui.css"></head><body><?php include __DIR__.'/menu_entreprise.php';?><main class="main-content"><div class="page"><div class="page-head"><div><span class="eyebrow">GESTION</span><h1>Notifications</h1><p>Retrouvez vos alertes et informations récentes.</p></div></div><section class="panel"><div class="list" style="padding:12px"><?php if(!$rows):?><div class="empty">Aucune notification pour le moment.</div><?php else:foreach($rows as $r):?><div class="list-item"><div><strong><?=e($r['titre_notification']??$r['titre']??'Notification')?></strong><small><?=e($r['message_notification']??$r['message']??'')?></small></div></div><?php endforeach;endif;?></div></section></div></main></body></html>

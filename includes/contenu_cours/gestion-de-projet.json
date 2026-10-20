@@ -1,0 +1,606 @@
+{
+  "cle": "gestion de projet",
+  "anciens_titres": [
+    "Les fondamentaux du projet",
+    "Planifier son projet",
+    "Piloter et clôturer"
+  ],
+  "titre_quiz": "Évaluation finale : Gestion de projet",
+  "description_quiz": "Cette évaluation vérifie votre maîtrise des acteurs, du cadrage, de la planification, du pilotage et de la clôture d’un projet, y compris quelques calculs simples. Note minimale requise : 10/20.",
+  "modules": [
+    {
+      "titre": "Les fondamentaux du projet et ses acteurs",
+      "description": "Distinguer un projet d’une activité courante, identifier les acteurs et arbitrer entre coût, délai et qualité.",
+      "duree": "65",
+      "lecons": [
+        {
+          "titre": "Qu’est-ce qu’un projet ?",
+          "type": "texte",
+          "texte": "Un projet est un ensemble d’activités coordonnées, menées pour atteindre un objectif précis, dans un délai déterminé et avec des ressources limitées. Le référentiel du PMI (PMBOK) le définit comme une entreprise temporaire visant à créer un produit, un service ou un résultat unique.\n\nTrois caractéristiques permettent de reconnaître un projet :\n• il est temporaire : il a une date de début et une date de fin ;\n• il est unique : son résultat n’a jamais été produit exactement dans les mêmes conditions ;\n• il est contraint : il dispose d’un budget, d’une équipe et d’un calendrier fixés à l’avance.\n\nLe projet se distingue de l’activité courante, appelée aussi activité opérationnelle ou « run ». La facturation mensuelle des clients d’une PME d’Abidjan est une activité récurrente : elle se répète chaque mois selon une procédure connue. En revanche, l’ouverture d’une nouvelle agence à Yamoussoukro, le lancement d’une application de paiement mobile ou la mise en place d’un nouveau logiciel de gestion sont des projets : ils produisent un changement, puis s’arrêtent une fois le résultat livré.\n\nTout projet suit un cycle de vie, découpé en phases successives. Une présentation courante distingue :\n• l’initialisation : on exprime le besoin et on décide s’il faut lancer le projet ;\n• le cadrage : on précise les objectifs, le périmètre, les moyens et les risques ;\n• la planification : on découpe le travail, on estime les durées et le budget ;\n• l’exécution et le pilotage : l’équipe réalise les travaux, le chef de projet suit l’avancement et corrige les écarts ;\n• la clôture : on réceptionne le résultat, on fait le bilan et on capitalise l’expérience.\n\nEntre deux phases, un point de décision (parfois appelé « jalon » ou « go / no go ») permet à la direction de confirmer la poursuite du projet, de le réorienter ou de l’arrêter. La méthode PRINCE2 insiste particulièrement sur ce principe : un projet ne doit continuer que tant qu’il reste justifié sur le plan économique.\n\nIl existe enfin plusieurs approches de conduite de projet. L’approche dite prédictive, ou « en cascade », planifie l’ensemble du projet dès le départ. L’approche agile procède par cycles courts et ajuste le contenu au fil des livraisons. Le choix dépend de la stabilité du besoin : nous y reviendrons dans le dernier module.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les acteurs : maîtrise d’ouvrage, maîtrise d’œuvre et chef de projet",
+          "type": "texte",
+          "texte": "Un projet réunit des acteurs dont les rôles doivent être clairement répartis dès le départ. La distinction la plus utilisée en pratique, notamment dans le bâtiment et l’informatique, oppose la maîtrise d’ouvrage et la maîtrise d’œuvre.\n\nLa maîtrise d’ouvrage (MOA) est l’entité pour le compte de laquelle le projet est réalisé. Elle exprime le besoin, fixe les objectifs, finance le projet et réceptionne le résultat. Elle répond à la question « quoi et pourquoi ? ». Dans une banque qui ouvre une agence à San-Pédro, la MOA est la direction du réseau commercial.\n\nLa maîtrise d’œuvre (MOE) est l’entité chargée de concevoir et de réaliser la solution. Elle répond à la question « comment ? ». Elle s’engage sur les moyens techniques, les délais et la qualité des livrables. Pour l’agence de San-Pédro, la MOE peut être un cabinet d’architecture et une entreprise de travaux ; pour une application mobile, une équipe de développement interne ou une société de services numériques.\n\nLe chef de projet coordonne l’ensemble. Il planifie, organise l’équipe, suit l’avancement, gère les risques et rend compte. Il existe souvent un chef de projet côté MOA, garant du besoin, et un chef de projet côté MOE, garant de la réalisation. Ses qualités attendues sont autant humaines que techniques : capacité à animer, à négocier, à décider et à communiquer.\n\nLes autres instances habituelles sont :\n• le sponsor (ou commanditaire) : un dirigeant qui porte le projet, arbitre les décisions importantes et garantit les moyens ;\n• le comité de pilotage (COPIL) : il réunit le sponsor, les directions concernées et le chef de projet ; il valide les grandes étapes, le budget et les changements majeurs ;\n• le comité de projet (ou comité technique) : plus opérationnel et plus fréquent, il suit l’avancement détaillé des travaux ;\n• l’équipe projet : les personnes qui réalisent les tâches, souvent issues de plusieurs services ;\n• les utilisateurs finaux : ceux qui utiliseront le résultat au quotidien.\n\nUne erreur fréquente consiste à laisser la MOE décider seule du contenu, ou à laisser la MOA intervenir dans les choix techniques. Chacun doit rester dans son rôle : la MOA décide du besoin et le valide, la MOE propose et réalise la solution.\n\nPour clarifier les responsabilités, on utilise une matrice RACI. Pour chaque tâche, on indique qui la réalise (R, Responsible), qui en rend compte et décide (A, Accountable, une seule personne), qui doit être consulté (C, Consulted) et qui doit être informé (I, Informed). Par exemple, pour la tâche « choisir le local de l’agence », le responsable immobilier réalise (R), le directeur du réseau décide (A), la direction financière est consultée (C) et le service communication est informé (I).",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Identifier et gérer les parties prenantes",
+          "type": "texte",
+          "texte": "Une partie prenante est toute personne, groupe ou organisation qui peut influencer le projet ou être affectée par lui. Le cercle est plus large que l’équipe projet : il comprend les clients, les fournisseurs, les autorités, les syndicats, les riverains ou encore la presse.\n\nPrenons l’exemple d’une PME de distribution basée à Abidjan qui lance une application de commande en ligne. Ses parties prenantes peuvent être :\n• la direction générale, qui finance et attend un retour sur investissement ;\n• les commerciaux, qui craignent de perdre une partie de leurs commissions ;\n• les clients, qui attendent une application simple et fiable ;\n• l’opérateur de paiement mobile, partenaire technique ;\n• le prestataire de développement ;\n• l’autorité de protection des données personnelles, qui veille au respect de la réglementation.\n\nLa gestion des parties prenantes se fait en trois étapes.\n\nD’abord, l’identification : on dresse la liste la plus complète possible, par exemple lors d’un atelier avec l’équipe. Pour chaque partie prenante, on note ses attentes, ses craintes et son niveau d’influence.\n\nEnsuite, l’analyse. L’outil le plus courant est la matrice pouvoir / intérêt, qui classe chaque acteur selon deux critères : son pouvoir sur le projet et son intérêt pour celui-ci. On obtient quatre catégories :\n• pouvoir fort et intérêt fort : acteurs clés, à associer étroitement aux décisions ;\n• pouvoir fort et intérêt faible : à satisfaire, en les tenant informés des points qui les concernent ;\n• pouvoir faible et intérêt fort : à informer régulièrement, car ils peuvent devenir des relais ou des opposants ;\n• pouvoir faible et intérêt faible : à surveiller, avec un effort de communication limité.\n\nEnfin, l’engagement : on définit pour chaque catégorie une stratégie et des actions concrètes. Dans notre exemple, les commerciaux, peu puissants mais très concernés, pourraient être invités à tester les premières versions de l’application et associés à la définition d’un nouveau système de commissions. Cette démarche transforme une résistance probable en adhésion.\n\nL’analyse des parties prenantes n’est pas figée. Les positions évoluent au cours du projet : un acteur indifférent au départ peut devenir hostile lorsque les changements se concrétisent. Le chef de projet tient donc un registre des parties prenantes et le met à jour à chaque étape importante.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Le triangle coût-délai-qualité",
+          "type": "texte",
+          "texte": "Tout projet est soumis à trois contraintes principales, souvent représentées par un triangle : le coût, le délai et la qualité. Certaines présentations remplacent la qualité par le périmètre (le contenu à livrer), ou placent la qualité au centre d’un triangle périmètre-coût-délai. L’idée reste la même : ces contraintes sont liées entre elles.\n\n• Le coût correspond au budget alloué : main-d’œuvre, achats, prestations, frais divers.\n• Le délai correspond à la date de livraison attendue et aux échéances intermédiaires.\n• La qualité correspond au niveau de conformité du résultat aux exigences : fonctionnalités, performances, fiabilité, finitions.\n\nModifier l’une de ces contraintes a presque toujours des conséquences sur les autres. Si la direction souhaite ouvrir l’agence un mois plus tôt que prévu, il faudra soit augmenter le budget (heures supplémentaires, entreprises supplémentaires sur le chantier), soit réduire le périmètre ou le niveau de finition. Si le budget est réduit de 20 %, il faudra accepter un délai plus long ou un résultat moins complet.\n\nLe rôle du chef de projet est de rendre ces arbitrages visibles et de les faire trancher par la maîtrise d’ouvrage. Il ne lui appartient pas de dégrader seul la qualité pour tenir un délai. Il présente les options, chiffre leurs conséquences et laisse le comité de pilotage décider.\n\nIl est utile de savoir, dès le cadrage, quelle contrainte est prioritaire. Quelques exemples :\n• pour un stand au Salon international de l’agriculture et des ressources animales (SARA), le délai est impératif : la date d’ouverture ne bougera pas ;\n• pour un projet financé par une subvention, le budget est souvent plafonné ;\n• pour un logiciel de paie, la qualité est primordiale : une erreur de calcul des cotisations sociales n’est pas acceptable.\n\nUne fois la contrainte prioritaire connue, les deux autres deviennent les variables d’ajustement. Cette hiérarchie doit figurer dans la note de cadrage, afin d’éviter les débats en cours de projet.\n\nOn ajoute souvent d’autres contraintes au triangle : les risques, les ressources humaines disponibles, la réglementation ou la satisfaction des parties prenantes. Mais le triangle coût-délai-qualité reste le repère de base pour expliquer à un commanditaire qu’on ne peut pas tout obtenir à la fois : plus vite, moins cher et mieux.",
+          "fichier": "",
+          "duree": "15 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Comment le référentiel du PMI (PMBOK) définit-il un projet ?",
+          "reponses": [
+            "Une activité récurrente suivant une procédure connue",
+            "Un service permanent de l’entreprise",
+            "Une entreprise temporaire visant à créer un résultat unique",
+            "Un ensemble de tâches sans date de fin"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "À quoi sert un point de décision « go / no go » entre deux phases ?",
+          "reponses": [
+            "Confirmer, réorienter ou arrêter le projet",
+            "Calculer le budget détaillé du projet",
+            "Recruter l’équipe projet",
+            "Rédiger le cahier des charges"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Dans une matrice RACI, que désigne la lettre A (Accountable) ?",
+          "reponses": [
+            "La personne qui réalise la tâche",
+            "La personne unique qui rend compte et décide",
+            "La personne qui doit être consultée",
+            "La personne qui doit être informée"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Quel est le rôle du comité de pilotage (COPIL) ?",
+          "reponses": [
+            "Réaliser les tâches au quotidien",
+            "Suivre chaque jour l’avancement détaillé",
+            "Utiliser le résultat après la livraison",
+            "Valider les grandes étapes, le budget et les changements majeurs"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Pour tenir un délai, faut-il réduire la qualité. Que doit faire le chef de projet ?",
+          "reponses": [
+            "Réduire seul le niveau de finition",
+            "Ignorer la contrainte de délai",
+            "Présenter les options chiffrées et laisser le comité de pilotage décider",
+            "Demander à la maîtrise d’œuvre de trancher"
+          ],
+          "bonne": 2
+        }
+      ]
+    },
+    {
+      "titre": "Le cadrage du projet",
+      "description": "Formuler le besoin, fixer des objectifs SMART et rédiger la note de cadrage et le cahier des charges.",
+      "duree": "70",
+      "lecons": [
+        {
+          "titre": "Analyser et exprimer le besoin",
+          "type": "texte",
+          "texte": "Le cadrage commence par une question simple : quel problème le projet doit-il résoudre ? Beaucoup de projets échouent non pas parce qu’ils sont mal réalisés, mais parce qu’ils répondent à un besoin mal compris.\n\nIl faut distinguer le besoin de la solution. « Nous voulons une application mobile » est une solution. Le besoin réel peut être : « nos clients de l’intérieur du pays ne peuvent pas passer commande sans se déplacer, et nous perdons des ventes ». Une fois le besoin formulé ainsi, plusieurs solutions deviennent envisageables : une application, un service de commande par WhatsApp, un réseau de revendeurs. Le projet choisira la plus pertinente.\n\nPour explorer le besoin, on utilise souvent la méthode QQOQCP, qui consiste à poser six questions :\n• Qui ? Qui est concerné, qui utilisera le résultat, qui décide ?\n• Quoi ? Quel est le problème, quel résultat est attendu ?\n• Où ? Sur quels sites, dans quelles régions ?\n• Quand ? Depuis quand le problème existe-t-il, pour quand faut-il une solution ?\n• Comment ? Comment le travail est-il fait aujourd’hui ?\n• Pourquoi ? Pourquoi est-ce important, quels gains sont attendus ?\n\nOn ajoute souvent une septième question « Combien ? » (volumes, coûts, enjeux financiers), d’où la variante QQOQCCP.\n\nLes sources d’information sont multiples : entretiens avec les futurs utilisateurs, observation du travail sur le terrain, analyse des données existantes (chiffre d’affaires, réclamations, délais), étude de ce que font les concurrents. Il est recommandé de rencontrer plusieurs profils d’utilisateurs, car les attentes d’un directeur et celles d’un agent de terrain diffèrent souvent.\n\nIl est aussi utile de vérifier l’opportunité du projet avant d’engager des moyens importants. Cette étude d’opportunité compare les gains attendus et les coûts estimés, et examine les alternatives, y compris celle de ne rien faire. Par exemple, une PME qui envisage d’ouvrir une agence à Korhogo évaluera le potentiel de clientèle locale, le coût d’installation et le délai de retour sur investissement avant de décider.\n\nLe résultat de cette étape est une expression du besoin claire et partagée, validée par la maîtrise d’ouvrage. Elle servira de base à la définition des objectifs et à la rédaction de la note de cadrage.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Fixer des objectifs SMART",
+          "type": "texte",
+          "texte": "Un objectif mal formulé est impossible à piloter. « Améliorer notre présence commerciale » ou « moderniser la gestion » sont des intentions, pas des objectifs. Pour être utile, un objectif doit permettre de savoir, à la fin du projet, s’il a été atteint ou non.\n\nLa méthode SMART propose cinq critères. Un objectif doit être :\n• Spécifique : il porte sur un résultat précis et compréhensible par tous ;\n• Mesurable : il est assorti d’un indicateur chiffré ou vérifiable ;\n• Atteignable (ou acceptable) : il est réaliste au regard des moyens et accepté par ceux qui devront l’atteindre ;\n• Réaliste (ou pertinent) : il contribue réellement à résoudre le besoin exprimé ;\n• Temporellement défini : il comporte une échéance.\n\nVoici un exemple de transformation. Objectif flou : « développer nos ventes à Bouaké ». Objectif SMART : « ouvrir une agence commerciale à Bouaké opérationnelle au 1er mars, avec une équipe de quatre conseillers, et réaliser 60 millions de FCFA de chiffre d’affaires sur les douze premiers mois d’activité ».\n\nAutre exemple pour un projet numérique. Objectif flou : « avoir une application pour nos clients ». Objectif SMART : « mettre en ligne d’ici le 30 juin une application Android permettant la commande et le paiement par mobile money, et atteindre 2 000 utilisateurs actifs à la fin du troisième mois ».\n\nOn distingue souvent deux niveaux d’objectifs :\n• les objectifs du projet, qui portent sur le livrable lui-même : l’agence ouverte, l’application mise en ligne, dans le délai et le budget ;\n• les objectifs métier, ou bénéfices attendus, qui portent sur l’effet du livrable : chiffre d’affaires, part de marché, réduction des délais de traitement.\n\nLes premiers sont mesurés à la clôture du projet. Les seconds se mesurent souvent plusieurs mois après, une fois le résultat utilisé. Les deux doivent figurer dans la note de cadrage.\n\nEnfin, chaque objectif doit être associé à un critère de réussite et à une source de mesure. Pour l’objectif « 2 000 utilisateurs actifs », il faut définir ce qu’est un utilisateur actif (par exemple, au moins une commande dans le mois) et où l’on trouvera le chiffre (le tableau de bord de l’application). Sans cette précision, le débat sur l’atteinte de l’objectif risque de s’ouvrir à la fin du projet, au pire moment.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "La note de cadrage",
+          "type": "texte",
+          "texte": "La note de cadrage, parfois appelée charte de projet, est le document qui officialise le lancement du projet. Elle formalise l’accord entre la maîtrise d’ouvrage, le sponsor et le chef de projet sur ce qui doit être fait, pourquoi, avec quels moyens et dans quelles limites. Elle tient généralement en quelques pages et doit être validée par le comité de pilotage avant tout engagement de dépenses importantes.\n\nSon contenu habituel est le suivant :\n• le contexte et l’origine du projet : la situation actuelle et le problème à résoudre ;\n• les objectifs SMART du projet et les bénéfices attendus ;\n• le périmètre : ce qui est inclus dans le projet et, tout aussi important, ce qui en est exclu ;\n• les livrables principaux : les résultats concrets qui seront remis ;\n• les contraintes : délai, budget, réglementation, contrainte prioritaire du triangle coût-délai-qualité ;\n• les hypothèses retenues : par exemple, la disponibilité d’un local ou l’obtention d’un agrément ;\n• les principaux risques identifiés ;\n• l’organisation : sponsor, chef de projet, comité de pilotage, équipe, rôles de chacun ;\n• un planning macroscopique avec les grands jalons ;\n• une première estimation budgétaire.\n\nLa rubrique « hors périmètre » mérite une attention particulière. Dans le projet d’ouverture d’une agence à Bouaké, on peut préciser que le recrutement des conseillers est inclus, mais que la refonte des produits commerciaux ne l’est pas. Ce type de précision évite les demandes supplémentaires qui s’ajoutent progressivement en cours de route, phénomène appelé dérive du périmètre.\n\nLes hypothèses doivent elles aussi être écrites. Si le planning suppose que le propriétaire du local libère les lieux au 1er octobre, cette hypothèse doit apparaître. Si elle se révèle fausse, le chef de projet pourra justifier un réajustement du planning.\n\nVoici un extrait type de note de cadrage :\n• Projet : ouverture de l’agence de Bouaké.\n• Sponsor : directeur commercial.\n• Objectif : agence opérationnelle au 1er mars avec quatre conseillers.\n• Budget : 26,4 millions de FCFA, provision pour risques comprise.\n• Contrainte prioritaire : le délai, car le lancement coïncide avec une campagne publicitaire nationale.\n• Hors périmètre : aménagement du parking, confié à une phase ultérieure.\n\nUne fois validée, la note de cadrage devient la référence. Toute modification significative du périmètre, du budget ou du délai doit ensuite passer par une demande de changement soumise au comité de pilotage.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le cahier des charges",
+          "type": "texte",
+          "texte": "Le cahier des charges est le document par lequel la maîtrise d’ouvrage décrit précisément ce qu’elle attend de la maîtrise d’œuvre. Il est plus détaillé que la note de cadrage et sert souvent de base à une consultation de prestataires ou à un appel d’offres.\n\nOn distingue deux types de cahiers des charges.\n\nLe cahier des charges fonctionnel (CdCF) décrit le besoin en termes de fonctions à remplir, sans imposer de solution technique. Il dit ce que le produit doit faire, pas comment il le fait. Par exemple : « l’application doit permettre au client de suivre l’état de sa commande en temps réel ».\n\nLe cahier des charges technique, ou spécifications techniques, précise les choix de réalisation : technologies, normes, matériaux, architecture. Il est généralement rédigé par la maîtrise d’œuvre, ou en commun, une fois la solution choisie.\n\nUn cahier des charges fonctionnel comprend habituellement :\n• la présentation de l’entreprise et du contexte du projet ;\n• les objectifs et le périmètre ;\n• la description des utilisateurs et de leurs usages ;\n• la liste des fonctions attendues, classées par priorité ;\n• pour chaque fonction, des critères d’appréciation mesurables et, le cas échéant, un niveau de flexibilité ;\n• les contraintes : réglementaires, techniques, budgétaires, calendaires ;\n• les modalités de réception : comment on vérifiera que le résultat est conforme ;\n• pour une consultation, le contenu attendu des offres et les critères de sélection des prestataires.\n\nPour hiérarchiser les fonctions, on emploie souvent la méthode MoSCoW :\n• Must have : indispensable, le produit n’a pas de sens sans cette fonction ;\n• Should have : important, mais une solution de contournement existe ;\n• Could have : souhaitable si le temps et le budget le permettent ;\n• Won’t have this time : écarté pour cette version.\n\nExemple pour l’application de commande d’une PME ivoirienne : la commande en ligne et le paiement par mobile money sont « Must » ; les notifications de suivi sont « Should » ; un programme de fidélité est « Could » ; une version pour ordinateur est « Won’t » pour la première version.\n\nUn bon cahier des charges se reconnaît à ce qu’un prestataire peut le lire sans poser de questions de fond, et à ce que chaque exigence est vérifiable. « L’application doit être rapide » n’est pas vérifiable ; « l’affichage du catalogue doit prendre moins de trois secondes sur un réseau 4G » l’est. Le document doit enfin être daté, versionné et validé par la maîtrise d’ouvrage.",
+          "fichier": "",
+          "duree": "20 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Laquelle de ces formulations exprime un besoin plutôt qu’une solution ?",
+          "reponses": [
+            "« Nous voulons une application mobile »",
+            "« Nos clients de l’intérieur ne peuvent pas commander sans se déplacer »",
+            "« Nous voulons un service de commande par WhatsApp »",
+            "« Nous voulons un réseau de revendeurs »"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "À quoi sert la méthode QQOQCP ?",
+          "reponses": [
+            "Explorer le besoin à l’aide de six questions",
+            "Calculer la durée des tâches",
+            "Hiérarchiser les fonctions d’un produit",
+            "Répartir les responsabilités de l’équipe"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Qu’est-ce qui distingue les objectifs métier des objectifs du projet ?",
+          "reponses": [
+            "Ils portent sur le budget du projet",
+            "Ils sont fixés par la maîtrise d’œuvre",
+            "Ils sont mesurés le jour du lancement",
+            "Ils portent sur l’effet du livrable et se mesurent souvent plus tard"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Pourquoi faut-il écrire les hypothèses dans la note de cadrage ?",
+          "reponses": [
+            "Pour remplacer l’analyse des risques",
+            "Pour éviter de rédiger un cahier des charges",
+            "Pour pouvoir justifier un réajustement si l’une d’elles se révèle fausse",
+            "Pour fixer le salaire de l’équipe"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Que décrit un cahier des charges fonctionnel (CdCF) ?",
+          "reponses": [
+            "Les technologies et l’architecture retenues",
+            "Ce que le produit doit faire, sans imposer de solution technique",
+            "Le planning détaillé des travaux",
+            "Le procès-verbal de réception"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "La planification du projet",
+      "description": "Découper le projet en tâches, estimer les durées, construire un Gantt, calculer le chemin critique et établir le budget.",
+      "duree": "100",
+      "lecons": [
+        {
+          "titre": "Découper le projet : WBS et organigramme des tâches",
+          "type": "texte",
+          "texte": "Planifier un projet commence par le découper en éléments plus petits et maîtrisables. L’outil de référence est la structure de découpage du projet, appelée WBS (Work Breakdown Structure) en anglais et organigramme des tâches (OT) en français.\n\nLe WBS est une décomposition hiérarchique de l’ensemble du travail à réaliser. Au sommet figure le projet. Au niveau inférieur, on trouve les grands livrables ou les grandes phases. Chacun est à son tour découpé, jusqu’à obtenir des lots de travail suffisamment petits pour être estimés, confiés à un responsable et suivis.\n\nExemple : ouverture de l’agence de Bouaké.\n• 1. Local : 1.1 recherche et étude du local ; 1.2 négociation et signature du bail ; 1.3 travaux d’aménagement.\n• 2. Équipement : 2.1 commande du matériel informatique et du mobilier ; 2.2 installation et raccordement au réseau de l’entreprise.\n• 3. Ressources humaines : 3.1 recrutement des conseillers ; 3.2 formation du personnel.\n• 4. Lancement : 4.1 communication locale ; 4.2 inauguration.\n\nQuelques règles guident la construction d’un bon WBS :\n• la règle des 100 % : l’ensemble des éléments d’un niveau doit couvrir la totalité du travail du niveau supérieur, ni plus ni moins ; un travail absent du WBS ne sera ni planifié ni budgété ;\n• chaque lot de travail doit produire un résultat identifiable, de préférence nommé par un nom (« bail signé ») ou un verbe d’action précis ;\n• un lot de travail doit avoir un seul responsable ;\n• le niveau de détail doit rester raisonnable : en pratique, un lot représente souvent entre quelques jours et quelques semaines de travail.\n\nOn peut découper par livrables (ce que le projet produit) ou par phases (dans quel ordre on travaille). Le découpage par livrables est généralement recommandé, car il garantit qu’aucun résultat n’est oublié.\n\nLe WBS est construit en équipe, lors d’un atelier où chaque spécialiste apporte sa connaissance du travail. Il sert ensuite de base à toutes les étapes suivantes : estimation des durées et des coûts, ordonnancement, affectation des ressources, suivi de l’avancement. On lui associe souvent un dictionnaire du WBS qui décrit, pour chaque lot, son contenu, son responsable, ses livrables et ses critères d’acceptation.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Estimer les charges et les durées",
+          "type": "texte",
+          "texte": "Une fois les tâches identifiées, il faut estimer pour chacune le travail nécessaire. Deux notions doivent être distinguées.\n\nLa charge est la quantité de travail, exprimée en jours-hommes (ou jours-personnes) ou en heures. La durée est le temps calendaire qui s’écoule entre le début et la fin de la tâche. Elles sont liées par la relation suivante, lorsque les personnes travaillent à temps plein sur la tâche :\n\nDurée = Charge ÷ Nombre de personnes affectées\n\nExemple : la configuration des postes informatiques représente une charge de 12 jours-hommes. Avec deux techniciens à plein temps, la durée est de 6 jours ouvrés. Attention, cette relation a ses limites : ajouter des personnes ne réduit pas toujours la durée dans les mêmes proportions, car il faut les coordonner et certaines tâches ne se partagent pas.\n\nPlusieurs techniques d’estimation existent :\n• l’estimation par analogie : on se fonde sur un projet passé comparable ; si l’aménagement de l’agence de Daloa a pris cinq semaines, on retiendra un ordre de grandeur voisin ;\n• l’estimation paramétrique : on applique un ratio connu ; par exemple, un coût d’aménagement au mètre carré ou un nombre de jours par écran d’application ;\n• le jugement d’expert : on interroge ceux qui connaissent le travail, idéalement ceux qui le réaliseront ;\n• l’estimation à trois points, issue de la méthode PERT.\n\nL’estimation à trois points tient compte de l’incertitude. Pour chaque tâche, on demande trois valeurs : une durée optimiste (O), une durée la plus probable (M) et une durée pessimiste (P). On calcule ensuite une durée moyenne pondérée :\n\nDurée estimée = (O + 4 × M + P) ÷ 6\n\nExemple : pour les travaux d’aménagement, l’entrepreneur estime 3 semaines dans le meilleur des cas, 4 semaines le plus probablement et 11 semaines en cas de difficultés (retards d’approvisionnement, saison des pluies). La durée estimée est (3 + 4 × 4 + 11) ÷ 6 = 30 ÷ 6 = 5 semaines. Ce résultat est plus prudent que la valeur la plus probable, car il intègre le risque de dépassement.\n\nOn peut aussi calculer un écart-type, qui mesure la dispersion de l’estimation :\n\nÉcart-type = (P − O) ÷ 6\n\nIci, (11 − 3) ÷ 6 ≈ 1,3 semaine. Plus l’écart-type est grand, plus la tâche est incertaine et mérite d’être surveillée.\n\nUne estimation doit toujours être accompagnée de ses hypothèses : ressources prévues, niveau de compétence, conditions de travail. Elle est affinée au fur et à mesure que le projet avance et que l’information devient plus précise.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Ordonnancer les tâches et construire le diagramme de Gantt",
+          "type": "texte",
+          "texte": "Après l’estimation, il faut organiser les tâches dans le temps. Cela suppose d’identifier les dépendances, appelées aussi antériorités : une tâche ne peut souvent commencer qu’une fois une autre terminée. On ne lance pas les travaux d’aménagement avant d’avoir signé le bail.\n\nIl existe quatre types de liens entre deux tâches :\n• fin-début : la tâche B commence quand la tâche A est terminée ; c’est le lien le plus courant ;\n• début-début : B peut commencer en même temps que A ;\n• fin-fin : B ne peut se terminer que lorsque A est terminée ;\n• début-fin : B ne peut se terminer que lorsque A a commencé ; ce lien est rare.\n\nOn peut ajouter un délai (ou décalage) à un lien. Par exemple, la peinture ne peut commencer que trois jours après la fin des enduits, le temps du séchage.\n\nLes dépendances sont souvent rassemblées dans un tableau des antériorités, qui liste pour chaque tâche sa durée et ses prédécesseurs. Ce tableau est le point de départ du diagramme de Gantt et du calcul du chemin critique.\n\nLe diagramme de Gantt, du nom de l’ingénieur américain Henry Gantt, est la représentation la plus répandue du planning. Il se présente comme un tableau :\n• en lignes, les tâches, regroupées selon le WBS ;\n• en colonnes, l’échelle de temps : jours, semaines ou mois ;\n• chaque tâche est représentée par une barre horizontale dont la longueur correspond à sa durée ;\n• des flèches relient les tâches dépendantes ;\n• les jalons, événements sans durée (« bail signé », « agence ouverte »), sont représentés par un losange.\n\nLe Gantt a plusieurs usages. Il permet de visualiser rapidement l’enchaînement des tâches et la date de fin prévue. Il sert à répartir la charge des ressources et à repérer les périodes de surcharge. En cours de projet, on y superpose l’avancement réel, par exemple en remplissant chaque barre selon le pourcentage réalisé, ce qui fait apparaître les retards.\n\nIl faut aussi tenir compte du calendrier réel : jours fériés, congés, périodes de fermeture et, pour les chantiers, saison des pluies. Les logiciels de gestion de projet (MS Project, GanttProject, ou des outils en ligne) intègrent ces calendriers et recalculent automatiquement les dates lorsque l’on modifie une durée.\n\nUne fois validé par le comité de pilotage, le planning devient le planning de référence. Il est conservé tel quel pour pouvoir comparer, tout au long du projet, le prévu et le réel.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Cas pratique : chemin critique et marges",
+          "type": "texte",
+          "texte": "Le chemin critique est la suite de tâches dépendantes la plus longue du projet : sa durée donne la durée minimale du projet. Une tâche critique qui prend du retard retarde d’autant le projet entier.\n\nReprenons l’ouverture de l’agence de Bouaké, avec les durées en semaines et les antériorités suivantes :\n• A. Étude et choix du local : 2 semaines, aucune antériorité\n• B. Signature du bail : 1 semaine, après A\n• C. Travaux d’aménagement : 4 semaines, après B\n• D. Recrutement des conseillers : 5 semaines, après A\n• E. Commande et livraison du matériel : 3 semaines, après B\n• F. Installation du matériel : 1 semaine, après C et E\n• G. Formation du personnel : 2 semaines, après D\n• H. Inauguration : 1 semaine, après F et G\n\nÉtape 1 : dates au plus tôt. En partant de la semaine 0, une tâche commence au plus tôt à la plus grande date de fin de ses prédécesseurs.\n• A : 0 à 2 ; B : 2 à 3 ; D : 2 à 7 ;\n• C : 3 à 7 ; E : 3 à 6 ;\n• F : début au maximum de C (7) et E (6), soit 7, fin à 8 ;\n• G : 7 à 9 ;\n• H : début au maximum de F (8) et G (9), soit 9, fin à 10.\nLa durée minimale du projet est donc de 10 semaines.\n\nÉtape 2 : dates au plus tard. En remontant depuis la semaine 10, une tâche doit finir au plus tard à la plus petite date de début au plus tard de ses successeurs.\n• H : 9 à 10 ; G : 7 à 9 ; F : 8 à 9 ;\n• C : 4 à 8 ; E : 5 à 8 ; D : 2 à 7 ;\n• B : fin au plus tard au minimum de C (4) et E (5), soit 4, début à 3 ;\n• A : fin au plus tard au minimum de B (3) et D (2), soit 2, début à 0.\n\nÉtape 3 : marges. La marge totale d’une tâche est le retard qu’elle peut subir sans retarder la fin du projet :\n\nMarge totale = Date de début au plus tard − Date de début au plus tôt\n\n• A : 0 ; D : 0 ; G : 0 ; H : 0\n• B : 1 ; C : 1 ; F : 1 ; E : 2\n\nLe chemin critique est A – D – G – H, soit 2 + 5 + 2 + 1 = 10 semaines. Ce ne sont donc pas les travaux, mais le recrutement et la formation qui déterminent la date d’ouverture : le recrutement doit être lancé dès le choix du local et suivi de près.\n\nPour raccourcir le projet, il faut agir sur les tâches critiques, par exemple recruter en 4 semaines grâce à un cabinet ; raccourcir une tâche non critique ne sert à rien. Mais un autre chemin peut alors devenir critique : ici, A – B – C – F – H dure 9 semaines.",
+          "fichier": "",
+          "duree": "25 min"
+        },
+        {
+          "titre": "Établir le budget du projet",
+          "type": "texte",
+          "texte": "Le budget du projet traduit en valeur monétaire l’ensemble des ressources nécessaires. Il s’appuie directement sur le WBS : on estime le coût de chaque lot de travail, puis on additionne. Cette méthode, dite ascendante, est plus fiable qu’une enveloppe globale fixée sans analyse.\n\nLes principales catégories de coûts sont :\n• la main-d’œuvre interne : temps passé par les salariés, valorisé à leur coût journalier ;\n• les prestations externes : entreprises de travaux, consultants, développeurs, cabinet de recrutement ;\n• les achats de matériel et d’équipements ;\n• les frais de fonctionnement : déplacements, location de salles, communication ;\n• les licences, abonnements et frais d’exploitation pendant la durée du projet.\n\nPour valoriser la main-d’œuvre interne, on utilise la formule :\n\nCoût de main-d’œuvre = Charge en jours-hommes × Coût journalier\n\nExemple : un responsable informatique dont le coût complet est de 60 000 FCFA par jour, mobilisé 15 jours, représente 900 000 FCFA.\n\nBudget de l’agence de Bouaké :\n• Travaux d’aménagement : 12 000 000 FCFA\n• Matériel informatique et mobilier : 6 500 000 FCFA\n• Recrutement et formation : 3 000 000 FCFA\n• Communication et inauguration : 2 500 000 FCFA\nTotal des coûts estimés : 24 000 000 FCFA.\n\nÀ ce total, on ajoute une provision pour risques (ou réserve pour aléas), destinée à couvrir les imprévus identifiés. Elle est souvent comprise entre 5 et 15 % selon le niveau d’incertitude. Avec 10 % :\n\nProvision = 24 000 000 × 10 % = 2 400 000 FCFA\n\nBudget total du projet = 24 000 000 + 2 400 000 = 26 400 000 FCFA.\n\nLa provision n’est pas une marge de confort à dépenser librement : son utilisation est justifiée et soumise à l’accord du chef de projet ou du comité de pilotage selon les montants.\n\nLe budget doit aussi être réparti dans le temps. En croisant le budget de chaque tâche avec le planning, on obtient un échéancier des dépenses, souvent représenté par une courbe cumulée en forme de S. Cet échéancier permet à la direction financière de prévoir la trésorerie : dans notre exemple, les décaissements les plus importants interviennent pendant les travaux et la livraison du matériel.\n\nEnfin, le budget de référence validé servira de base au suivi : on comparera régulièrement les dépenses réelles et les engagements (commandes passées mais pas encore payées) aux montants prévus, afin de détecter tôt les dépassements.",
+          "fichier": "",
+          "duree": "20 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Quel type de découpage du WBS est généralement recommandé ?",
+          "reponses": [
+            "Par service de l’entreprise",
+            "Par fournisseur",
+            "Par livrables",
+            "Par ordre alphabétique des tâches"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Quelle est la différence entre la charge et la durée d’une tâche ?",
+          "reponses": [
+            "La charge est la quantité de travail, la durée le temps calendaire",
+            "La charge est le coût, la durée le nombre de personnes",
+            "La charge et la durée désignent la même chose",
+            "La charge est le temps calendaire, la durée le travail en jours-hommes"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Comment représente-t-on un jalon dans un diagramme de Gantt ?",
+          "reponses": [
+            "Par une barre horizontale",
+            "Par une flèche",
+            "Par une colonne grisée",
+            "Par un losange"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Qu’est-ce que la marge totale d’une tâche ?",
+          "reponses": [
+            "Le budget non dépensé de la tâche",
+            "Le retard qu’elle peut subir sans retarder la fin du projet",
+            "La différence entre durée optimiste et pessimiste",
+            "Le temps de séchage entre deux tâches"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Un salarié dont le coût journalier est de 60 000 FCFA est mobilisé 15 jours. Quel est le coût de sa main-d’œuvre ?",
+          "reponses": [
+            "75 000 FCFA",
+            "400 000 FCFA",
+            "600 000 FCFA",
+            "900 000 FCFA"
+          ],
+          "bonne": 3
+        }
+      ]
+    },
+    {
+      "titre": "Le pilotage du projet",
+      "description": "Suivre l’avancement avec un tableau de bord, maîtriser les risques et organiser la communication et les réunions.",
+      "duree": "85",
+      "lecons": [
+        {
+          "titre": "Le tableau de bord et les indicateurs de suivi",
+          "type": "texte",
+          "texte": "Piloter un projet, c’est comparer régulièrement le prévu et le réel, puis décider des actions correctives. Le tableau de bord est l’outil qui rassemble les informations nécessaires à cette comparaison, sous une forme lisible en quelques minutes par le comité de pilotage.\n\nUn tableau de bord de projet comprend généralement :\n• l’état d’avancement global et celui des principaux lots ;\n• le respect des jalons : prévus, atteints, en retard ;\n• la situation budgétaire : budget prévu, dépenses réelles, engagements, reste à dépenser ;\n• les principaux risques et problèmes en cours ;\n• les décisions attendues du comité.\n\nOn y utilise souvent une « météo » ou un code couleur : vert lorsque tout est conforme, orange en cas d’écart maîtrisé, rouge lorsqu’une décision est nécessaire. Ce code doit reposer sur des seuils définis à l’avance, par exemple orange au-delà de 5 % de dépassement budgétaire et rouge au-delà de 10 %.\n\nUn bon indicateur est simple, mesurable, utile à la décision et mis à jour régulièrement. Il vaut mieux suivre cinq indicateurs fiables que vingt indicateurs que personne ne lit.\n\nLa méthode de la valeur acquise, recommandée par le PMBOK, permet de mesurer conjointement le respect du délai et du budget. Elle repose sur trois grandeurs, exprimées en FCFA à une date donnée :\n• la valeur planifiée (VP) : le coût budgété du travail qui devait être réalisé à cette date ;\n• la valeur acquise (VA) : le coût budgété du travail réellement réalisé ;\n• le coût réel (CR) : ce qui a réellement été dépensé pour ce travail.\n\nOn en déduit deux indices de performance :\n\nIndice de performance des délais (SPI) = VA ÷ VP\n\nIndice de performance des coûts (CPI) = VA ÷ CR\n\nUn indice égal à 1 signifie que le projet est conforme. Inférieur à 1, il signale un retard (SPI) ou un surcoût (CPI). Supérieur à 1, il indique une avance ou une économie.\n\nExemple : à la fin de la semaine 6 du projet d’agence, la valeur planifiée est de 14 000 000 FCFA. Le travail effectivement réalisé correspond à 12 000 000 FCFA de budget, et les dépenses réelles s’élèvent à 13 500 000 FCFA.\n• SPI = 12 000 000 ÷ 14 000 000 ≈ 0,86 : le projet est en retard ;\n• CPI = 12 000 000 ÷ 13 500 000 ≈ 0,89 : chaque franc dépensé ne produit que 0,89 franc de travail prévu, le projet coûte plus cher que prévu.\n\nLe chef de projet doit alors analyser les causes (tâche sous-estimée, fournisseur en retard, travaux supplémentaires) et proposer des actions correctives au comité de pilotage.",
+          "fichier": "",
+          "duree": "25 min"
+        },
+        {
+          "titre": "La gestion des risques",
+          "type": "texte",
+          "texte": "Un risque est un événement incertain qui, s’il se produit, aurait un effet sur les objectifs du projet. Il se distingue d’un problème, qui est déjà survenu. Gérer les risques, c’est anticiper pour éviter de subir.\n\nLa démarche comporte cinq étapes.\n\n1. Identifier les risques. On organise un atelier avec l’équipe et l’on s’appuie sur l’expérience des projets passés. On formule chaque risque sous la forme « cause, événement, conséquence ». Par exemple : « en raison de la saison des pluies, le chantier peut prendre du retard, ce qui retarderait l’ouverture de l’agence ».\n\n2. Évaluer les risques. Pour chaque risque, on note la probabilité qu’il se produise et la gravité de son impact, par exemple sur une échelle de 1 (faible) à 4 (très fort). On calcule ensuite sa criticité :\n\nCriticité = Probabilité × Impact\n\n3. Hiérarchiser avec la matrice probabilité × impact. On place chaque risque dans un tableau à double entrée : la probabilité sur un axe, l’impact sur l’autre. On définit des zones : par exemple, criticité de 1 à 3 en zone verte (risque acceptable, simple surveillance), de 4 à 8 en zone orange (actions à prévoir), de 9 à 16 en zone rouge (traitement prioritaire).\n\nExemple pour l’agence de Bouaké :\n• retard du chantier lié aux pluies : probabilité 3, impact 3, criticité 9, zone rouge ;\n• départ d’un conseiller recruté avant l’ouverture : probabilité 2, impact 2, criticité 4, zone orange ;\n• rupture de stock du matériel chez le fournisseur : probabilité 2, impact 3, criticité 6, zone orange ;\n• coupure d’électricité le jour de l’inauguration : probabilité 1, impact 2, criticité 2, zone verte.\n\n4. Traiter les risques. Quatre stratégies sont possibles pour une menace :\n• éviter : modifier le projet pour supprimer le risque, par exemple choisir un local qui ne nécessite pas de gros travaux ;\n• réduire (ou atténuer) : diminuer la probabilité ou l’impact, par exemple planifier les travaux extérieurs avant la saison des pluies ;\n• transférer : confier tout ou partie du risque à un tiers, par exemple par une assurance ou des pénalités de retard dans le contrat de l’entreprise ;\n• accepter : ne rien faire de particulier, éventuellement en prévoyant une réserve ou un plan de secours, comme la location d’un groupe électrogène.\n\n5. Suivre les risques. Tous ces éléments sont consignés dans un registre des risques qui précise, pour chaque risque, sa criticité, l’action décidée, son responsable et son échéance. Le registre est revu à chaque comité de projet : de nouveaux risques apparaissent, d’autres disparaissent.\n\nLe PMBOK rappelle qu’un risque peut aussi être positif : on parle alors d’opportunité, par exemple une remise exceptionnelle d’un fournisseur.",
+          "fichier": "",
+          "duree": "25 min"
+        },
+        {
+          "titre": "Organiser la communication du projet",
+          "type": "texte",
+          "texte": "Une grande partie du temps d’un chef de projet est consacrée à la communication. Un projet techniquement bien conduit peut échouer si les parties prenantes ne sont pas informées, si les décisions ne sont pas transmises ou si les utilisateurs découvrent le changement au dernier moment.\n\nOn distingue la communication interne au projet, destinée à l’équipe et aux instances de pilotage, et la communication externe, destinée aux utilisateurs, aux clients, aux partenaires ou au grand public.\n\nPour organiser cette communication, on établit un plan de communication. Il répond, pour chaque public, aux questions suivantes :\n• à qui communiquer ? (en s’appuyant sur l’analyse des parties prenantes) ;\n• quoi communiquer ? (avancement, décisions, changements à venir) ;\n• quand et à quelle fréquence ?\n• par quel moyen ? (réunion, courriel, note, affichage, messagerie instantanée, site intranet) ;\n• qui est l’émetteur ?\n\nExemple de plan de communication pour l’application de commande d’une PME :\n• Comité de pilotage : tableau de bord mensuel présenté en réunion par le chef de projet ;\n• Équipe projet : point hebdomadaire et outil de suivi des tâches partagé ;\n• Commerciaux : réunion d’information au lancement, puis démonstration avant la mise en ligne ;\n• Clients : campagne SMS et réseaux sociaux deux semaines avant le lancement ;\n• Direction générale : note de synthèse trimestrielle.\n\nQuelques règles de bonne pratique :\n• adapter le message à son destinataire : un directeur attend une synthèse et des décisions à prendre, un technicien a besoin de détails opérationnels ;\n• privilégier la régularité : un rendez-vous fixe rassure et évite les sollicitations désordonnées ;\n• dire les mauvaises nouvelles tôt : un retard annoncé en amont laisse le temps de réagir ; découvert à la dernière minute, il détruit la confiance ;\n• garder une trace écrite des décisions importantes ;\n• centraliser les documents du projet dans un espace partagé, avec une gestion des versions.\n\nL’usage des messageries instantanées, très répandu en Côte d’Ivoire, facilite les échanges rapides. Il faut cependant éviter qu’elles deviennent le seul canal : les décisions prises dans un groupe de discussion doivent être confirmées par écrit dans le compte rendu ou le registre des décisions, faute de quoi elles se perdent rapidement.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Conduire les réunions de projet et gérer les changements",
+          "type": "texte",
+          "texte": "Les réunions rythment la vie du projet. Bien conduites, elles permettent de partager l’information, de résoudre les problèmes et de prendre des décisions. Mal préparées, elles font perdre beaucoup de temps.\n\nLes principales réunions d’un projet sont :\n• la réunion de lancement (kick-off) : elle présente les objectifs, l’organisation, le planning et les règles de fonctionnement à l’ensemble des acteurs ; elle marque le début officiel des travaux ;\n• le comité de projet : réunion opérationnelle, souvent hebdomadaire, qui suit l’avancement des tâches, les difficultés et les risques ;\n• le comité de pilotage : réunion décisionnelle, souvent mensuelle ou à chaque jalon, qui arbitre les questions de budget, de délai et de périmètre ;\n• les réunions de travail thématiques : ateliers de conception, de résolution de problèmes ;\n• la réunion de clôture, qui dresse le bilan du projet.\n\nUne réunion efficace se prépare. Il faut :\n• définir un objectif clair : informer, décider, résoudre un problème ;\n• envoyer à l’avance un ordre du jour précis, avec la durée prévue pour chaque point et les documents utiles ;\n• n’inviter que les personnes nécessaires ;\n• désigner un animateur, qui veille au respect du temps et donne la parole, et un rédacteur du compte rendu.\n\nÀ la fin de la réunion, on récapitule les décisions et les actions. Le compte rendu, diffusé dans les 24 à 48 heures, comporte au minimum la liste des participants, les décisions prises et un relevé d’actions précisant pour chaque action : qui fait quoi, et pour quand. Ce relevé est repris au début de la réunion suivante pour vérifier ce qui a été fait.\n\nLes réunions sont aussi le lieu où se traitent les demandes de changement. En cours de projet, les demandes de modification sont inévitables : ajouter une fonction à l’application, agrandir la salle d’accueil de l’agence. Accepter chaque demande au fil de l’eau conduit à la dérive du périmètre, avec des retards et des surcoûts.\n\nLa gestion des changements suit une procédure simple :\n• la demande est formalisée par écrit et enregistrée ;\n• le chef de projet en analyse l’impact sur le coût, le délai, la qualité et les risques ;\n• l’instance compétente, en général le comité de pilotage, accepte, refuse ou reporte la demande ;\n• si elle est acceptée, le planning et le budget de référence sont mis à jour et la décision est communiquée.\n\nPar exemple, si le directeur régional demande un guichet supplémentaire estimé à 1 800 000 FCFA et une semaine de travaux, le comité de pilotage décidera en connaissance de cause s’il l’intègre maintenant, sur la provision pour risques ou par un budget complémentaire, ou s’il le reporte après l’ouverture.",
+          "fichier": "",
+          "duree": "20 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Dans la méthode de la valeur acquise, que représente le coût réel (CR) ?",
+          "reponses": [
+            "Le coût budgété du travail prévu",
+            "Ce qui a réellement été dépensé pour le travail réalisé",
+            "Le coût budgété du travail réalisé",
+            "La provision pour risques"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Que signifie un indice de performance des coûts (CPI) de 0,89 ?",
+          "reponses": [
+            "Le projet coûte plus cher que prévu",
+            "Le projet réalise des économies",
+            "Le projet est en avance",
+            "Le projet est exactement conforme au budget"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Qu’est-ce qui distingue un risque d’un problème ?",
+          "reponses": [
+            "Un risque est toujours positif",
+            "Un problème n’a pas d’impact sur le projet",
+            "Un risque concerne uniquement le budget",
+            "Un risque est incertain, un problème est déjà survenu"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Prévoir des pénalités de retard dans le contrat de l’entreprise de travaux relève de quelle stratégie ?",
+          "reponses": [
+            "Éviter le risque",
+            "Accepter le risque",
+            "Transférer le risque",
+            "Ignorer le risque"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Que doit préciser le relevé d’actions d’un compte rendu de réunion ?",
+          "reponses": [
+            "La durée de chaque intervention",
+            "Qui fait quoi, et pour quand",
+            "Le lieu de la prochaine réunion",
+            "Les opinions personnelles des participants"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "Agilité et clôture du projet",
+      "description": "Appliquer les principes de Scrum et conduire la réception, le bilan et le retour d’expérience d’un projet.",
+      "duree": "75",
+      "lecons": [
+        {
+          "titre": "Les principes de l’approche agile",
+          "type": "texte",
+          "texte": "L’approche agile est née dans le développement de logiciels, en réaction aux projets planifiés intégralement au départ et livrés après de longs mois, parfois pour découvrir que le résultat ne correspondait plus au besoin. En 2001, un groupe de praticiens a publié le Manifeste pour le développement agile de logiciels, qui énonce quatre valeurs. Ses auteurs privilégient :\n• les individus et leurs interactions plutôt que les processus et les outils ;\n• un logiciel qui fonctionne plutôt qu’une documentation exhaustive ;\n• la collaboration avec le client plutôt que la négociation contractuelle ;\n• l’adaptation au changement plutôt que le suivi d’un plan.\n\nLe manifeste précise que les éléments de droite gardent de la valeur, mais que ceux de gauche en ont davantage. Il ne s’agit donc pas de supprimer la documentation ou la planification, mais de les remettre à leur juste place.\n\nConcrètement, un projet agile se caractérise par :\n• un développement itératif : le travail est organisé en cycles courts, de une à quatre semaines ;\n• des livraisons incrémentales : à la fin de chaque cycle, une partie utilisable du produit est livrée et montrée aux utilisateurs ;\n• une priorisation continue : on réalise d’abord ce qui apporte le plus de valeur ;\n• l’implication régulière du client ou de son représentant ;\n• une équipe autonome et pluridisciplinaire, qui organise elle-même son travail.\n\nLa logique du triangle coût-délai-qualité est inversée. En approche prédictive, le périmètre est fixé et l’on estime le coût et le délai nécessaires. En approche agile, le délai (la durée des cycles) et les moyens (l’équipe) sont fixés, et c’est le contenu livré qui s’ajuste selon les priorités.\n\nL’agilité convient particulièrement lorsque le besoin est incertain ou évolutif, lorsque l’on peut livrer par morceaux et lorsque le client est disponible. C’est le cas du lancement d’une application de paiement mobile, dont les fonctions seront ajustées selon les retours des premiers utilisateurs. Elle est moins adaptée à un projet dont le résultat ne peut pas être livré partiellement et dont les exigences sont stables : on ne construit pas une agence bancaire « pièce par pièce » en changeant les plans à chaque étape.\n\nBeaucoup d’organisations combinent les deux approches : un cadrage et une planification d’ensemble classiques, et une réalisation agile pour les composantes numériques. On parle alors d’approche hybride.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Scrum : rôles, artefacts et événements",
+          "type": "texte",
+          "texte": "Scrum est le cadre agile le plus utilisé. Il est décrit dans un court document de référence, le Guide Scrum, et repose sur trois rôles, trois artefacts et cinq événements.\n\nLes trois rôles, qui forment l’équipe Scrum :\n• le Product Owner (propriétaire du produit) : il représente les utilisateurs et le commanditaire, définit la vision du produit et décide de l’ordre de priorité des travaux ; il est seul responsable du backlog produit ;\n• les développeurs : les membres de l’équipe qui réalisent le travail ; ils sont pluridisciplinaires (conception, développement, tests) et s’organisent eux-mêmes ;\n• le Scrum Master : il veille au respect du cadre Scrum, aide l’équipe à s’améliorer et lève les obstacles qui la freinent ; ce n’est pas un chef hiérarchique.\n\nLes trois artefacts :\n• le backlog produit : la liste ordonnée de tout ce qui pourrait être réalisé dans le produit ; les éléments sont souvent rédigés sous forme de récits utilisateurs, par exemple « en tant que client, je veux payer par mobile money afin de ne pas me déplacer » ;\n• le backlog de sprint : les éléments sélectionnés pour le sprint en cours, avec le plan pour les réaliser ;\n• l’incrément : la partie du produit terminée et utilisable produite pendant le sprint, conforme à la « définition de terminé » partagée par l’équipe.\n\nLes cinq événements :\n• le sprint : un cycle de durée fixe, d’un mois au maximum, souvent deux semaines, qui contient tous les autres événements ;\n• la planification du sprint : l’équipe choisit les éléments du backlog produit qu’elle s’engage à réaliser et fixe l’objectif du sprint ;\n• la mêlée quotidienne (daily scrum) : une réunion de 15 minutes au plus, chaque jour, où les développeurs font le point sur l’avancement vers l’objectif du sprint et sur les obstacles ;\n• la revue de sprint : l’équipe présente l’incrément aux parties prenantes, recueille leurs retours et le backlog produit est ajusté ;\n• la rétrospective : l’équipe examine sa façon de travailler et décide d’améliorations pour le sprint suivant.\n\nExemple : une start-up d’Abidjan développe une application de livraison de repas en sprints de deux semaines. Au sprint 1, l’équipe livre l’inscription et la consultation des restaurants ; au sprint 2, la commande ; au sprint 3, le paiement mobile. À chaque revue, quelques restaurateurs et clients testent l’application. Lors de la revue du sprint 2, ils signalent que beaucoup de clients préfèrent payer à la livraison : le Product Owner remonte cette fonction en haut du backlog produit.\n\nPour suivre l’avancement, l’équipe utilise souvent un tableau des tâches (à faire, en cours, terminé) et un graphique d’avancement (burndown chart) qui montre le travail restant jour après jour.",
+          "fichier": "",
+          "duree": "25 min"
+        },
+        {
+          "titre": "La réception et la clôture du projet",
+          "type": "texte",
+          "texte": "La clôture est une phase à part entière, souvent négligée lorsque l’équipe est déjà sollicitée par d’autres travaux. Elle comporte deux volets : la réception du résultat et la clôture administrative du projet.\n\nLa réception est l’acte par lequel la maîtrise d’ouvrage accepte le résultat livré par la maîtrise d’œuvre. Elle se prépare dès le cahier des charges, qui définit les critères d’acceptation. Elle se déroule généralement en plusieurs temps :\n• les vérifications et recettes : on contrôle que le résultat est conforme aux exigences ; pour une application, on parle de recette, réalisée à partir de scénarios de tests représentatifs de l’usage réel ; pour des travaux, d’une visite contradictoire du chantier ;\n• le procès-verbal de réception : document signé par la maîtrise d’ouvrage et la maîtrise d’œuvre, qui constate l’état du résultat à la date de réception.\n\nLa réception peut être prononcée :\n• sans réserve : le résultat est entièrement conforme ;\n• avec réserves : le résultat est utilisable, mais des défauts mineurs sont listés et doivent être corrigés dans un délai convenu ; par exemple, une porte qui ferme mal ou un écran de l’application mal affiché sur certains téléphones ;\n• ou être refusée, si les défauts empêchent l’utilisation normale.\n\nLa signature du procès-verbal a des conséquences importantes : elle transfère la responsabilité du résultat à la maîtrise d’ouvrage, déclenche souvent le paiement du solde au prestataire et fait courir les délais de garantie. Il ne faut donc pas la signer à la légère.\n\nPour l’agence de Bouaké, la réception des travaux peut être prononcée avec deux réserves : la climatisation d’un bureau et la signalétique extérieure, à corriger sous quinze jours. Une retenue sur le paiement de l’entreprise peut être maintenue jusqu’à la levée des réserves, si le contrat le prévoit.\n\nLa clôture administrative comprend ensuite :\n• la clôture des contrats et le règlement des derniers fournisseurs ;\n• l’arrêté des comptes du projet : coût final comparé au budget de référence ;\n• le transfert du résultat aux équipes qui l’exploiteront : documentation, formation, contrats de maintenance ;\n• l’archivage des documents du projet ;\n• la libération des ressources et la reconnaissance du travail de l’équipe ;\n• la décision formelle de clôture prise par le comité de pilotage.\n\nCe passage de relais vers l’exploitation est essentiel. Une application livrée sans équipe pour la maintenir, ou une agence ouverte sans procédures de fonctionnement, compromet les bénéfices attendus du projet.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le bilan et le retour d’expérience",
+          "type": "texte",
+          "texte": "Le bilan de projet et le retour d’expérience permettent de tirer parti de chaque projet pour mieux réussir les suivants. Ils sont distincts, même s’ils sont souvent réalisés ensemble.\n\nLe bilan de projet compare les résultats obtenus aux objectifs fixés dans la note de cadrage. Il porte sur :\n• le respect du délai : date de livraison réelle par rapport à la date prévue ;\n• le respect du budget : coût final par rapport au budget de référence, et utilisation de la provision pour risques ;\n• la qualité : conformité du résultat aux exigences, réserves émises à la réception ;\n• l’atteinte des objectifs métier, lorsque c’est déjà possible ; sinon, on fixe une date pour les mesurer, par exemple six mois après l’ouverture de l’agence ;\n• la satisfaction des parties prenantes, recueillie par un questionnaire ou des entretiens.\n\nExemple de bilan chiffré pour l’agence de Bouaké : ouverture le 15 mars au lieu du 1er mars, soit deux semaines de retard dues au recrutement ; coût final de 25 700 000 FCFA pour un budget de 26 400 000 FCFA, dont 1 700 000 FCFA prélevés sur la provision pour risques ; réception avec deux réserves levées dans les délais.\n\nLe retour d’expérience (REX), appelé aussi « leçons apprises », s’intéresse moins aux chiffres qu’à la manière dont le projet a été conduit. Il cherche à identifier ce qui a bien fonctionné, à reproduire, et ce qui a posé problème, à éviter. On l’organise lors d’un atelier réunissant l’équipe et les principaux acteurs, autour de quelques questions :\n• qu’est-ce qui a bien fonctionné ?\n• qu’est-ce qui a posé difficulté, et pourquoi ?\n• qu’aurions-nous dû faire autrement ?\n• quelles recommandations pour les prochains projets ?\n\nQuelques conditions favorisent un retour d’expérience utile :\n• le mener rapidement après la fin du projet, quand les souvenirs sont précis ;\n• adopter un climat de confiance : on cherche des causes, pas des coupables ;\n• formuler des recommandations concrètes et applicables, par exemple « lancer le recrutement dès la décision d’ouverture, avant même le choix du local » ;\n• les consigner dans une base accessible aux futurs chefs de projet et les consulter réellement au démarrage des projets suivants.\n\nDans une approche agile, cet apprentissage n’attend pas la fin du projet : la rétrospective de chaque sprint en est une forme continue. Dans tous les cas, une organisation qui capitalise régulièrement ses expériences améliore progressivement ses estimations, sa maîtrise des risques et la réussite de ses projets.",
+          "fichier": "",
+          "duree": "15 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Selon le Manifeste agile, que privilégie-t-on ?",
+          "reponses": [
+            "Le suivi d’un plan plutôt que l’adaptation",
+            "Une documentation exhaustive plutôt qu’un logiciel qui fonctionne",
+            "L’adaptation au changement plutôt que le suivi d’un plan",
+            "La négociation contractuelle plutôt que la collaboration"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "En approche agile, quel élément s’ajuste selon les priorités ?",
+          "reponses": [
+            "Le contenu livré",
+            "La durée des cycles",
+            "La taille de l’équipe",
+            "La date de fin de chaque sprint"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Quel est le rôle du Scrum Master ?",
+          "reponses": [
+            "Fixer l’ordre de priorité du backlog",
+            "Réaliser seul les développements",
+            "Diriger l’équipe comme un chef hiérarchique",
+            "Veiller au respect du cadre Scrum et lever les obstacles"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Que signifie une réception prononcée « avec réserves » ?",
+          "reponses": [
+            "Le résultat est refusé",
+            "Le résultat est utilisable, mais des défauts mineurs doivent être corrigés",
+            "Le résultat est entièrement conforme",
+            "Le paiement du prestataire est annulé"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Quelle condition favorise un retour d’expérience utile ?",
+          "reponses": [
+            "Le mener plusieurs années après le projet",
+            "Le limiter aux seuls chiffres du budget",
+            "Chercher des causes, pas des coupables",
+            "Le réserver au seul chef de projet"
+          ],
+          "bonne": 2
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Parmi les situations suivantes, laquelle correspond à un projet plutôt qu’à une activité courante ?",
+      "reponses": [
+        "La facturation mensuelle des clients",
+        "L’ouverture d’une nouvelle agence à Yamoussoukro",
+        "Le paiement des salaires chaque fin de mois",
+        "La tenue quotidienne de la caisse"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Quel est le rôle de la maîtrise d’ouvrage (MOA) dans un projet ?",
+      "reponses": [
+        "Concevoir et réaliser la solution technique",
+        "Animer la mêlée quotidienne de l’équipe",
+        "Exprimer le besoin, financer le projet et réceptionner le résultat",
+        "Rédiger les spécifications techniques détaillées"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Dans une matrice pouvoir / intérêt, comment traiter une partie prenante au pouvoir faible mais très intéressée par le projet ?",
+      "reponses": [
+        "L’informer régulièrement, car elle peut devenir un relais ou un opposant",
+        "L’ignorer, car elle n’a pas d’influence",
+        "L’associer à toutes les décisions du comité de pilotage",
+        "Se limiter à une surveillance occasionnelle"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "La direction demande d’avancer d’un mois l’ouverture d’une agence sans modifier le budget. Quelle est la conséquence la plus probable selon le triangle coût-délai-qualité ?",
+      "reponses": [
+        "Aucune, les contraintes sont indépendantes",
+        "Une réduction automatique des risques",
+        "Une augmentation de la qualité",
+        "Une réduction du périmètre ou du niveau de qualité"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Quel objectif respecte les critères SMART ?",
+      "reponses": [
+        "Développer nos ventes à Bouaké",
+        "Ouvrir une agence à Bouaké opérationnelle au 1er mars et réaliser 60 millions de FCFA de chiffre d’affaires sur douze mois",
+        "Moderniser la gestion commerciale de l’entreprise",
+        "Être le leader du marché le plus vite possible"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Pourquoi la note de cadrage comporte-t-elle une rubrique « hors périmètre » ?",
+      "reponses": [
+        "Pour lister les fournisseurs écartés",
+        "Pour indiquer les dépenses non budgétées",
+        "Pour éviter la dérive du périmètre en précisant ce que le projet ne couvre pas",
+        "Pour présenter les risques acceptés"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Dans la méthode MoSCoW, que signifie une exigence classée « Must have » ?",
+      "reponses": [
+        "Elle est indispensable : le produit n’a pas de sens sans elle",
+        "Elle est souhaitable si le budget le permet",
+        "Elle est écartée pour cette version",
+        "Elle est importante mais contournable"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Quelle règle doit respecter un WBS (organigramme des tâches) ?",
+      "reponses": [
+        "Chaque lot de travail doit avoir plusieurs responsables",
+        "Il ne doit contenir que les tâches critiques",
+        "Il doit être découpé uniquement par mois",
+        "L’ensemble des éléments d’un niveau doit couvrir 100 % du travail du niveau supérieur"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Une tâche a une durée optimiste de 3 semaines, la plus probable de 4 semaines et pessimiste de 11 semaines. Quelle est sa durée estimée selon la formule PERT ?",
+      "reponses": [
+        "4 semaines",
+        "6 semaines",
+        "5 semaines",
+        "7 semaines"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Une tâche représente une charge de 12 jours-hommes. Combien de jours dure-t-elle si deux personnes y travaillent à plein temps ?",
+      "reponses": [
+        "6 jours",
+        "12 jours",
+        "24 jours",
+        "3 jours"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Dans l’exemple de l’agence de Bouaké, le chemin critique A – D – G – H totalise 2 + 5 + 2 + 1 semaines. Que se passe-t-il si le recrutement (D) prend une semaine de retard ?",
+      "reponses": [
+        "Rien, car le recrutement dispose de 2 semaines de marge",
+        "Le projet est retardé d’une semaine",
+        "Seul le budget est affecté",
+        "La formation peut absorber le retard sans conséquence"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Un projet a un coût estimé de 24 000 000 FCFA. On ajoute une provision pour risques de 10 %. Quel est le budget total ?",
+      "reponses": [
+        "24 240 000 FCFA",
+        "21 600 000 FCFA",
+        "34 000 000 FCFA",
+        "26 400 000 FCFA"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Un risque a une probabilité de 3 et un impact de 3 sur une échelle de 1 à 4. Avec des zones verte (1 à 3), orange (4 à 8) et rouge (9 à 16), comment est-il classé ?",
+      "reponses": [
+        "Criticité 9, zone rouge : traitement prioritaire",
+        "Criticité 6, zone orange",
+        "Criticité 3, zone verte",
+        "Criticité 9, zone orange"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "À une date donnée, la valeur acquise est de 12 000 000 FCFA et la valeur planifiée de 14 000 000 FCFA. Que révèle l’indice de performance des délais (SPI) ?",
+      "reponses": [
+        "Le projet est en avance, SPI ≈ 1,17",
+        "Le projet respecte exactement le planning",
+        "Le projet est en retard, SPI ≈ 0,86",
+        "Le projet est en surcoût, SPI ≈ 0,89"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Dans Scrum, qui est responsable de l’ordre de priorité du backlog produit ?",
+      "reponses": [
+        "Le Scrum Master",
+        "Le Product Owner",
+        "Le comité de pilotage",
+        "Les développeurs, à l’unanimité"
+      ],
+      "bonne": 1
+    }
+  ]
+}

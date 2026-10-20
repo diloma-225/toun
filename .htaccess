@@ -1,0 +1,33 @@
+<IfModule mod_headers.c>
+    <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico|mp4|webm|mp3)$">
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
+</IfModule>
+
+<IfModule php_module>
+    php_value upload_max_filesize 200M
+    php_value post_max_size 210M
+    php_value max_execution_time 300
+    php_value max_input_time 300
+</IfModule>
+
+<IfModule php7_module>
+    php_value upload_max_filesize 200M
+    php_value post_max_size 210M
+    php_value max_execution_time 300
+    php_value max_input_time 300
+</IfModule>
+
+<IfModule mod_php.c>
+    php_value upload_max_filesize 200M
+    php_value post_max_size 210M
+    php_value max_execution_time 300
+    php_value max_input_time 300
+</IfModule>
+
+<IfModule mod_php7.c>
+    php_value upload_max_filesize 200M
+    php_value post_max_size 210M
+    php_value max_execution_time 300
+    php_value max_input_time 300
+</IfModule>

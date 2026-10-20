@@ -1,0 +1,15 @@
+.dropdown.open .dropdown-link {
+    color: #3f68ae;
+}
+
+.dropdown.open .dropdown-link i {
+    color: #3f68ae;
+    transform: rotate(180deg);
+}
+
+.dropdown.open .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+}

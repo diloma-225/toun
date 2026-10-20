@@ -1,0 +1,17 @@
+# Configuration locale et clés secrètes (voir les fichiers *.exemple.php)
+config/paiement_cles.php
+config/serveur.php
+
+# Fichiers trop lourds pour GitHub
+*.psd
+
+# Documents Word et fichiers temporaires Word
+*.doc
+*.docx
+~$*
+
+# Exports de base de données
+*.sql
+
+# Copies de sauvegarde
+sauvegarde_*/

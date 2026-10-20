@@ -1,0 +1,144 @@
+{
+    "ressources": [
+        {
+            "formation": "comptabilite financiere",
+            "titre": "Acte uniforme OHADA relatif au droit comptable (AUDCIF) – page officielle",
+            "type": "lien",
+            "lien": "https://www.ohada.org/acte-uniforme-relatif-au-droit-comptable-et-a-linformation-financiere-audcif/",
+            "module": 1
+        },
+        {
+            "formation": "comptabilite financiere",
+            "titre": "Texte de l'Acte uniforme AUDCIF du 26 janvier 2017 (PDF)",
+            "type": "pdf",
+            "lien": "https://www.vie-publique.sn/docs/de65ef47-235b-4b9a-80ec-f78b97ed7194/acte-uniforme-droit-comptable-information-financiere-ohada-2017.pdf",
+            "module": 1
+        },
+        {
+            "formation": "comptabilite financiere",
+            "titre": "Publication de l'AUDCIF et du SYSCOHADA révisé au Journal officiel OHADA",
+            "type": "lien",
+            "lien": "https://www.ohada.com/actualite/3349/publication-du-nouvel-acte-uniforme-relatif-au-droit-comptable-et-a-linformation-financiere-audcif.html",
+            "module": 1
+        },
+        {
+            "formation": "comptabilite financiere",
+            "titre": "Formation des formateurs au SYSCOHADA révisé (amortissements, dépréciations)",
+            "type": "pdf",
+            "lien": "https://www.ohada.com/uploads/actualite/3504/Support-de-formation-des-formateurs-sur-le-SYSCOHADA.pdf",
+            "module": 2
+        },
+        {
+            "formation": "gestion de projet",
+            "titre": "Le Guide Scrum 2020 – version officielle en français",
+            "type": "pdf",
+            "lien": "https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-French.pdf",
+            "module": 5
+        },
+        {
+            "formation": "gestion de projet",
+            "titre": "Gestion de projet – manuel libre (cadrage, planification, risques, clôture)",
+            "type": "pdf",
+            "lien": "https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/1934/2/Gestion%20de%20projet.pdf",
+            "module": 2
+        },
+        {
+            "formation": "gestion de projet",
+            "titre": "Méthodologie de gestion de projet PM² v3.1 – guide en français",
+            "type": "lien",
+            "lien": "https://pm2.europa.eu/news/pm2-project-management-guide-v31-now-available-french-2025-08-07_fr",
+            "module": 3
+        },
+        {
+            "formation": "gestion de projet",
+            "titre": "Manifeste pour le développement agile de logiciels (version française)",
+            "type": "lien",
+            "lien": "https://agilemanifesto.org/iso/fr/manifesto.html",
+            "module": 5
+        },
+        {
+            "formation": "gestion de projet",
+            "titre": "MOOC Gestion de projet : vidéos, modèles de documents et exercices corrigés",
+            "type": "lien",
+            "lien": "https://gestiondeprojet.pm/",
+            "module": 1
+        },
+        {
+            "formation": "marketing digital",
+            "titre": "Les principes fondamentaux du marketing digital (formation gratuite)",
+            "type": "lien",
+            "lien": "https://skillshop.exceedlms.com/student/collection/1830723?locale=fr",
+            "module": 2
+        },
+        {
+            "formation": "marketing digital",
+            "titre": "Découvrir le marketing (MOOC, accès libre en audit)",
+            "type": "lien",
+            "lien": "https://edx.org/course/decouvrir-le-marketing",
+            "module": 1
+        },
+        {
+            "formation": "marketing digital",
+            "titre": "Bien débuter en référencement naturel (SEO) : guide de démarrage",
+            "type": "lien",
+            "lien": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=fr",
+            "module": 4
+        },
+        {
+            "formation": "marketing digital",
+            "titre": "Google Analytics 4 pour les débutants (centre d'aide officiel)",
+            "type": "lien",
+            "lien": "https://support.google.com/analytics/topic/12156336?hl=fr",
+            "module": 5
+        },
+        {
+            "formation": "marketing digital",
+            "titre": "Loi n° 2013-450 relative à la protection des données à caractère personnel",
+            "type": "pdf",
+            "lien": "https://www.artci.ci/wp-content/uploads/2024/05/loi_2013_450.pdf",
+            "module": 5
+        },
+        {
+            "formation": "strategie management",
+            "titre": "Les fondements de la stratégie d'entreprise (MOOC, accès libre en audit)",
+            "type": "lien",
+            "lien": "https://www.edx.org/learn/business-administration/universite-catholique-de-louvain-les-fondements-de-la-strategie-dentreprise-2",
+            "module": 1
+        },
+        {
+            "formation": "strategie management",
+            "titre": "Construire sa feuille de route stratégique à l'ère du digital (guide dirigeants)",
+            "type": "pdf",
+            "lien": "https://lelab.bpifrance.fr/get_pdf/1016/bpifrance_le_lab_transformation_digitale__web_12_2018.pdf",
+            "module": 1
+        },
+        {
+            "formation": "strategie management",
+            "titre": "Gestion des ressources humaines – cours universitaire en ligne",
+            "type": "lien",
+            "lien": "https://moodle.luniversitenumerique.fr/mod/resource/view.php?id=4194",
+            "module": 2
+        },
+        {
+            "formation": "strategie management",
+            "titre": "Guide de gestion prévisionnelle des effectifs, des emplois et des compétences",
+            "type": "pdf",
+            "lien": "https://www.fonction-publique.gouv.fr/files/files/ArchivePortailFP/www.fonction-publique.gouv.fr/files/files/publications/archives_emploi_public/GPEECmethodo-2.pdf",
+            "module": 3
+        },
+        {
+            "formation": "strategie management",
+            "titre": "Comment définir votre plan de communication ?",
+            "type": "lien",
+            "lien": "https://bpifrance-creation.fr/moment-de-vie/definir-votre-plan-communication",
+            "module": 5
+        },
+        {
+            "formation": "marketing digital",
+            "titre": "Loi ivoirienne n° 2013-546 sur les transactions électroniques (ARTCI)",
+            "type": "pdf",
+            "lien": "https://www.artci.ci/wp-content/uploads/2024/05/loi_2013_546.pdf",
+            "module": 4
+        }
+    ]
+}

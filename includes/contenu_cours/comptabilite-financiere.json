@@ -1,0 +1,568 @@
+{
+  "cle": "compta",
+  "anciens_titres": [
+    "Les principes comptables",
+    "Les documents de synthèse",
+    "Analyser la situation financière"
+  ],
+  "titre_quiz": "Évaluation finale : Comptabilité financière",
+  "description_quiz": "Cette évaluation vérifie la maîtrise des principes comptables, des amortissements, des cessions d’immobilisations et des dépréciations selon le SYSCOHADA révisé. La note minimale pour la réussir est de 10/20.",
+  "modules": [
+    {
+      "titre": "Les principes comptables",
+      "description": "Identifier l’hypothèse de base, les cinq postulats et les cinq conventions du SYSCOHADA et les appliquer à des situations concrètes.",
+      "duree": "60",
+      "lecons": [
+        {
+          "titre": "Vidéo : Les principes comptables",
+          "type": "video",
+          "texte": "Identifier l’hypothèse de base, les cinq postulats et les cinq conventions du SYSCOHADA et les appliquer à des situations concrètes.",
+          "fichier": "comptabilite-financiere-module-1.mp4",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le cadre des principes comptables et l’hypothèse de continuité",
+          "type": "texte",
+          "texte": "La comptabilité générale est une discipline normative : les états financiers sont établis selon des règles connues et acceptées par tous. Ces règles, appelées principes comptables, garantissent que le bilan et le compte de résultat donnent une image fidèle du patrimoine, de la situation financière et du résultat de l’entreprise.\n\nLe SYSCOHADA révisé, applicable en Côte d’Ivoire et dans l’ensemble des États membres de l’OHADA, retient trois niveaux de règles :\n• une hypothèse de base ;\n• cinq postulats ;\n• cinq conventions comptables.\n\nL’hypothèse de base : la continuité de l’exploitation\n\nLa continuité de l’exploitation est la seule hypothèse de base. Elle sous-tend l’ensemble des travaux comptables. On considère que l’entreprise fonctionne dans des conditions normales et qu’elle n’a ni l’intention ni l’obligation de cesser son activité dans un délai prévisible.\n\nCette hypothèse a des conséquences concrètes. C’est parce que l’entreprise est supposée poursuivre son activité que l’on peut :\n• inscrire les biens à leur coût d’entrée plutôt qu’à leur valeur de liquidation ;\n• répartir le coût d’une machine sur plusieurs exercices au moyen des amortissements ;\n• rattacher à chaque exercice les charges et les produits qui le concernent.\n\nSi la cessation d’activité devenait probable (liquidation, arrêt définitif), cette hypothèse tomberait et les éléments du patrimoine devraient être évalués différemment, à leur valeur de réalisation.\n\nPostulat et convention : quelle différence ?\n\nUn postulat est une proposition qui ne se démontre pas, mais que l’on admet parce qu’elle est nécessaire au raisonnement comptable. Les postulats fixent le cadre général : qui tient les comptes, à quel moment on enregistre une opération, comment on découpe le temps.\n\nUne convention comptable est une méthode dont l’usage est généralement répandu et admis dans la pratique. Elle vise à assurer l’homogénéité et la comparabilité des états financiers, dans le temps (d’un exercice à l’autre) et dans l’espace (d’une entreprise à l’autre).\n\nLes deux leçons suivantes présentent successivement les cinq postulats puis les cinq conventions. Ensemble, ils constituent la grille de lecture que le comptable applique à chaque opération, depuis la saisie quotidienne jusqu’aux travaux d’inventaire de fin d’exercice. Les modules suivants (amortissements, cessions, dépréciations) en sont des applications directes.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les cinq postulats du SYSCOHADA",
+          "type": "texte",
+          "texte": "Le SYSCOHADA retient cinq postulats.\n\n1. Le postulat de l’entité\n\nLe patrimoine de l’entreprise ne doit pas être confondu avec celui de ses propriétaires. Les dépenses personnelles du gérant ou d’un associé ne sont pas des charges de l’entreprise ; si elles sont payées par la caisse de la société, elles sont enregistrées comme un prélèvement ou une créance sur l’intéressé.\n\n2. Le postulat de la comptabilité d’engagement\n\nUne transaction est comptabilisée à sa naissance, c’est-à-dire au moment où naît le droit ou l’obligation, et non au moment du règlement. Une vente facturée le 20 décembre et encaissée en février est un produit de décembre.\n\n3. Le postulat de la spécialisation des exercices\n\nL’exercice comptable dure en principe 12 mois. Chaque exercice doit supporter les charges et les produits qui le concernent, et eux seuls :\n• les produits sont rattachés à l’exercice au cours duquel ils sont acquis, et non à celui de leur encaissement ;\n• les charges sont rattachées à l’exercice au cours duquel elles sont engagées, et non à celui de leur décaissement.\n\nC’est ce postulat qui justifie, à l’inventaire, l’enregistrement des charges à payer, des produits à recevoir, des charges constatées d’avance et des produits constatés d’avance.\n\n4. Le postulat de la permanence des méthodes\n\nLes méthodes d’évaluation et de présentation des comptes ne doivent pas changer d’un exercice à l’autre. L’intérêt de l’information comptable repose en grande partie sur la comparaison entre deux exercices successifs et entre entreprises d’un même secteur. Par exemple, une entreprise qui évalue ses stocks au coût unitaire moyen pondéré (CUMP) en N ne peut pas passer au premier entré, premier sorti (FIFO) en N+1 sans justification. Tout changement significatif doit être expliqué dans l’état annexé, qui en expose les motifs et les incidences sur les états financiers.\n\n5. Le postulat de la prééminence de la réalité économique sur l’apparence juridique\n\nLes opérations sont enregistrées selon leur nature économique et financière, sans s’arrêter à leur forme juridique. Le SYSCOHADA en retient quatre applications :\n• les biens acquis avec clause de réserve de propriété sont inscrits à l’actif de l’acheteur, même si le vendeur en reste juridiquement propriétaire jusqu’au paiement complet ;\n• les effets escomptés non échus restent inscrits à l’actif ;\n• le personnel facturé par d’autres entreprises (personnel intérimaire) est inscrit dans les charges de personnel ;\n• les biens pris en crédit-bail (leasing) sont inscrits à l’actif du bilan du preneur, comme s’il en était propriétaire.\n\nDans chacun de ces cas, l’entreprise supporte les risques et retire les avantages du bien ou du service : la comptabilité traduit cette réalité plutôt que le contrat.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les cinq conventions comptables",
+          "type": "texte",
+          "texte": "Les conventions comptables retenues par le SYSCOHADA sont la prudence, l’intangibilité du bilan d’ouverture, le coût historique, la transparence et l’importance significative.\n\n1. La prudence\n\nLa prudence est une appréciation raisonnable des faits, destinée à éviter de transférer sur l’avenir des incertitudes qui pourraient grever la situation de l’entreprise. Elle impose une attitude réservée :\n• les charges et les pertes sont comptabilisées dès qu’elles sont probables ;\n• les produits et les gains ne sont enregistrés que lorsqu’ils sont définitivement acquis.\n\nUne plus-value latente (un terrain qui a pris de la valeur) n’est donc pas constatée, alors qu’une moins-value probable donne lieu à une dépréciation.\n\n2. L’intangibilité du bilan d’ouverture\n\nLe bilan d’ouverture d’un exercice doit correspondre exactement au bilan de clôture de l’exercice précédent. Les soldes des comptes de bilan sont reportés à l’identique.\n\n3. Le coût historique\n\nLes biens entrent dans le patrimoine à leur coût d’acquisition ou à leur coût de production, et cette valeur n’est plus modifiée. Les immobilisations corporelles (bâtiments, matériels, etc.) figurent au bilan à leur valeur d’origine et sont amorties sur cette base. La seule exception est la réévaluation du bilan, libre ou légale, expressément admise par le SYSCOHADA.\n\n4. La transparence\n\nLes états financiers doivent refléter l’image fidèle de la situation de l’entreprise. Cela suppose le respect des règles de prudence, de régularité et de sincérité : application de bonne foi des règles en vigueur, respect de la chronologie des opérations, justification de chaque écriture par une pièce.\n\nLa transparence comprend la règle de non-compensation : les éléments d’actif et de passif sont évalués séparément, et aucune compensation n’est admise entre postes d’actif et de passif, ni entre charges et produits. En pratique :\n• les clients débiteurs ne sont pas compensés avec les clients créditeurs ;\n• les fournisseurs créditeurs ne sont pas compensés avec les fournisseurs débiteurs ;\n• les dotations ne sont pas compensées avec les reprises ;\n• les charges financières ne sont pas compensées avec les produits financiers.\n\n5. L’importance significative\n\nCette convention renvoie au seuil de signification, c’est-à-dire au montant à partir duquel une erreur ou une omission peut influencer le résultat et le jugement porté sur les états financiers. Elle permet d’alléger le traitement des informations peu significatives et de concentrer l’effort sur celles qui comptent pour les utilisateurs des comptes.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Cas pratique : identifier le principe applicable",
+          "type": "texte",
+          "texte": "Ce cas d’application permet de vérifier la maîtrise des principes. Pour chaque situation, identifiez le principe concerné avant de lire la réponse.\n\nSituation 1. Le gérant d’une SARL d’Abidjan règle ses frais de scolarité personnels avec la caisse de la société, pour 450 000 FCFA.\nRéponse : postulat de l’entité. La dépense ne peut pas être enregistrée en charge de la société ; elle constitue une créance sur le gérant ou un prélèvement.\n\nSituation 2. Une facture d’électricité de décembre N, reçue le 5 janvier N+1, est payée le 20 janvier N+1.\nRéponse : comptabilité d’engagement et spécialisation des exercices. La consommation concerne N : la charge est rattachée à N (charge à payer), même si elle est réglée en N+1.\n\nSituation 3. L’entreprise envisage d’évaluer ses stocks au FIFO alors qu’elle utilisait jusqu’ici le CUMP, uniquement pour améliorer son résultat.\nRéponse : permanence des méthodes. Le changement n’est admis que s’il est justifié ; il doit être expliqué dans l’état annexé avec ses incidences chiffrées.\n\nSituation 4. Un camion de 30 000 000 FCFA est utilisé par l’entreprise dans le cadre d’un contrat de crédit-bail.\nRéponse : prééminence de la réalité économique sur l’apparence juridique. Le preneur inscrit le camion à son actif, même si la société de crédit-bail en reste propriétaire.\n\nSituation 5. Un terrain acheté 10 000 000 FCFA il y a dix ans vaut aujourd’hui 25 000 000 FCFA sur le marché.\nRéponse : coût historique et prudence. Le terrain reste inscrit à 10 000 000 FCFA ; la plus-value latente n’est pas comptabilisée, sauf réévaluation régulière.\n\nSituation 6. Le client A doit 2 000 000 FCFA ; le client B a versé une avance de 500 000 FCFA. Le comptable propose d’inscrire au bilan un poste « Clients » net de 1 500 000 FCFA.\nRéponse : non-compensation (convention de transparence). La créance de 2 000 000 FCFA figure à l’actif et l’avance de 500 000 FCFA au passif.\n\nSituation 7. Un procès en cours fait courir à l’entreprise un risque probable de condamnation, alors qu’un autre litige pourrait lui rapporter des dommages-intérêts.\nRéponse : prudence. Le risque probable est provisionné ; le gain éventuel n’est pas enregistré tant qu’il n’est pas définitivement acquis.\n\nSituation 8. Le bilan d’ouverture de N+1 présente une trésorerie différente de celle du bilan de clôture de N.\nRéponse : intangibilité du bilan d’ouverture. Les deux montants doivent être identiques ; l’écart révèle une erreur à corriger.\n\nRetenez la démarche : partir de la nature de l’opération, se demander à quel moment et pour quel montant elle doit être enregistrée, puis vérifier que la présentation ne masque aucune information.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Support de cours : Les principes comptables",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "comptabilite-financiere-module-1.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Combien de postulats et de conventions comptables le SYSCOHADA révisé retient-il ?",
+          "reponses": [
+            "Trois postulats et trois conventions",
+            "Cinq postulats et cinq conventions",
+            "Quatre postulats et six conventions",
+            "Cinq postulats et trois conventions"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Le gérant paie une dépense personnelle avec la caisse de la société. Quel postulat interdit de l’enregistrer en charge de l’entreprise ?",
+          "reponses": [
+            "La permanence des méthodes",
+            "La spécialisation des exercices",
+            "L’entité",
+            "La comptabilité d’engagement"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Une vente est facturée le 20 décembre N et encaissée en février N+1. À quel exercice le produit est-il rattaché ?",
+          "reponses": [
+            "À l’exercice N",
+            "À l’exercice N+1",
+            "Moitié à N, moitié à N+1",
+            "À l’exercice où la TVA est déclarée"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Un terrain acheté 10 000 000 FCFA vaut aujourd’hui 25 000 000 FCFA sur le marché. Pour quel montant reste-t-il inscrit au bilan, hors réévaluation ?",
+          "reponses": [
+            "25 000 000 FCFA",
+            "17 500 000 FCFA",
+            "15 000 000 FCFA",
+            "10 000 000 FCFA"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Que prévoit la convention d’intangibilité du bilan d’ouverture ?",
+          "reponses": [
+            "Le bilan d’ouverture peut être corrigé librement",
+            "Il doit correspondre exactement au bilan de clôture précédent",
+            "Il est établi à la valeur de marché des biens",
+            "Il n’inclut que les comptes de trésorerie"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "Les amortissements",
+      "description": "Établir un plan d’amortissement selon les modes économiques et fiscaux et passer les écritures de dotation, y compris l’amortissement dérogatoire.",
+      "duree": "95",
+      "lecons": [
+        {
+          "titre": "Définition de l’amortissement et vocabulaire de base",
+          "type": "texte",
+          "texte": "Selon l’article 45 de l’Acte uniforme relatif au droit comptable, l’amortissement est la constatation obligatoire de la diminution de valeur des immobilisations qui se déprécient de façon certaine et irréversible, du fait de l’usage, du temps, du changement de technique ou de toute autre cause.\n\nUne machine achetée neuve 200 000 FCFA peut ainsi figurer au bilan pour 160 000 FCFA après un an, 120 000 FCFA après deux ans et 80 000 FCFA après trois ans. Les constructions, les matériels et les mobiliers se déprécient de la même façon, de manière continue, inéluctable et définitive.\n\nL’amortissement traduit à la fois :\n• l’étalement d’une charge sur plusieurs exercices, organisé par le plan d’amortissement ;\n• la diminution de la valeur de l’immobilisation au bilan.\n\nIl ne faut pas le confondre avec la dépréciation accidentelle ou exceptionnelle, par exemple celle d’un terrain à la suite d’une modification du plan d’urbanisme : celle-ci relève des dépréciations (module 4).\n\nLes notions à maîtriser\n\n• Valeur d’origine (Vo) : coût d’acquisition hors taxes déductibles, ou coût de production.\n• Valeur résiduelle prévisionnelle (Vr) : montant estimé, à la date de mise en service, que l’entité obtiendrait de la sortie du bien en fin d’utilisation, après déduction des coûts de sortie.\n• Base amortissable (Ba) : différence entre la valeur d’origine et la valeur résiduelle.\n\nBa = Vo – Vr\n\n• Durée d’utilité (D) : durée pendant laquelle l’entité attend utiliser le bien. Elle tient compte de l’usage attendu (capacité ou production prévue), de l’usure physique (cadence de production, entretien), de l’obsolescence technique ou commerciale et des limites juridiques (par exemple l’échéance d’un contrat de location).\n• Date d’acquisition (Da) : date d’achat ou de production du bien.\n• Date de mise en service (Dms) : date à laquelle le bien commence à être utilisé. Elle ne coïncide pas toujours avec la date d’acquisition. Ces dates servent de point de départ au décompte des mois amortis.\n• Valeur comptable nette (VCN) : valeur restante du bien après déduction du cumul des amortissements (∑A).\n\nVCN = Vo – ∑A\n\nLes méthodes d’amortissement\n\nOn distingue deux familles :\n• les amortissements économiques : linéaire, dégressif à taux décroissant, et par unités d’œuvre ;\n• les amortissements fiscaux : accéléré et dégressif.\n\nLes amortissements économiques traduisent la consommation réelle des avantages du bien. Les amortissements fiscaux sont des mesures d’aide permises par la législation fiscale ; l’écart qu’ils créent avec l’amortissement économique est enregistré en amortissement dérogatoire.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "L’amortissement linéaire",
+          "type": "texte",
+          "texte": "L’amortissement linéaire répartit la base amortissable de façon égale sur la durée d’utilité du bien. Tous les actifs immobilisés amortissables, acquis neufs ou d’occasion, peuvent être amortis selon ce mode, quelle que soit leur durée d’utilisation.\n\nLe taux est constant :\n\nTaux linéaire = 100 / D\n\nAnnuité = Ba × Taux × nombre de mois / 1200\n\nPour l’amortissement linéaire, le point de départ du calcul est la date de mise en service.\n\nBien mis en service en début d’exercice\n\nUn matériel et outillage de 800 000 FCFA HT, durée d’utilité 4 ans, est mis en service le 1er janvier N.\nTaux = 100 / 4 = 25 %\nAnnuité = 800 000 × 25 × 12 / 1200 = 200 000 FCFA\nLes annuités sont de 200 000 FCFA de N à N+3. La VCN passe à 600 000, 400 000, 200 000 puis 0 FCFA.\n\nBien mis en service en cours d’exercice\n\nLa première annuité est réduite au prorata temporis : on ne retient que la période allant de la mise en service à la fin de l’exercice. Le complément de cette première annuité est pris en compte à la fin du plan, ce qui ajoute un exercice supplémentaire.\n\nUne machine industrielle de 1 100 000 FCFA HT est mise en service le 1er octobre N. Durée 5 ans, valeur résiduelle 100 000 FCFA.\nBa = 1 100 000 – 100 000 = 1 000 000 FCFA\nTaux = 100 / 5 = 20 %\n• N (3 mois) : 1 000 000 × 20 × 3 / 1200 = 50 000 FCFA\n• N+1 à N+4 (12 mois) : 200 000 FCFA par an\n• N+5 (9 mois) : 1 000 000 × 20 × 9 / 1200 = 150 000 FCFA\nLe cumul atteint 1 000 000 FCFA et la VCN finale est égale à la valeur résiduelle, soit 100 000 FCFA.\n\nLe plan d’amortissement\n\nLe plan est un tableau prévisionnel qui indique, pour chaque exercice : la période amortie, la base amortissable, l’annuité, le cumul des amortissements et la VCN. Il mentionne en en-tête le nom du bien, sa valeur d’origine, ses dates d’acquisition et de mise en service, le taux et le mode.\n\nComptabilisation\n\nChaque fin d’exercice, l’annuité est constatée par une charge et par une diminution indirecte de la valeur de l’immobilisation (compte soustractif de la classe 28). Pour le matériel et outillage de 800 000 FCFA :\nDébit 681 Dotations aux amortissements d’exploitation : 200 000 FCFA\nCrédit 2841 Amortissements du matériel et outillage : 200 000 FCFA\n\nLe compte 28 reprend le numéro de l’immobilisation : 2841 pour le matériel et outillage industriel, 2845 pour le matériel de transport, par exemple.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le dégressif à taux décroissant et les unités d’œuvre",
+          "type": "texte",
+          "texte": "Ces deux méthodes sont des amortissements économiques. Elles conviennent aux biens dont les avantages sont consommés de façon irrégulière.\n\nL’amortissement dégressif à taux décroissant\n\nLe bien est amorti selon une suite décroissante, en appliquant à la base amortissable un taux qui diminue chaque année.\n\nTaux décroissant = nombre d’années restant à courir / somme des numéros d’ordre des années\n\nPour une durée de 5 ans, la somme des numéros d’ordre est 1 + 2 + 3 + 4 + 5 = 15. Les taux successifs sont 5/15, 4/15, 3/15, 2/15 et 1/15.\n\nExemple : une machine de 24 000 000 FCFA HT est acquise le 1er janvier 2016, durée 5 ans, sans valeur résiduelle.\n• 2016 : 24 000 000 × 5/15 = 8 000 000 FCFA\n• 2017 : 24 000 000 × 4/15 = 6 400 000 FCFA\n• 2018 : 24 000 000 × 3/15 = 4 800 000 FCFA\n• 2019 : 24 000 000 × 2/15 = 3 200 000 FCFA\n• 2020 : 24 000 000 × 1/15 = 1 600 000 FCFA\nLa VCN devient nulle à la fin de 2020.\n\nLorsque le bien est acquis en cours d’exercice, chaque taux s’applique à une période de 12 mois qui chevauche deux exercices. Pour une machine de 6 000 000 FCFA acquise le 1er octobre 2016 (5 ans) :\n• 2016 : 6 000 000 × 5/15 × 3/12 = 500 000 FCFA\n• 2017 : (6 000 000 × 5/15 × 9/12) + (6 000 000 × 4/15 × 3/12) = 1 500 000 + 400 000 = 1 900 000 FCFA\nLe même raisonnement donne 1 500 000 FCFA en 2018, 1 100 000 FCFA en 2019, 700 000 FCFA en 2020 et 300 000 FCFA en 2021.\n\nL’amortissement par unités d’œuvre\n\nLa base amortissable est répartie en fonction des unités d’œuvre consommées : nombre de produits fabriqués, kilomètres parcourus, heures de fonctionnement, etc.\n\nAnnuité = Ba × unités d’œuvre consommées dans l’exercice / total des unités d’œuvre prévues\n\nExemple : un matériel de 33 000 000 FCFA est mis en service le 1er août N. La production prévue de N à N+4 est de 800, 3 200, 5 000, 4 000 et 2 000 unités, soit 15 000 unités.\n• N : 33 000 000 × 800 / 15 000 = 1 760 000 FCFA\n• N+1 : 33 000 000 × 3 200 / 15 000 = 7 040 000 FCFA\n• N+2 : 33 000 000 × 5 000 / 15 000 = 11 000 000 FCFA\n• N+3 : 33 000 000 × 4 000 / 15 000 = 8 800 000 FCFA\n• N+4 : 33 000 000 × 2 000 / 15 000 = 4 400 000 FCFA\nLe total est bien égal à 33 000 000 FCFA.\n\nCes annuités se comptabilisent comme l’amortissement linéaire : débit 681, crédit 28.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Les amortissements fiscaux et l’amortissement dérogatoire",
+          "type": "texte",
+          "texte": "La législation fiscale autorise, pour certains biens, des amortissements plus rapides que l’amortissement économique. Le surplus n’est pas une dépréciation réelle : il est comptabilisé en amortissement dérogatoire, qui est une provision réglementée.\n\nAmortissement dérogatoire = Amortissement fiscal – Amortissement linéaire\n\nL’amortissement accéléré\n\nC’est une mesure d’aide fiscale qui consiste à doubler les douze premiers mois d’amortissement. Les annuités suivantes sont égales à l’annuité linéaire, avec le même taux et la même base : la durée d’amortissement est donc réduite d’une année.\nPeuvent en bénéficier les matériels et outillages acquis neufs pour être utilisés dans les secteurs industriel, agricole ou de manutention pendant une durée strictement supérieure à 5 ans.\n\nExemple : un matériel industriel neuf de 8 000 000 FCFA, durée 8 ans (taux 12,5 %), mis en service le 1er janvier N. L’annuité linéaire est de 1 000 000 FCFA. L’annuité accélérée de N est de 2 000 000 FCFA, puis de 1 000 000 FCFA de N+1 à N+6 : le bien est fiscalement amorti en 7 ans. On constate une dotation dérogatoire de 1 000 000 FCFA en N et une reprise de 1 000 000 FCFA en N+7.\n\nL’amortissement dégressif\n\nLa première annuité est calculée sur la valeur d’origine, les suivantes sur la valeur nette fiscale (VNF) restante. On applique un taux dégressif :\n\nTaux dégressif = taux linéaire × coefficient\n\n• durée de 3 à 4 ans : coefficient 1,5 ;\n• durée de 5 à 6 ans : coefficient 2 ;\n• durée supérieure à 6 ans : coefficient 2,5.\n\nOn calcule ensuite le rapport R = durée / coefficient (ou 100 / taux dégressif), dont on retient la partie entière. Pour les R dernières années, la VNF restante est répartie à parts égales :\n\nAnnuité = VNF / R\n\nPeuvent bénéficier de l’amortissement dégressif les matériels et outillages neufs utilisés dans les secteurs industriel, agricole ou de manutention, ainsi que les matériels informatiques neufs, lorsque leur durée d’utilisation est au moins égale à 3 ans.\n\nComptabilisation\n\nLe compte 28 enregistre toujours l’amortissement linéaire. L’écart passe par les comptes 851, 861 et 151.\n\nSi l’amortissement fiscal est supérieur à l’amortissement linéaire :\nDébit 681 Dotations aux amortissements d’exploitation (montant linéaire)\nDébit 851 Dotations aux provisions réglementées (écart)\nCrédit 28… Amortissements (montant linéaire)\nCrédit 151 Amortissements dérogatoires (écart)\n\nSi l’amortissement fiscal est égal à l’amortissement linéaire : écriture habituelle, débit 681 et crédit 28.\n\nSi l’amortissement fiscal est inférieur à l’amortissement linéaire :\nDébit 681 Dotations aux amortissements d’exploitation (montant linéaire)\nDébit 151 Amortissements dérogatoires (écart)\nCrédit 28… Amortissements (montant linéaire)\nCrédit 861 Reprises de provisions réglementées (écart)\n\nÀ la fin du plan, le compte 151 est soldé et le total des dotations (851) est égal au total des reprises (861).",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Cas pratique : plan d’amortissement dégressif",
+          "type": "texte",
+          "texte": "Une entreprise acquiert le 1er avril N une machine industrielle neuve de 10 620 000 FCFA TTC, amortie selon le mode dégressif sur 5 ans. TVA 18 %.\n\n1. Valeur d’origine\n\nLa TVA sur ce matériel est récupérable : la valeur d’origine est hors taxes.\nVo = 10 620 000 / 1,18 = 9 000 000 FCFA\n\n2. Paramètres\n\nTaux linéaire = 100 / 5 = 20 %\nCoefficient (durée de 5 ans) = 2\nTaux dégressif = 20 % × 2 = 40 %\nR = 5 / 2 = 2,5, soit 2 : les deux dernières années sont amorties à parts égales.\n\n3. Annuités dégressives\n\n• N (9 mois, d’avril à décembre) : 9 000 000 × 40 % × 9/12 = 2 700 000 FCFA ; VNF = 6 300 000 FCFA\n• N+1 : 6 300 000 × 40 % = 2 520 000 FCFA ; VNF = 3 780 000 FCFA\n• N+2 : 3 780 000 × 40 % = 1 512 000 FCFA ; VNF = 2 268 000 FCFA\n• N+3 : 2 268 000 / 2 = 1 134 000 FCFA ; VNF = 1 134 000 FCFA\n• N+4 : 1 134 000 FCFA ; VNF = 0\n\n4. Annuités linéaires\n\nAnnuité pleine = 9 000 000 × 20 % = 1 800 000 FCFA\n• N (9 mois) : 1 350 000 FCFA\n• N+1 à N+4 : 1 800 000 FCFA par an\n• N+5 (3 mois) : 450 000 FCFA\n\n5. Amortissement dérogatoire\n\n• N : 2 700 000 – 1 350 000 = dotation de 1 350 000 FCFA\n• N+1 : 2 520 000 – 1 800 000 = dotation de 720 000 FCFA\n• N+2 : 1 512 000 – 1 800 000 = reprise de 288 000 FCFA\n• N+3 : 1 134 000 – 1 800 000 = reprise de 666 000 FCFA\n• N+4 : 1 134 000 – 1 800 000 = reprise de 666 000 FCFA\n• N+5 : 0 – 450 000 = reprise de 450 000 FCFA\nTotal des dotations : 2 070 000 FCFA ; total des reprises : 2 070 000 FCFA. Le compte 151 est bien soldé en fin de plan.\n\n6. Écritures\n\nAu 31/12/N :\nDébit 681 Dotations aux amortissements d’exploitation : 1 350 000\nDébit 851 Dotations aux provisions réglementées : 1 350 000\nCrédit 2841 Amortissements du matériel et outillage : 1 350 000\nCrédit 151 Amortissements dérogatoires : 1 350 000\n\nAu 31/12/N+2 :\nDébit 681 Dotations aux amortissements d’exploitation : 1 800 000\nDébit 151 Amortissements dérogatoires : 288 000\nCrédit 2841 Amortissements du matériel et outillage : 1 800 000\nCrédit 861 Reprises de provisions réglementées : 288 000\n\nCe plan est réutilisé dans le module 3, lorsque la machine est cédée avant la fin de sa durée d’utilité.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Support de cours : Les amortissements",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "comptabilite-financiere-module-2.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Comment calcule-t-on la base amortissable d’une immobilisation ?",
+          "reponses": [
+            "Valeur d’origine + valeur résiduelle",
+            "Valeur d’origine × taux d’amortissement",
+            "Valeur d’origine – valeur résiduelle",
+            "Valeur d’origine – cumul des amortissements"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Quel est le point de départ du calcul de l’amortissement linéaire ?",
+          "reponses": [
+            "La date de mise en service",
+            "La date de la commande",
+            "Le 1er janvier de l’exercice d’acquisition",
+            "La date de paiement du fournisseur"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Un matériel de 800 000 FCFA HT, durée d’utilité 4 ans, est mis en service le 1er janvier N. Quelle est l’annuité linéaire ?",
+          "reponses": [
+            "160 000 FCFA",
+            "250 000 FCFA",
+            "320 000 FCFA",
+            "200 000 FCFA"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Pour un matériel industriel neuf amorti en dégressif fiscal sur une durée supérieure à 6 ans, quel coefficient s’applique ?",
+          "reponses": [
+            "1,5",
+            "2",
+            "2,5",
+            "3"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "En quoi consiste l’amortissement accéléré ?",
+          "reponses": [
+            "Doubler les douze premiers mois d’amortissement",
+            "Appliquer un taux dégressif sur la valeur nette fiscale",
+            "Amortir selon les unités d’œuvre consommées",
+            "Amortir le bien en totalité dès la première année"
+          ],
+          "bonne": 0
+        }
+      ]
+    },
+    {
+      "titre": "Cession des immobilisations amortissables",
+      "description": "Comptabiliser la vente ou l’échange d’une immobilisation amortie et calculer le résultat de cession comptable et fiscal.",
+      "duree": "90",
+      "lecons": [
+        {
+          "titre": "Les sorties d’immobilisations et leur traitement",
+          "type": "texte",
+          "texte": "La cession est la sortie définitive d’un bien du patrimoine de l’entreprise. Le SYSCOHADA distingue quatre cas de sortie d’immobilisations :\n• la vente du bien ;\n• l’échange du bien contre un autre ;\n• la mise au rebut ;\n• la destruction ou le vol.\n\nCessions occasionnelles et cessions courantes\n\nLe SYSCOHADA distingue deux types de cession.\n\nLa cession occasionnelle est le cas général : l’entreprise vend un bien qu’elle a utilisé, sans que cela relève de son activité habituelle. Le produit de la vente est un produit hors activités ordinaires (HAO) et un apport de trésorerie. Lorsque l’énoncé ne précise rien sur l’activité de l’entreprise, on considère qu’il s’agit d’une cession occasionnelle. Les comptes utilisés sont :\n• 485 Créances sur cessions d’immobilisations ;\n• 81 Valeurs comptables des cessions d’immobilisations (812 pour les immobilisations corporelles) ;\n• 82 Produits des cessions d’immobilisations (822 pour les immobilisations corporelles).\n\nLa cession courante concerne l’entreprise qui renouvelle régulièrement ses immobilisations, par exemple une société de location de véhicules. Les étapes d’enregistrement sont les mêmes, mais les comptes 485, 81 et 82 sont remplacés respectivement par :\n• 414 Créances sur cessions courantes d’immobilisations ;\n• 654 Valeurs comptables des cessions courantes d’immobilisations ;\n• 754 Produits des cessions courantes d’immobilisations.\n\nLa TVA sur cession\n\nLorsque la TVA a été récupérée lors de l’acquisition de l’immobilisation, la cession est soumise à TVA. Cette TVA est facturée sur le prix de cession et portée au crédit du compte 4431 TVA facturée sur ventes. En Côte d’Ivoire, le taux normal est de 18 %.\n\nLa logique du résultat de cession\n\nLe résultat de cession compare ce que rapporte la vente (le prix de cession hors taxes) à ce que le bien valait encore dans les comptes (sa valeur comptable nette à la date de cession). Pour que la VCN soit exacte, il faut d’abord amortir le bien jusqu’au jour de sa sortie : c’est l’amortissement complémentaire.\n\nDans les comptes, le résultat n’est pas enregistré directement. Il apparaît par différence entre le compte 82 (prix de cession) et le compte 81 (VCN). Un résultat positif est une plus-value, un résultat négatif une moins-value.\n\nLa leçon suivante détaille les écritures à passer, dans l’ordre.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les écritures de cession et le calcul du résultat",
+          "type": "texte",
+          "texte": "La comptabilisation d’une cession occasionnelle comprend quatre étapes, et une cinquième si le bien était amorti selon un mode fiscal.\n\n1. Constatation de la cession\n\nDébit 485 Créances sur cessions d’immobilisations (prix TTC)\nCrédit 822 Produits des cessions d’immobilisations corporelles (prix HT)\nCrédit 4431 TVA facturée sur ventes (TVA)\nSi le prix est encaissé immédiatement, le compte de trésorerie (521 Banque, par exemple) remplace le compte 485.\n\n2. Amortissement complémentaire\n\nIl constate la dépréciation subie entre le début de l’exercice et la date de sortie du bien. Il se comptabilise comme une dotation ordinaire :\nDébit 681 Dotations aux amortissements d’exploitation\nCrédit 28… Amortissements du bien\nSi le bien était amorti en accéléré ou en dégressif, l’écriture comprend aussi la part dérogatoire de cette période (851/151 ou 151/861).\n\n3. Sortie du bien\n\nLe bien est retiré de l’actif pour sa valeur d’origine :\nDébit 812 Valeurs comptables des cessions d’immobilisations corporelles\nCrédit 2… Compte d’immobilisation (par exemple 241 Matériel et outillage industriel)\n\n4. Annulation du cumul des amortissements\n\nLes amortissements pratiqués sur le bien, y compris l’amortissement complémentaire, sont soldés :\nDébit 28… Amortissements du bien\nCrédit 812 Valeurs comptables des cessions d’immobilisations corporelles\nAprès ces deux écritures, le compte 812 présente un solde débiteur égal à la VCN.\n\n5. Solde du compte 151 (mode accéléré ou dégressif)\n\nLe solde des amortissements dérogatoires attaché au bien est repris :\nDébit 151 Amortissements dérogatoires\nCrédit 861 Reprises de provisions réglementées\n\nLes formules du résultat\n\nAvec un amortissement économique (linéaire) :\nRésultat de cession = Prix de cession HT – VCN\n\nAvec un amortissement fiscal, on distingue deux résultats.\nRésultat comptable de cession = Prix de cession HT – VCN + solde du compte 151\nRésultat fiscal de cession = Prix de cession HT – VNF\n\nLa VCN est calculée à partir des amortissements linéaires cumulés jusqu’à la date de cession ; la VNF à partir des amortissements fiscaux cumulés. La reprise du compte 151 explique que les deux approches conduisent au même résultat global.\n\nPoints de vigilance\n\n• Le décompte de l’amortissement complémentaire part du 1er janvier de l’exercice de cession et s’arrête à la date de cession.\n• Le cumul à annuler comprend les annuités des exercices antérieurs et l’amortissement complémentaire.\n• La TVA n’entre jamais dans le résultat de cession : on raisonne toujours sur le prix hors taxes.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Cas pratique : cession d’un bien amorti en linéaire",
+          "type": "texte",
+          "texte": "L’entreprise Kobo achète le 1er janvier N une machine-outil pour 15 340 000 FCFA TTC (TVA 18 % récupérable). Elle est amortie en linéaire sur 5 ans. Le 1er octobre N+3, la machine est vendue 8 000 000 FCFA HT.\n\n1. Valeur d’origine et taux\n\nVo = 15 340 000 / 1,18 = 13 000 000 FCFA\nTaux linéaire = 100 / 5 = 20 %\nAnnuité = 13 000 000 × 20 % = 2 600 000 FCFA\n\n2. Plan d’amortissement jusqu’à la cession\n\n• N : 2 600 000 ; cumul 2 600 000 ; VCN 10 400 000\n• N+1 : 2 600 000 ; cumul 5 200 000 ; VCN 7 800 000\n• N+2 : 2 600 000 ; cumul 7 800 000 ; VCN 5 200 000\n\n3. Amortissement complémentaire\n\nPériode : du 1er janvier au 1er octobre N+3, soit 9 mois.\n13 000 000 × 20 × 9 / 1200 = 1 950 000 FCFA\n\nCumul des amortissements à la date de cession : 2 600 000 × 3 + 1 950 000 = 9 750 000 FCFA (soit 45 mois d’amortissement).\n\n4. Écritures au 31/12/N+3\n\nAmortissement complémentaire :\nDébit 681 Dotations aux amortissements d’exploitation : 1 950 000\nCrédit 2841 Amortissements du matériel et outillage : 1 950 000\n\nConstatation de la cession (TVA : 8 000 000 × 18 % = 1 440 000) :\nDébit 485 Créances sur cessions d’immobilisations : 9 440 000\nCrédit 822 Produits des cessions d’immobilisations corporelles : 8 000 000\nCrédit 4431 TVA facturée sur ventes : 1 440 000\n\nSortie du bien :\nDébit 812 Valeurs comptables des cessions d’immobilisations corporelles : 13 000 000\nCrédit 241 Matériel et outillage industriel : 13 000 000\n\nAnnulation du cumul des amortissements :\nDébit 2841 Amortissements du matériel et outillage : 9 750 000\nCrédit 812 Valeurs comptables des cessions d’immobilisations corporelles : 9 750 000\n\n5. Résultat de cession\n\nVCN = 13 000 000 – 9 750 000 = 3 250 000 FCFA\nRésultat de cession = 8 000 000 – 3 250 000 = 4 750 000 FCFA\n\nLa cession dégage une plus-value de 4 750 000 FCFA. On la retrouve dans les comptes : le compte 822 est crédité de 8 000 000 FCFA et le compte 812 présente un solde débiteur de 3 250 000 FCFA.\n\nÀ retenir : l’oubli de l’amortissement complémentaire est l’erreur la plus fréquente. Ici, il aurait conduit à une VCN de 5 200 000 FCFA et à une plus-value sous-évaluée de 1 950 000 FCFA.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Cas pratique : cession d’un bien amorti en dégressif",
+          "type": "texte",
+          "texte": "On reprend la machine du cas pratique du module 2 : valeur d’origine 9 000 000 FCFA HT, acquise le 1er avril N, amortie en dégressif sur 5 ans (taux 40 %). Elle est cédée le 1er juillet N+2 pour 3 100 000 FCFA HT, TVA 18 %.\n\n1. Rappel du plan\n\nAmortissements dégressifs : 2 700 000 (N), 2 520 000 (N+1), 1 512 000 (N+2).\nAmortissements linéaires : 1 350 000 (N), 1 800 000 (N+1), 1 800 000 (N+2).\nDotations dérogatoires : 1 350 000 (N) et 720 000 (N+1).\n\n2. Amortissement complémentaire de N+2 (6 mois)\n\n• dégressif : 1 512 000 × 6/12 = 756 000 FCFA\n• linéaire : 1 800 000 × 6/12 = 900 000 FCFA\n• écart : 756 000 – 900 000 = – 144 000, soit une reprise dérogatoire de 144 000 FCFA\n\nCumul des amortissements linéaires : 9 000 000 × 20 × 27 / 1200 = 4 050 000 FCFA (9 + 12 + 6 = 27 mois).\nSolde du compte 151 : 1 350 000 + 720 000 – 144 000 = 1 926 000 FCFA.\n\n3. Écritures au 31/12/N+2\n\nDébit 681 Dotations aux amortissements d’exploitation : 900 000\nDébit 151 Amortissements dérogatoires : 144 000\nCrédit 2841 Amortissements du matériel et outillage : 900 000\nCrédit 861 Reprises de provisions réglementées : 144 000\n\nDébit 485 Créances sur cessions d’immobilisations : 3 658 000\nCrédit 822 Produits des cessions d’immobilisations corporelles : 3 100 000\nCrédit 4431 TVA facturée sur ventes : 558 000\n\nDébit 812 Valeurs comptables des cessions d’immobilisations corporelles : 9 000 000\nCrédit 241 Matériel et outillage industriel : 9 000 000\n\nDébit 2841 Amortissements du matériel et outillage : 4 050 000\nCrédit 812 Valeurs comptables des cessions d’immobilisations corporelles : 4 050 000\n\nDébit 151 Amortissements dérogatoires : 1 926 000\nCrédit 861 Reprises de provisions réglementées : 1 926 000\n\n4. Résultats\n\nVCN = 9 000 000 – 4 050 000 = 4 950 000 FCFA\nRésultat comptable = Prix de cession HT – VCN + solde du compte 151\n= 3 100 000 – 4 950 000 + 1 926 000 = 76 000 FCFA\n\nContrôle par le résultat fiscal :\nAmortissements fiscaux cumulés = 2 700 000 + 2 520 000 + 756 000 = 5 976 000 FCFA\nVNF = 9 000 000 – 5 976 000 = 3 024 000 FCFA\nRésultat fiscal = 3 100 000 – 3 024 000 = 76 000 FCFA\n\nLes deux calculs concordent. Sans la reprise du compte 151, l’entreprise aurait constaté une moins-value de 1 850 000 FCFA (3 100 000 – 4 950 000) : c’est la reprise des amortissements dérogatoires qui rétablit le résultat réel de l’opération.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "L’échange d’immobilisations et la plus-value à réinvestir",
+          "type": "texte",
+          "texte": "L’échange avec soulte\n\nL’échange consiste à remplacer une ancienne immobilisation par une nouvelle, généralement contre le paiement d’une soulte, c’est-à-dire d’un complément de règlement.\n\nSoulte = Valeur TTC du nouveau bien – Prix de cession TTC de l’ancien bien\n\nLes écritures de cession de l’ancien bien sont les mêmes que pour une vente (cession, amortissement complémentaire, sortie, annulation des amortissements, solde du 151). S’y ajoutent :\n• l’acquisition du nouveau bien : débit du compte d’immobilisation et du compte 4451 TVA récupérable sur immobilisations, crédit 481 Fournisseurs d’investissements ;\n• le règlement : débit 481, crédit 485 pour la reprise de l’ancien bien et crédit du compte de trésorerie pour la soulte.\n\nExemple : une machine AZAX (Vo 12 000 000 FCFA HT, dégressif 5 ans, acquise le 1er avril N) est échangée le 1er juillet N+2 contre une machine AZERTY de 16 000 000 FCFA HT. Facture : 16 000 000 + TVA 2 880 000 = 18 880 000 TTC, moins reprise de l’ancienne machine 4 720 000 TTC, net à payer 14 160 000 FCFA, réglé par chèque.\nPrix de cession HT de l’ancienne machine = 4 720 000 / 1,18 = 4 000 000 FCFA.\nLes calculs suivent la même méthode que dans la leçon précédente : cumul linéaire 5 400 000 FCFA, VCN 6 600 000 FCFA, solde du compte 151 2 568 000 FCFA.\nRésultat comptable = 4 000 000 – 6 600 000 + 2 568 000 = – 32 000 FCFA (moins-value).\n\nÉcritures propres à l’échange :\nDébit 241 Matériel et outillage industriel : 16 000 000\nDébit 4451 TVA récupérable sur immobilisations : 2 880 000\nCrédit 481 Fournisseurs d’investissements : 18 880 000\n\nDébit 481 Fournisseurs d’investissements : 18 880 000\nCrédit 485 Créances sur cessions d’immobilisations : 4 720 000\nCrédit 521 Banque : 14 160 000\n\nLa plus-value à réinvestir\n\nEn principe, la plus-value de cession est imposable au titre de l’impôt sur les bénéfices (BIC). Pour encourager le renouvellement des équipements, le Code général des impôts ivoirien l’exonère sous conditions :\n• la plus-value résulte d’une cession ;\n• le réinvestissement porte sur des immobilisations ;\n• il est réalisé en Côte d’Ivoire ;\n• il intervient dans un délai de trois ans ;\n• le montant minimum à réinvestir (MMAR) est respecté.\n\nMMAR = Valeur d’origine du bien cédé + plus-value\nsoit, de façon équivalente, cumul des amortissements + prix de cession HT (+ solde du compte 151 le cas échéant).\n\nÀ la clôture de l’exercice de cession, la plus-value est constatée en provision réglementée :\nDébit 851 Dotations aux provisions réglementées\nCrédit 152 Plus-values de cession à réinvestir\n\nElle est ensuite reprise (débit 152, crédit 861) : en totalité si l’entreprise n’a pas réinvesti dans le délai, en partie si le MMAR n’est pas atteint, ou au rythme de l’amortissement du nouveau bien.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Support de cours : Cession des immobilisations amortissables",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "comptabilite-financiere-module-3.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Dans une cession occasionnelle, quel compte enregistre le prix de cession HT d’une immobilisation corporelle ?",
+          "reponses": [
+            "812",
+            "822",
+            "754",
+            "485"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Pour une société de location de véhicules (cession courante), par quel compte le compte 485 est-il remplacé ?",
+          "reponses": [
+            "654",
+            "754",
+            "414",
+            "481"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Que constate l’amortissement complémentaire lors d’une cession ?",
+          "reponses": [
+            "La dépréciation entre le début de l’exercice et la date de sortie",
+            "La plus-value réalisée sur la vente",
+            "La TVA facturée sur le prix de cession",
+            "La reprise des amortissements dérogatoires"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Avec un amortissement fiscal, comment calcule-t-on le résultat comptable de cession ?",
+          "reponses": [
+            "Prix de cession TTC – VCN",
+            "Prix de cession HT – valeur d’origine",
+            "Prix de cession HT – VNF – solde du compte 151",
+            "Prix de cession HT – VCN + solde du compte 151"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Selon le Code général des impôts ivoirien, dans quel délai la plus-value doit-elle être réinvestie pour être exonérée ?",
+          "reponses": [
+            "Un an",
+            "Deux ans",
+            "Trois ans",
+            "Cinq ans"
+          ],
+          "bonne": 2
+        }
+      ]
+    },
+    {
+      "titre": "Les dépréciations",
+      "description": "Distinguer provisions et dépréciations et passer les écritures d’inventaire sur les immobilisations, les créances, les stocks, les titres et les risques.",
+      "duree": "85",
+      "lecons": [
+        {
+          "titre": "Provisions et dépréciations : définitions et principes",
+          "type": "texte",
+          "texte": "Le SYSCOHADA révisé distingue clairement la dépréciation et la provision, définies par les articles 46 et 48 de l’Acte uniforme relatif au droit comptable et à l’information financière (AUDCIF).\n\nLes définitions\n\n• Une dépréciation est une perte de valeur d’un élément d’actif : la valeur actuelle du bien est devenue inférieure à sa valeur d’entrée ou à sa valeur comptable. Elle peut concerner les immobilisations, mais aussi les stocks, les créances et les titres de placement.\n• Une provision est un passif externe, c’est-à-dire une dette, dont l’échéance ou le montant est incertain. Le terme désigne les provisions pour risques et charges et, par dérogation, les provisions réglementées (comme l’amortissement dérogatoire), qui ne correspondent pourtant ni à un risque ni à une charge future.\n• Un passif externe est une obligation actuelle de l’entité de transférer une ressource économique à la suite d’événements passés.\n• Un passif éventuel est une obligation qui n’est pas comptabilisée, soit parce qu’une sortie de ressources n’est pas probable, soit parce que son montant ne peut pas être évalué de façon fiable.\n• Un actif éventuel est un actif potentiel dont l’existence ne sera confirmée que par des événements futurs incertains, échappant au contrôle de l’entité. Par prudence, il n’est pas comptabilisé.\n\nLes conditions de constitution d’une provision\n\nUne provision n’est constituée que si trois conditions sont réunies :\n• il existe une obligation actuelle, juridique ou implicite, née d’un événement passé ;\n• il est probable que cette obligation entraînera une sortie de ressources ;\n• son montant peut être estimé de façon fiable.\n\nL’entreprise doit pouvoir justifier l’événement à l’origine de la provision, notamment vis-à-vis de l’administration fiscale.\n\nLes trois catégories\n\n• les dépréciations des éléments d’actif : immobilisations (long terme), stocks, créances et titres de placement (court terme) ;\n• les provisions pour risques et charges ;\n• les provisions réglementées.\n\nLe cycle des écritures\n\nLes écritures se déroulent en trois temps : la constitution à l’inventaire, l’ajustement les années suivantes (augmentation par une dotation, diminution par une reprise), puis l’annulation totale lorsque la dépréciation ou le risque disparaît.\n\nPour les immobilisations, la perte de valeur est constatée par une dotation (compte 69, ou 85 si elle est HAO). Pour les éléments de l’actif circulant, elle est constatée par une charge provisionnée (compte 659 pour l’exploitation, 679 pour les éléments financiers).\n\nRepérer les comptes de dépréciation\n\nLe compte de dépréciation s’obtient en insérant le chiffre 9 après le premier chiffre du compte concerné :\n• 411 Clients donne 491 Dépréciations des comptes clients ;\n• 311 Marchandises donne 391 Dépréciations des stocks de marchandises ;\n• 22 Terrains donne 292 Dépréciations des terrains.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "La dépréciation des immobilisations",
+          "type": "texte",
+          "texte": "À chaque clôture, l’entité vérifie s’il existe un indice de perte de valeur sur ses immobilisations incorporelles et corporelles.\n• En l’absence d’indice, aucune dépréciation n’est constatée.\n• S’il existe un indice, l’entité estime la valeur actuelle du bien. Si celle-ci est inférieure à la valeur comptable nette, une dépréciation est constatée.\n\nIndices de perte de valeur\n\n• baisse de la valeur de marché du bien ;\n• hausse des taux d’intérêt ;\n• valeur comptable de l’entité supérieure à sa capitalisation boursière ;\n• obsolescence ou dégradation physique du bien ;\n• changements importants ayant un effet négatif sur l’entité ;\n• performance économique inférieure aux prévisions.\n\nLes valeurs à comparer\n\n• Valeur comptable nette : montant du bien après déduction du cumul des amortissements et des dépréciations.\n• Valeur d’usage : valeur actualisée des flux de trésorerie futurs attendus de l’utilisation du bien et de sa sortie.\n• Valeur vénale : prix que l’on obtiendrait en vendant le bien sur le marché.\n• Valeur recouvrable : la plus élevée de la valeur d’usage et de la valeur vénale.\n\nDépréciation = Valeur comptable nette – Valeur actuelle (si la différence est positive)\n\nÉcritures\n\nConstitution ou augmentation :\nDébit 691 Dotations aux provisions et dépréciations d’exploitation (ou 853 si HAO)\nCrédit 29… Dépréciations des immobilisations\n\nDiminution ou annulation :\nDébit 29… Dépréciations des immobilisations\nCrédit 791 Reprises de provisions et dépréciations d’exploitation (ou 863 si HAO)\n\nEn cas de cession d’une immobilisation dépréciée, la dépréciation est reprise en même temps que l’on passe les écritures habituelles de cession (812, 822, 485).\n\nExemple 1 : au 31/12/N, un fonds commercial de 15 000 000 FCFA est déprécié de 10 %.\nDébit 6913 Dotations aux dépréciations des immobilisations incorporelles : 1 500 000\nCrédit 2915 Dépréciations du fonds commercial : 1 500 000\n\nExemple 2 : l’entreprise Médéric possède un terrain acquis 60 000 000 FCFA. Au 31/12/N-1, un projet d’autoroute à proximité ramène sa valeur actuelle à 42 000 000 FCFA.\nDébit 6914 Dotations aux dépréciations des immobilisations corporelles : 18 000 000\nCrédit 292 Dépréciations des terrains : 18 000 000\n\nEn N, le projet est abandonné et le terrain est estimé à 62 000 000 FCFA. La dépréciation devient sans objet et est annulée :\nDébit 292 Dépréciations des terrains : 18 000 000\nCrédit 7914 Reprises de dépréciations des immobilisations corporelles : 18 000 000\n\nLa hausse au-delà de 60 000 000 FCFA n’est pas comptabilisée : en vertu de la prudence, une plus-value latente n’est jamais enregistrée. Un terrain ne s’amortit pas, mais il peut être déprécié.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "La dépréciation des créances clients",
+          "type": "texte",
+          "texte": "Une créance peut devenir difficile à recouvrer :\n• créance litigieuse : son existence ou son montant est contesté par le client ;\n• créance douteuse : le client connaît des difficultés financières.\nLe risque est alors évalué sous forme de perte probable.\n\nPrincipe : avant toute dépréciation, la créance doit obligatoirement être transférée du compte client ordinaire au compte de clients douteux.\nDébit 416 Créances clients litigieuses ou douteuses\nCrédit 411 Clients\n\nLes écritures\n\nConstitution ou augmentation de la dépréciation :\nDébit 6594 Charges provisionnées d’exploitation sur créances\nCrédit 491 Dépréciations des comptes clients\n\nDiminution ou annulation :\nDébit 491 Dépréciations des comptes clients\nCrédit 7594 Reprises de charges provisionnées d’exploitation sur créances\n\nCréance devenue irrécouvrable : la dépréciation est reprise, puis la perte est constatée :\nDébit 651 Pertes sur créances clients\nCrédit 416 Créances clients litigieuses ou douteuses\nSi la créance n’avait jamais été dépréciée, on crédite directement le compte 411.\n\nRentrée sur une créance déjà passée en perte :\nDébit 521 Banque\nCrédit 7078 Autres produits accessoires\n\nLa démarche à l’inventaire\n\nPour chaque client douteux, on calcule le solde restant dû (créance moins règlements de l’exercice).\n• Si l’énoncé indique « pour solde », « irrécouvrable », « insolvable », « en fuite » ou « en liquidation judiciaire », le solde est passé en perte et la dépréciation antérieure est entièrement reprise.\n• Sinon, on calcule la dépréciation nécessaire à partir du solde, puis on la compare à la dépréciation antérieure :\n• dépréciation antérieure supérieure à la dépréciation nécessaire : reprise de la différence ;\n• dépréciation antérieure inférieure à la dépréciation nécessaire : dotation complémentaire.\n\nExemple au 31/12/N+1\n\n• Gnaoré : créance 800 000, dépréciation antérieure 150 000, règlement 500 000 « pour solde ». Perte 300 000 ; reprise 150 000.\n• Koudou : créance 750 000, dépréciation antérieure 200 000, règlement 400 000, dépréciation à porter à 60 % du solde. Solde 350 000 ; dépréciation nécessaire 210 000 ; dotation 10 000.\n• Gnali : créance 300 000, dépréciation antérieure 50 000, règlement 180 000, dépréciation à ramener à 20 % du solde. Solde 120 000 ; dépréciation nécessaire 24 000 ; reprise 26 000.\n• Zokou : créance 510 000, dépréciation 125 000, aucune observation : pas d’écriture.\n\nÉcritures pour ces quatre clients :\nDébit 6594 Charges provisionnées d’exploitation sur créances : 10 000\nCrédit 491 Dépréciations des comptes clients : 10 000\n\nDébit 491 Dépréciations des comptes clients : 176 000\nCrédit 7594 Reprises de charges provisionnées sur créances : 176 000\n\nDébit 651 Pertes sur créances clients : 300 000\nCrédit 416 Créances clients douteuses : 300 000\n\nConformément à la non-compensation, la dotation et la reprise sont enregistrées séparément, sans être compensées.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "La dépréciation des stocks et des titres de placement",
+          "type": "texte",
+          "texte": "Les stocks\n\nÀ l’inventaire, la régularisation des stocks suit quatre étapes :\n• annuler la dépréciation de l’exercice précédent ;\n• solder le stock initial ;\n• constater le stock final ;\n• constituer la nouvelle dépréciation.\n\nÉcritures types :\nAnnulation de l’ancienne dépréciation : débit 391, 392 ou 396 (dépréciations des stocks de marchandises, de matières premières, de produits finis), crédit 7593 Reprises de charges provisionnées d’exploitation sur stocks.\nAnnulation du stock initial : débit 6031 ou 6032 Variation des stocks (ou 736 pour les produits finis), crédit 31, 32 ou 36.\nConstatation du stock final : débit 31, 32 ou 36, crédit 6031, 6032 ou 736.\nNouvelle dépréciation : débit 6593 Charges provisionnées d’exploitation sur stocks, crédit 391, 392 ou 396.\n\nExemple : marchandises. Au 31/12/N-1, stock 3 500 000 FCFA, dépréciation 820 000 FCFA. Au 31/12/N, stock 6 000 000 FCFA, dépréciation 1 200 000 FCFA.\nDébit 391 Dépréciations des stocks de marchandises : 820 000\nCrédit 7593 Reprises de charges provisionnées sur stocks : 820 000\nDébit 6031 Variation des stocks de marchandises : 3 500 000\nCrédit 311 Marchandises : 3 500 000\nDébit 311 Marchandises : 6 000 000\nCrédit 6031 Variation des stocks de marchandises : 6 000 000\nDébit 6593 Charges provisionnées d’exploitation sur stocks : 1 200 000\nCrédit 391 Dépréciations des stocks de marchandises : 1 200 000\n\nEn inventaire permanent, si le stock réel diffère du stock théorique, on ajuste : stock réel supérieur, on débite le compte de stock par le crédit de la variation ; stock réel inférieur, on crédite le compte de stock par le débit de la variation.\n\nLes titres de placement\n\nSi le prix d’achat est supérieur au cours de bourse à la clôture, une dépréciation est constituée ; dans le cas contraire, aucune dépréciation.\nConstitution ou augmentation : débit 6795 Charges provisionnées financières sur titres de placement, crédit 590 Dépréciations des titres de placement.\nDiminution : débit 590, crédit 7795 Reprises de charges provisionnées financières sur titres de placement.\nLors de la cession, la dépréciation des titres cédés est reprise ; la perte est portée au compte 677 Pertes sur cessions de titres de placement, le gain au compte 777 Gains sur cessions de titres de placement.\n\nExemple : la SA Adora détient 160 titres MOOV achetés 50 000 FCFA. Cours au 31/12/N : 49 500 FCFA ; au 31/12/N+1 : 48 000 FCFA.\n• 31/12/N : 160 × (50 000 – 49 500) = 80 000 FCFA, dotation 80 000 FCFA.\n• 31/12/N+1 : 160 × (50 000 – 48 000) = 320 000 FCFA ; dotation complémentaire 320 000 – 80 000 = 240 000 FCFA.\nDébit 6795 Charges provisionnées financières sur titres de placement : 240 000\nCrédit 590 Dépréciations des titres de placement : 240 000\n\nPour les titres de participation (immobilisations financières), la valeur d’entrée des titres cédés est portée au débit du compte 816 et le prix de cession au crédit du compte 826 ; la dépréciation antérieure éventuelle est reprise.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Les provisions pour risques et charges",
+          "type": "texte",
+          "texte": "Les provisions pour risques et charges couvrent des passifs dont l’échéance ou le montant est incertain : litiges, garanties, grosses réparations, pénalités, etc. Leur traitement dépend de l’horizon du risque.\n\nRisques et charges à plus d’un an : dotation\n\nDébit, selon la nature :\n• 6911 Dotations aux provisions pour risques et charges, ou 6912 pour les grosses réparations (exploitation) ;\n• 6971 pour une provision à caractère financier ;\n• 854 pour une provision hors activités ordinaires.\nCrédit : 19… Provisions pour risques et charges.\n\nRisques et charges à moins d’un an : charge provisionnée\n\nDébit :\n• 659 pour les risques d’exploitation ;\n• 679 pour les risques financiers ;\n• 839 pour les risques HAO.\nCrédit :\n• 499 Risques provisionnés d’exploitation ;\n• 599 Risques provisionnés à caractère financier.\n\nLes ajustements\n\nLes provisions pour risques et charges sont réversibles. À la clôture suivante :\n• si le risque augmente, on passe une dotation ou une charge provisionnée complémentaire, avec les mêmes comptes ;\n• s’il diminue ou disparaît, on reprend la provision.\nReprise d’une provision à plus d’un an : débit 19…, crédit 7911 (risques et charges), 7912 (grosses réparations), 7971 (financière) ou 864 (HAO).\nReprise d’une charge provisionnée à moins d’un an : débit 499 ou 599, crédit 759 (exploitation), 779 (financière) ou 849 (HAO).\n\nExemple chiffré (en millions de FCFA)\n\n• Litige avec un ancien salarié, échéance à moins d’un an : 10 en N, 15 en N+1.\n• Grosses réparations prévues dans deux ans : 5 en N, 9 en N+1.\n• Rappel d’impôt, échéance à plus d’un an : 8 en N, 0 en N+1.\n\nÉcritures au 31/12/N :\nDébit 659 Charges provisionnées d’exploitation : 10\nCrédit 499 Risques provisionnés d’exploitation : 10\nDébit 6912 Dotations aux provisions pour grosses réparations : 5\nCrédit 19… Provisions pour grosses réparations : 5\nDébit 6911 Dotations aux provisions pour risques et charges : 8\nCrédit 19… Provisions pour risques et charges : 8\n\nÉcritures au 31/12/N+1 :\nLitige : la provision passe de 10 à 15, charge provisionnée complémentaire de 5 (débit 659, crédit 499).\nGrosses réparations : la provision passe de 5 à 9, dotation complémentaire de 4 (débit 6912, crédit 19…).\nRappel d’impôt : le risque disparaît, reprise de 8 (débit 19…, crédit 7911).\n\nChaque mouvement est enregistré séparément : la règle de non-compensation interdit de présenter un montant net entre dotations et reprises.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Support de cours : Les dépréciations",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "comptabilite-financiere-module-4.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Selon le SYSCOHADA révisé, qu’est-ce qu’une provision ?",
+          "reponses": [
+            "Une perte de valeur d’un élément d’actif",
+            "Un passif dont l’échéance ou le montant est incertain",
+            "Un actif potentiel non comptabilisé",
+            "Une réserve constituée sur le bénéfice"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Avant de déprécier une créance douteuse, quelle écriture faut-il obligatoirement passer ?",
+          "reponses": [
+            "Débit 416, crédit 411",
+            "Débit 651, crédit 411",
+            "Débit 6594, crédit 491",
+            "Débit 491, crédit 7594"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Quel est le compte de dépréciation des stocks de marchandises (compte 311) ?",
+          "reponses": [
+            "291",
+            "311",
+            "491",
+            "391"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Pour une immobilisation, la valeur recouvrable correspond à :",
+          "reponses": [
+            "La plus faible de la valeur d’usage et de la valeur vénale",
+            "La valeur d’origine diminuée des amortissements",
+            "La plus élevée de la valeur d’usage et de la valeur vénale",
+            "Le prix d’achat du bien majoré des frais"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Un risque à plus d’un an disparaît. Quel compte est crédité pour reprendre la provision pour risques et charges d’exploitation ?",
+          "reponses": [
+            "7911",
+            "6911",
+            "499",
+            "759"
+          ],
+          "bonne": 0
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Selon le SYSCOHADA, quelle est l’unique hypothèse de base qui sous-tend les travaux comptables ?",
+      "reponses": [
+        "La prudence",
+        "La continuité de l’exploitation",
+        "Le coût historique",
+        "La spécialisation des exercices"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Une entreprise inscrit dans ses charges de personnel le coût des intérimaires facturé par une agence. Quel postulat applique-t-elle ?",
+      "reponses": [
+        "Le postulat de l’entité",
+        "La permanence des méthodes",
+        "La prééminence de la réalité économique sur l’apparence juridique",
+        "La comptabilité d’engagement"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Selon la convention de prudence :",
+      "reponses": [
+        "Les charges probables sont comptabilisées, les produits seulement lorsqu’ils sont définitivement acquis",
+        "Les produits probables et les charges probables sont comptabilisés de la même manière",
+        "Les plus-values latentes sont enregistrées à la clôture",
+        "Seules les charges déjà décaissées sont comptabilisées"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Le comptable présente au bilan un poste « Clients » net, après avoir déduit les avances reçues de certains clients. Quelle règle est méconnue ?",
+      "reponses": [
+        "L’intangibilité du bilan d’ouverture",
+        "Le coût historique",
+        "L’importance significative",
+        "La non-compensation"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Une machine de 1 100 000 FCFA HT, valeur résiduelle 100 000 FCFA, durée 5 ans, est mise en service le 1er octobre N (amortissement linéaire). Quelle est l’annuité de N ?",
+      "reponses": [
+        "55 000 FCFA",
+        "200 000 FCFA",
+        "50 000 FCFA",
+        "220 000 FCFA"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "En amortissement dégressif à taux décroissant sur 5 ans, quel taux s’applique la première année ?",
+      "reponses": [
+        "5/15",
+        "1/5",
+        "2/5",
+        "1/15"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Un matériel industriel neuf est amorti en dégressif fiscal sur 5 ans. Quel est le taux dégressif ?",
+      "reponses": [
+        "20 %",
+        "30 %",
+        "50 %",
+        "40 %"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "L’amortissement fiscal de l’exercice dépasse l’amortissement linéaire. Comment l’écart est-il comptabilisé ?",
+      "reponses": [
+        "Débit 681 / Crédit 28…",
+        "Débit 851 / Crédit 151",
+        "Débit 151 / Crédit 861",
+        "Débit 28… / Crédit 851"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Lors d’une cession occasionnelle, quelle écriture constate la sortie du bien pour sa valeur d’origine ?",
+      "reponses": [
+        "Débit 812 / Crédit 241",
+        "Débit 485 / Crédit 822",
+        "Débit 241 / Crédit 812",
+        "Débit 2841 / Crédit 241"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Une machine (Vo 13 000 000 FCFA) a un cumul d’amortissements de 9 750 000 FCFA à la date de cession. Elle est vendue 8 000 000 FCFA HT. Quel est le résultat de cession ?",
+      "reponses": [
+        "Plus-value de 8 000 000 FCFA",
+        "Moins-value de 1 750 000 FCFA",
+        "Plus-value de 4 750 000 FCFA",
+        "Plus-value de 3 250 000 FCFA"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Un bien neuf est facturé 18 880 000 FCFA TTC ; l’ancien bien est repris pour 4 720 000 FCFA TTC. Quel est le montant de la soulte ?",
+      "reponses": [
+        "16 000 000 FCFA",
+        "23 600 000 FCFA",
+        "12 000 000 FCFA",
+        "14 160 000 FCFA"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Pour apprécier la dépréciation d’une immobilisation, la valeur recouvrable correspond :",
+      "reponses": [
+        "à la plus faible de la valeur d’usage et de la valeur vénale",
+        "à la plus élevée de la valeur d’usage et de la valeur vénale",
+        "à la valeur d’origine diminuée des amortissements",
+        "au coût de remplacement du bien"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Un client douteux doit encore 350 000 FCFA. La dépréciation antérieure est de 200 000 FCFA et doit être portée à 60 % du solde. Quelle écriture faut-il passer ?",
+      "reponses": [
+        "Une dotation de 10 000 FCFA",
+        "Une reprise de 10 000 FCFA",
+        "Une dotation de 210 000 FCFA",
+        "Une perte de 350 000 FCFA"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "160 titres de placement achetés 50 000 FCFA l’unité cotent 49 500 FCFA à la clôture. Quelle dépréciation faut-il constater ?",
+      "reponses": [
+        "Aucune dépréciation",
+        "500 FCFA",
+        "8 000 000 FCFA",
+        "80 000 FCFA"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Une provision pour un litige dont l’issue est attendue dans moins d’un an est enregistrée :",
+      "reponses": [
+        "au débit du 6911 et au crédit du 19…",
+        "au débit du 6795 et au crédit du 590",
+        "au débit du 659 et au crédit du 499",
+        "au débit du 851 et au crédit du 151"
+      ],
+      "bonne": 2
+    }
+  ]
+}

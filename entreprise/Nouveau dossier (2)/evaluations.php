@@ -1,0 +1,10 @@
+<?php
+require __DIR__.'/entreprise_init.php';
+$rows=[];$note='Les résultats d’évaluation seront affichés ici dès que les évaluations seront enregistrées dans la base TOUN.';
+try{
+    $sql="SELECT u.prenom_user,u.nom_user,f.titre_form,i.statut_inscrip FROM t_inscriptions i INNER JOIN t_utilisateurs u ON u.id_user=i.id_user INNER JOIN t_formations f ON f.id_form=i.id_form INNER JOIN t_entreprise_collaborateurs ec ON ec.id_user=i.id_user WHERE ec.id_entreprise=? AND ec.statut='actif' ORDER BY u.nom_user,f.titre_form";
+    $s=$con->prepare($sql);$s->execute([$idEntreprise]);$rows=$s->fetchAll();
+}catch(Throwable $e){}
+$active_page='evaluations.php';
+?>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Évaluations — TOUN</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"><link rel="stylesheet" href="entreprise-menu.css"><link rel="stylesheet" href="entreprise-ui.css"></head><body><?php include __DIR__.'/menu_entreprise.php';?><main class="main-content"><div class="page"><div class="page-head"><div><span class="eyebrow">SUIVI</span><h1>Évaluations</h1><p>Consultez les parcours nécessitant une évaluation.</p></div></div><section class="panel"><div class="table-wrap"><table class="table"><thead><tr><th>Collaborateur</th><th>Formation</th><th>Parcours</th><th>Résultat</th></tr></thead><tbody><?php if(!$rows):?><tr><td colspan="4" class="empty">Aucune donnée d'évaluation.</td></tr><?php else:foreach($rows as $r):?><tr><td><?=e($r['prenom_user'].' '.$r['nom_user'])?></td><td><?=e($r['titre_form'])?></td><td><?=e($r['statut_inscrip'])?></td><td><span class="badge off">À consulter</span></td></tr><?php endforeach;endif;?></tbody></table></div></section></div></main></body></html>

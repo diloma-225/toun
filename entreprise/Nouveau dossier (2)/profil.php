@@ -1,0 +1,10 @@
+<?php
+require __DIR__.'/entreprise_init.php';
+if($_SERVER['REQUEST_METHOD']==='POST'){
+    $s=$con->prepare("UPDATE t_utilisateurs SET nom_user=?,prenom_user=?,email_user=?,tel_user=? WHERE id_user=?");
+    $s->execute([trim($_POST['nom']),trim($_POST['prenom']),trim($_POST['email']),trim($_POST['tel']),$userId]);
+    $_SESSION['nom_user']=trim($_POST['nom']);$_SESSION['prenom_user']=trim($_POST['prenom']);flash('ok','Profil mis à jour.');header('Location: profil.php');exit;
+}
+$s=$con->prepare("SELECT * FROM t_utilisateurs WHERE id_user=? LIMIT 1");$s->execute([$userId]);$u=$s->fetch();$flash=getFlash();$active_page='profil.php';
+?>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mon profil — TOUN</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"><link rel="stylesheet" href="entreprise-menu.css"><link rel="stylesheet" href="entreprise-ui.css"></head><body><?php include __DIR__.'/menu_entreprise.php';?><main class="main-content"><div class="page"><div class="page-head"><div><span class="eyebrow">COMPTE</span><h1>Mon profil</h1><p>Gérez vos informations personnelles.</p></div></div><?php if($flash):?><div class="alert <?=e($flash['type'])?>"><?=e($flash['message'])?></div><?php endif;?><section class="panel form"><form method="post"><div class="form-grid"><div class="field"><label>Nom</label><input name="nom" value="<?=e($u['nom_user'])?>" required></div><div class="field"><label>Prénom</label><input name="prenom" value="<?=e($u['prenom_user'])?>" required></div><div class="field"><label>E-mail</label><input type="email" name="email" value="<?=e($u['email_user'])?>" required></div><div class="field"><label>Téléphone</label><input name="tel" value="<?=e($u['tel_user']??'')?>"></div></div><div class="form-actions"><button class="btn">Enregistrer</button></div></form></section></div></main></body></html>

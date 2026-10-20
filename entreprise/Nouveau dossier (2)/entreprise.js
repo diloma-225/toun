@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('.reveal').forEach((el,i)=>{el.style.opacity='0';el.style.transform='translateY(6px)';el.style.transition=`opacity .35s ease ${i*.03}s,transform .35s ease ${i*.03}s`;requestAnimationFrame(()=>{el.style.opacity='1';el.style.transform='translateY(0)'})})})

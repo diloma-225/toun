@@ -1,0 +1,23 @@
+ANIMATION DU LOGO TOUN
+======================
+
+L'idée : le livre (le U de TOUN) s'ouvre page par page, ses deux couvertures se dressent
+et forment le U, des particules de savoir s'envolent, puis T, O et N viennent se placer
+autour du livre. La signature "Plateforme de formation en ligne" apparaît à la fin.
+
+VIDÉOS PRÊTES
+- Logo_TOUN_anime_fond_clair.mp4   : logo en couleurs sur fond clair
+- Logo_TOUN_anime_fond_bleu.mp4    : logo blanc sur fond bleu TOUN
+- Logo_TOUN_anime_transparent.mov  : logo en couleurs SANS fond (codec PNG avec transparence)
+                                     à poser sur n'importe quelle vidéo dans Premiere / After Effects
+
+MODIFIER DANS AFTER EFFECTS
+1. Installez la police du dossier "polices" (double-clic > Installer).
+2. After Effects > Fichier > Scripts > Exécuter le fichier de script...
+   - Construire_Logo_TOUN_fond_clair.jsx  ou
+   - Construire_Logo_TOUN_fond_bleu.jsx
+   Laissez le script dans ce dossier (il utilise "elements" et "audio").
+3. Chaque morceau du logo est un calque séparé : Lettre T, Lettre O, Lettre N,
+   Livre - base, Livre - page gauche/droite, Livre - couverture gauche/droite (U).
+   Touche U sur un calque pour voir ses images clés et changer le rythme.
+4. Pour supprimer le fond : masquez le calque "Fond" et le calque "Lueur".

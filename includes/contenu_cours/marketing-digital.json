@@ -1,0 +1,648 @@
+{
+  "cle": "marketing",
+  "anciens_titres": [
+    "Les bases du marketing digital",
+    "Les canaux du digital",
+    "Mesurer ses résultats"
+  ],
+  "titre_quiz": "Évaluation finale : Marketing digital",
+  "description_quiz": "Cette évaluation vérifie la maîtrise des fondamentaux du marketing, des leviers digitaux (réseaux sociaux, contenus, publicité, référencement) et des outils de mesure. Une note minimale de 10/20 est requise pour la valider.",
+  "modules": [
+    {
+      "titre": "Les fondamentaux du marketing",
+      "description": "Comprendre ce qu’est le marketing, analyser son marché et ses clients, puis bâtir une stratégie et un mix cohérents avant de passer au digital.",
+      "duree": "100",
+      "lecons": [
+        {
+          "titre": "Le marketing : définitions, concepts et processus",
+          "type": "texte",
+          "texte": "Le marketing est une manière particulière de concevoir et de réaliser l’échange de biens et de services. Il consiste à identifier, créer, développer et satisfaire la demande : c’est un processus organisé dont le but est de conquérir des clients et de les garder. Né aux États-Unis au début du XXe siècle chez les producteurs de produits de grande consommation, il s’applique aujourd’hui aussi aux services, aux associations, aux institutions publiques et à la vie politique.\n\nLe management marketing est l’art de choisir des marchés cibles et de construire avec eux des relations rentables. Il suppose d’analyser la situation (marché, concurrence, environnement), de fixer des objectifs, de concevoir des stratégies, de les traduire en actions, d’organiser les moyens humains et matériels, puis de contrôler les résultats pour corriger la trajectoire.\n\nTrois notions de base doivent être distinguées :\n• le besoin : sentiment de manque, physiologique ou psychologique, commun à tous les êtres humains ;\n• le désir : la forme que prend la réponse au besoin selon la personnalité, la culture et l’environnement de chacun ;\n• la demande : le désir devenu réalité parce que la personne dispose des ressources pour l’acheter.\n\nLe besoin d’étancher sa soif est universel ; à Abidjan, il peut s’exprimer par le désir d’un jus de bissap bien frais, qui ne devient une demande que si l’acheteur a l’argent nécessaire.\n\nLes besoins sont satisfaits par une offre : un ensemble de biens (objets physiques, consommables ou durables), de services (intangibles, éphémères, non stockables, comme un transfert d’argent par Mobile Money) et d’idées (le don de sang, un programme politique). Le client choisit l’offre qui lui paraît apporter la plus grande valeur, c’est-à-dire le meilleur rapport entre ce qu’il obtient et ce qu’il paie. Sa satisfaction dépend de l’écart entre la performance perçue et ses attentes : en dessous des attentes, il est déçu ; au niveau des attentes, il est satisfait ; au-delà, il est enchanté. Un client satisfait rachète, un client mécontent part chez le concurrent et en parle autour de lui.\n\nLe processus marketing comporte cinq étapes :\n• comprendre le marché et les besoins des clients ;\n• concevoir une stratégie orientée vers la création de valeur ;\n• élaborer un plan marketing qui apporte une valeur supérieure ;\n• construire des relations durables et rentables ;\n• capter en retour la valeur créée sous forme de ventes, de part de marché et de profits.\n\nCe retour se mesure notamment par la valeur à vie du client (l’ensemble de ses achats futurs), la part de client (la part de ses achats d’une catégorie réalisée chez nous) et le capital client (la valeur actualisée de tous les clients actuels et potentiels de l’entreprise).",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "L’environnement et l’information marketing",
+          "type": "texte",
+          "texte": "Avant toute décision, l’entreprise doit comprendre l’environnement dans lequel elle évolue. Cet environnement regroupe les acteurs et les forces extérieures au marketing qui influencent sa capacité à servir ses clients. On distingue deux niveaux.\n\nLe micro-environnement rassemble les acteurs proches de l’entreprise :\n• l’entreprise elle-même et ses autres services (finance, production, achats), avec lesquels le marketing doit travailler ;\n• les fournisseurs, dont les difficultés se répercutent directement sur l’offre ;\n• les intermédiaires (transporteurs, distributeurs, agences de publicité, cabinets d’études) ;\n• les concurrents, face auxquels il faut obtenir un avantage ;\n• les publics (médias, pouvoirs publics, associations, riverains) ;\n• les clients, au cœur de toute l’organisation.\n\nLes marchés de clients sont de cinq types : consommateurs, marchés industriels, revendeurs, administrations et marchés internationaux.\n\nLe macro-environnement regroupe les grandes forces qui pèsent sur l’ensemble du micro-environnement : démographiques (croissance et jeunesse de la population, urbanisation), économiques (pouvoir d’achat, habitudes de dépenses), naturelles (matières premières, aléas climatiques), technologiques (internet, smartphones, paiement mobile), politiques et légales (réglementations, stabilité), culturelles (valeurs, goûts, modes de vie). La technologie est sans doute la force qui a le plus transformé le marketing, au point de faire naître le marketing digital.\n\nLe cours rappelle une formule connue : il existe des entreprises qui font arriver les choses, d’autres qui les regardent arriver et d’autres qui se demandent ce qui s’est passé. Les premières, proactives, anticipent et façonnent leur environnement.\n\nPour décider, il faut de l’information. Aujourd’hui, le problème n’est plus d’en trouver, mais d’extraire l’utile d’une masse de données produites par les téléphones, les réseaux sociaux et le commerce en ligne. Le système d’information marketing (SIM) organise ce travail : évaluer les besoins d’information, collecter les données, les analyser puis les diffuser aux décideurs, souvent sous forme de rapports. Les sources sont les bases de données internes, la veille concurrentielle et les études de marché. L’analyse peut s’appuyer sur un CRM (logiciel qui centralise les informations issues de tous les points de contact avec le client) ou sur des outils de Big Data.\n\nL’étude de marché suit cinq phases : définir les objectifs, concevoir le plan de recherche, collecter l’information, interpréter les résultats et rédiger le rapport. Elle peut être quantitative (enquêtes, panels : combien de personnes font ou pensent telle chose ?) ou qualitative (entretiens, réunions de groupe : que font-elles et pourquoi ?). L’échantillon doit être représentatif : il faut préciser qui interroger, combien de personnes et selon quelle méthode. Une petite entreprise peut se contenter de méthodes peu coûteuses : observation en point de vente, sondages informels, questionnaires en ligne, analyse des pages Facebook des concurrents.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le comportement du consommateur et la décision d’achat",
+          "type": "texte",
+          "texte": "Le comportement du consommateur désigne l’ensemble des actions d’une personne ou d’une organisation, depuis l’apparition d’un besoin jusqu’à l’achat et l’utilisation du produit, ainsi que les facteurs qui influencent ces actions. Pour le comprendre, on se pose sept questions : quoi, qui, pourquoi, comment, quand, où et combien achète-t-on ?\n\nQuatre familles de facteurs influencent l’achat :\n• culturels : ce sont les plus puissants ; la culture façonne les valeurs et les goûts ;\n• sociaux : groupes d’appartenance, groupes de référence auxquels on aspire, et surtout la famille, première organisation d’achat de la société ;\n• personnels : âge, étape de vie, profession, situation économique, style de vie, personnalité ;\n• psychologiques : motivation, perception (sélective : on remarque ce qui nous intéresse), apprentissage, croyances et attitudes.\n\nLes rôles d’acheteur, de consommateur et de payeur peuvent être tenus par une même personne ou répartis : un parent achète et paie les fournitures scolaires que l’enfant utilise.\n\nSelon l’implication de l’acheteur et les différences perçues entre marques, on distingue quatre comportements :\n• achat complexe : forte implication et fortes différences entre marques (un ordinateur, une moto) ;\n• achat réducteur de dissonance : forte implication mais marques jugées proches ;\n• achat routinier : faible implication et faibles différences (le sel, l’eau en sachet) ;\n• recherche de variété : faible implication mais différences marquées (les biscuits).\n\nLe processus de décision comporte cinq étapes, que le consommateur peut parcourir plus ou moins vite, voire en sauter certaines :\n• la reconnaissance du besoin, déclenchée par un stimulus interne ou externe ;\n• la recherche d’information auprès de sources personnelles (famille, amis), commerciales (publicité, vendeurs, sites) ou publiques (médias, associations, internet) ;\n• l’évaluation des options ;\n• la décision d’achat, qui peut encore être modifiée par l’avis d’autrui ou un imprévu ;\n• le comportement après l’achat : déception, satisfaction ou enchantement selon l’écart entre attentes et performance.\n\nLe bouche-à-oreille négatif circule plus vite que le positif. L’entreprise a donc intérêt à recueillir les réclamations et à y répondre, ce que les réseaux sociaux rendent à la fois plus visible et plus urgent.\n\nPour un produit nouveau, le processus d’adoption passe par cinq stades : prise de conscience, intérêt, évaluation, essai et adoption. Les adoptants se répartissent en innovateurs (prêts à prendre des risques), adopteurs précoces (leaders d’opinion), majorité précoce, majorité tardive (sceptique) et retardataires (qui n’adoptent que lorsque la nouveauté est devenue habituelle). Le paiement mobile en Côte d’Ivoire illustre ce parcours : d’abord utilisé par quelques pionniers, il est aujourd’hui entré dans les habitudes de la majorité.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Stratégie marketing : segmenter, cibler, positionner",
+          "type": "texte",
+          "texte": "Les marchés sont composés d’acheteurs très différents. Plutôt que de s’adresser à tous de la même façon, l’entreprise identifie les parties du marché qu’elle peut servir le mieux et le plus rentablement. La démarche se déroule en deux temps : choisir les clients (segmentation et ciblage), puis décider comment créer de la valeur pour eux (différenciation et positionnement).\n\nLa segmentation consiste à découper le marché en groupes homogènes. Les principaux critères sont :\n• géographiques : pays, région, ville, quartier ;\n• démographiques : âge, sexe, revenu, profession, taille et cycle de vie de la famille, niveau d’études ;\n• psychographiques : classe sociale, style de vie, personnalité ;\n• comportementaux : usage du produit, attitudes, réactions à l’offre.\n\nUn segment utile est mesurable, suffisamment important pour être rentable, différenciable (il réagit autrement que les autres) et accessible par des actions marketing. Les réseaux sociaux et le commerce en ligne ont beaucoup enrichi la segmentation, car ils fournissent directement des données sur les consommateurs.\n\nLe ciblage consiste à évaluer chaque segment (taille et croissance, attractivité, adéquation avec les objectifs et les ressources de l’entreprise) puis à choisir son marché cible. Quatre approches existent :\n• le marketing indifférencié : une seule offre pour tout le marché ;\n• le marketing différencié : une offre adaptée à chaque segment retenu ;\n• le marketing concentré, ou de niche : une position forte sur un ou quelques petits segments ;\n• le micromarketing : une offre adaptée à une zone locale ou à un individu.\n\nLe positionnement est la place qu’occupe un produit dans l’esprit des consommateurs par rapport aux concurrents. Selon la formule du cours, les produits se fabriquent en usine, mais les marques se construisent dans l’esprit des clients. On l’analyse avec une carte de positionnement dont les axes sont les attributs jugés les plus importants (par exemple le prix et la qualité perçue). Se différencier, c’est créer un ensemble unique d’avantages qui attire un groupe significatif de clients. La proposition de valeur résume ces avantages ; elle doit être tenue par des actes : un positionnement haut de gamme exige un produit de qualité, un prix élevé, une distribution sélective et des supports publicitaires de qualité.\n\nLa stratégie se met ensuite en œuvre par le mix marketing, les 4 P :\n• Produit : le bien ou le service offert, ses attributs, sa marque (nom et logo), son emballage et ses services associés ;\n• Prix : la valeur fixée pour l’offre ;\n• Place (distribution) : le système qui rend le produit disponible ;\n• Promotion (communication) : la transmission des avantages du produit.\n\nTout produit traverse un cycle de vie (lancement, croissance, maturité, déclin) qui oblige à adapter ces leviers. Pour les services, il faut tenir compte de leurs caractéristiques propres : intangibilité, inséparabilité du prestataire, variabilité de la qualité et périssabilité.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "La communication et l’entrée dans le marketing digital",
+          "type": "texte",
+          "texte": "La communication, ou promotion, sert à informer de l’existence du produit, à persuader de ses avantages et à rappeler sa présence aux clients actuels. Le mix de communication réunit plusieurs outils :\n• la publicité : information payée, non personnelle, diffusée par les médias ;\n• la promotion des ventes : incitations de courte durée (remises, coupons, échantillons, jeux) ;\n• la vente personnelle : présentation directe par un vendeur, avec un retour immédiat du client ;\n• les relations publiques : construction d’une image favorable (communiqués, parrainage, événements) ;\n• le marketing direct : contacts individuels avec des clients sélectionnés pour obtenir une réponse rapide.\n\nUn programme de communication intégré suit six étapes : identifier l’audience cible, fixer l’objectif de communication, concevoir le message, choisir les canaux (personnels ou impersonnels), choisir la source du message, puis recueillir les retours. Le message efficace suit le modèle AIDA : attirer l’Attention, susciter l’Intérêt, créer le Désir et provoquer l’Action.\n\nPour planifier les médias, on raisonne avec trois notions :\n• la couverture : nombre de personnes touchées au moins une fois ;\n• la fréquence : nombre d’expositions par personne touchée ;\n• l’exposition totale.\n\nExposition totale = Couverture × Fréquence\n\nUne campagne radio qui touche 200 000 auditeurs, chacun exposé en moyenne 4 fois, produit 800 000 expositions. Le même total peut être obtenu avec une couverture plus large et une fréquence plus faible.\n\nLe développement d’internet a fait naître le marketing digital : l’usage des sites web, des réseaux sociaux, des applications mobiles, de la publicité et de la vidéo en ligne, de l’e-mail et des blogs pour toucher les clients partout et à tout moment. Le cours en distingue trois formes.\n\nLe marketing en ligne s’appuie d’abord sur le site de l’entreprise, qui peut être un site marchand orienté vers la vente ou une communauté de marque. Il comprend aussi la publicité en ligne (bannières d’affichage et annonces sur les moteurs de recherche), l’e-mail marketing, la vidéo en ligne et les blogs. L’e-mail doit reposer sur l’accord préalable du destinataire (opt-in) pour éviter le spam. Le marketing viral est la version numérique du bouche-à-oreille.\n\nLe marketing sur les réseaux sociaux est immédiat, peu coûteux et favorise la participation. Il présente aussi des limites : il demande des compétences spécialisées, ses résultats sont difficiles à mesurer sans outils comme Google Analytics, et l’entreprise perd une partie du contrôle une fois le contenu publié.\n\nLe marketing mobile vise à déclencher un achat immédiat, à faciliter l’acte d’achat et à enrichir l’expérience de marque. En Côte d’Ivoire, où l’accès à internet passe surtout par le smartphone, un site adapté au mobile, une présence sur WhatsApp Business et le paiement par Mobile Money sont devenus des éléments de base de l’offre.",
+          "fichier": "",
+          "duree": "20 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Selon le cours, qu’est-ce que le besoin ?",
+          "reponses": [
+            "Un sentiment de manque commun à tous les êtres humains",
+            "Une envie propre à chaque culture",
+            "Un achat rendu possible par l’argent",
+            "Une promesse faite par une marque"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Dans le macro-environnement, quelle force a le plus transformé le marketing selon le cours ?",
+          "reponses": [
+            "La force démographique",
+            "La force culturelle",
+            "La force technologique",
+            "La force naturelle"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Une étude qualitative cherche surtout à savoir :",
+          "reponses": [
+            "Combien de personnes achètent un produit",
+            "Ce que font les personnes et pourquoi",
+            "Quel est le prix moyen du marché",
+            "Quelle est la part de marché d’un concurrent"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "L’achat de sel ou d’eau en sachet est un exemple d’achat :",
+          "reponses": [
+            "Complexe",
+            "Réducteur de dissonance",
+            "De recherche de variété",
+            "Routinier"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Que signifie le modèle AIDA pour construire un message ?",
+          "reponses": [
+            "Analyser, Informer, Décider, Agir",
+            "Attention, Intérêt, Désir, Action",
+            "Audience, Image, Diffusion, Achat",
+            "Attirer, Identifier, Développer, Accompagner"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "Transformation digitale et innovation du modèle d’affaires",
+      "description": "Analyser un modèle d’affaires, situer ses projets d’innovation sur les trois horizons et conduire une transformation digitale centrée sur le client.",
+      "duree": "60",
+      "lecons": [
+        {
+          "titre": "Les quatre composantes d’un modèle d’affaires",
+          "type": "texte",
+          "texte": "Le digital ne se limite pas à de nouveaux canaux de communication : il oblige souvent l’entreprise à repenser sa façon de créer et de capter de la valeur. C’est l’objet de l’innovation du modèle d’affaires (Business Model Innovation), qui s’applique aussi bien aux services qu’aux biens.\n\nSelon le support, un modèle d’affaires solide repose sur quatre éléments :\n• la proposition de valeur : la promesse faite au client, c’est-à-dire les avantages qu’il retire d’un produit ou d’un service donné ;\n• la structure commerciale : l’organisation nécessaire pour produire cette valeur et offrir une bonne expérience client (offre, vente, communication, production, compétences clés, partenaires) ;\n• le modèle de revenus : la manière dont l’entreprise gagne réellement de l’argent, avec sa structure de coûts et ses véritables sources de recettes ;\n• l’esprit d’entreprise : la capacité à décider ce que l’on fait en interne et ce que l’on confie à des partenaires, en fonction des compétences dont on dispose.\n\nLes exigences envers les modèles d’affaires évoluent. L’exemple d’Apple est parlant. Au milieu des années 1990, l’entreprise avait saturé son créneau du matériel et du logiciel et ne parvenait plus à accroître facilement ses bénéfices. À partir de 2001, elle a lancé une série de produits et de services nouveaux : l’iPod, puis le service musical iTunes, puis l’iPhone. Elle avait compris que le téléchargement de musique était un marché lucratif où personne n’avait encore construit de modèle commercial innovant. En associant un appareil, une plateforme et un mode de paiement, Apple est devenue en quelques années le leader de ce marché.\n\nLa leçon est double. D’une part, un bon produit ne suffit pas : c’est la combinaison de la proposition de valeur, de l’organisation et du modèle de revenus qui fait la différence. D’autre part, les opportunités naissent souvent d’un usage que les acteurs en place ont négligé.\n\nLe contexte ivoirien offre des exemples proches. Le paiement mobile a transformé un service de téléphonie en plateforme financière ; des commerçants qui vendaient uniquement en boutique prennent désormais leurs commandes sur WhatsApp et se font payer par Mobile Money ; des applications de livraison relient restaurants et clients sans que ceux-ci se déplacent. Dans chaque cas, on peut relire l’innovation avec les quatre composantes : quelle nouvelle promesse au client, quelle organisation, quelles recettes, quels partenaires ?\n\nAvant de lancer une action de marketing digital, il est donc utile de décrire en quelques lignes son propre modèle d’affaires selon ces quatre rubriques. Cela permet de vérifier que la présence en ligne sert bien la proposition de valeur et qu’elle s’appuie sur un modèle de revenus viable.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les trois horizons de l’innovation",
+          "type": "texte",
+          "texte": "Au-delà du modèle d’affaires, le support présente le modèle des trois horizons de l’innovation. Chaque horizon correspond à un type d’activité différent, qui demande des compétences et un style de management propres.\n\nHorizon 1 : les activités actuelles. Il regroupe les produits et les processus en cours. Tout reste à peu près identique à ce qui existait auparavant : les clients connaissent et acceptent l’offre, les concurrents sont identifiés. L’objectif est de bien gérer et d’améliorer l’existant.\n\nHorizon 2 : les activités émergentes. La chaîne de valeur et le modèle d’affaires restent les mêmes, mais l’entreprise propose de manière proactive de nouvelles solutions à ses clients en s’appuyant sur son savoir-faire. Cet horizon a besoin de bâtisseurs d’activités à la direction, de bons vendeurs et de personnes innovantes.\n\nHorizon 3 : les options d’avenir. C’est la partie visionnaire, la plus complexe et la plus difficile à mettre en œuvre. Les concurrents y sont souvent des start-up ou des acteurs venus d’autres secteurs.\n\nLe modèle met en lumière un défi stratégique : les affaires courantes relèvent de l’horizon 1, mais l’entreprise doit agir en parallèle sur les horizons 2 et 3 pour préparer son avenir. Une entreprise qui se consacre uniquement à l’horizon 1 reste dans sa zone de confort et finit par paraître dépassée à ses clients comme à ses salariés.\n\nPour situer un projet, on peut se poser trois questions :\n• Le projet modifie-t-il l’offre actuelle ou seulement sa gestion ? S’il améliore l’existant sans le changer, il relève de l’horizon 1.\n• Apporte-t-il au client une solution nouvelle avec les compétences et le modèle actuels ? C’est l’horizon 2.\n• Suppose-t-il un nouveau modèle d’affaires, de nouveaux clients ou de nouveaux concurrents ? C’est l’horizon 3.\n\nPrenons une pharmacie d’Abidjan. Réorganiser ses stocks et ses horaires relève de l’horizon 1. Permettre aux clients d’envoyer leur ordonnance par WhatsApp et de payer par Mobile Money avant de venir retirer leurs médicaments relève de l’horizon 2 : le métier ne change pas, mais le service devient proactif et digital. Créer avec d’autres officines une plateforme de téléconsultation et de livraison à domicile toucherait l’horizon 3.\n\nEn pratique, il est conseillé de répartir les ressources entre les trois horizons plutôt que de tout miser sur l’un d’eux, et de confier chaque horizon à des personnes dont le profil correspond : gestionnaires rigoureux pour le premier, développeurs commerciaux pour le deuxième, profils créatifs et tolérants au risque pour le troisième.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Cas XY : diagnostic et lancement de la transformation",
+          "type": "texte",
+          "texte": "Le support illustre ces notions par le cas fictif de la société XY, un grand prestataire informatique spécialisé dans la transformation numérique : intégration de systèmes, externalisation, assistance aux clients et conseil.\n\nLe diagnostic initial révèle plusieurs faiblesses :\n• un manque d’innovation dans les services ;\n• des demandes et des incidents transmis par simple e-mail, sans outil de suivi par tickets ;\n• une entreprise qui se présente comme experte du numérique mais ne propose aucune idée nouvelle à ses clients et se contente de gérer l’existant ;\n• une organisation lourde et des processus figés qui étouffent les initiatives ;\n• l’absence de ressource externe capable de l’aider à progresser.\n\nAutrement dit, XY est enfermée dans l’horizon 1. La démarche suivie pour en sortir est méthodique.\n\nUn groupe de projet international est d’abord constitué pour identifier tous les problèmes et donner à chacun la même base de travail. Le cadrage précise le budget, l’étude de faisabilité, les responsabilités et les objectifs. Un cahier des charges distingue ce qui doit être inclus, ce qui peut être ajouté et ce qui peut être reporté. Le projet s’appuie explicitement sur les deux outils vus précédemment : le modèle d’affaires et les trois horizons.\n\nUne enquête est ensuite menée auprès des clients et des salariés. Elle montre que beaucoup d’entre eux ont le sentiment de travailler avec une entreprise démodée. Présentés à la direction, ces résultats débouchent sur un budget important consacré au service client et à l’innovation.\n\nXY choisit alors un logiciel moderne de gestion des services informatiques (ITSM). Les licences sont plus chères que des solutions toutes faites, mais les interfaces peuvent être adaptées à volonté, l’outil est simple à utiliser et il crée de la valeur à la fois pour les salariés et pour les clients. Deux postes sont créés pour s’occuper uniquement de ce sujet : l’un centré sur la facilité d’utilisation, l’autre sur l’évolution technique. Grâce à cette simplicité, XY passe de l’horizon 1 à l’horizon 2.\n\nPlusieurs enseignements sont transposables à toute organisation, y compris une PME ivoirienne :\n• partir de la voix du client, par une enquête, avant de choisir un outil ;\n• formaliser le projet (budget, responsables, objectifs, priorités) ;\n• obtenir l’appui de la direction en présentant des faits ;\n• choisir un outil pour sa facilité d’usage et sa capacité d’évolution, pas seulement pour son prix ;\n• désigner des personnes responsables du sujet dans la durée.\n\nUne entreprise de distribution qui reçoit ses commandes par appels et messages dispersés peut suivre exactement la même démarche : interroger ses clients, puis centraliser les demandes dans un outil unique, même simple, pour les suivre et les mesurer.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Cas XY : un service client digital et proactif",
+          "type": "texte",
+          "texte": "Une fois l’outil ITSM en place, XY transforme progressivement sa relation client. Trois réalisations illustrent ce passage vers un service digital.\n\nLa plateforme de tickets. Auparavant, chaque e-mail de client était traité individuellement, sans trace exploitable. Désormais, le client peut toujours écrire un e-mail, mais celui-ci est automatiquement converti en ticket. Chaque demande devient ainsi mesurable et évaluable. Les tickets sont classés selon leur degré d’urgence, ce qui accélère leur traitement, et les clients peuvent ouvrir eux-mêmes leurs demandes. Avec le temps, les solutions apportées alimentent une base de connaissances qui permet d’anticiper certains problèmes.\n\nLa boutique de commande intégrée. Les clients demandaient par téléphone ou par e-mail l’achat d’un serveur ou l’installation d’un logiciel. XY intègre dans sa plateforme un catalogue de matériel (serveurs, ordinateurs portables, écrans, imprimantes) présenté comme dans une boutique en ligne : l’utilisateur voit l’article sous forme d’icône, le commande en un clic et retrouve un récapitulatif au moment de valider. Le responsable reçoit une demande d’autorisation et vérifie que la commande est justifiée et compatible avec le budget avant de l’envoyer. Le demandeur reçoit ensuite une confirmation.\n\nLe service proactif. XY gère de nombreuses imprimantes chez des clients des secteurs de la banque, de l’assurance et de l’industrie. Jusqu’ici, le client appelait lorsqu’une imprimante tombait en panne. Le logiciel du fabricant est désormais relié à la plateforme ITSM : le système peut détecter, par exemple, qu’une cartouche sera bientôt vide et soit déclencher automatiquement la commande, soit prévenir le client à l’avance. Le service client ne subit plus les incidents, il les anticipe.\n\nCes trois étapes montrent la logique d’une transformation digitale réussie :\n• rendre chaque interaction traçable et mesurable ;\n• simplifier le parcours du client, de la demande à la validation ;\n• utiliser les données pour agir avant que le client n’ait à se manifester.\n\nLe même raisonnement s’applique à d’autres secteurs. Un distributeur de gaz domestique à Bouaké peut enregistrer chaque commande reçue sur WhatsApp Business, proposer un catalogue avec les prix, encaisser par Mobile Money et envoyer un rappel lorsque la bouteille d’un client habituel arrive en fin de période moyenne d’utilisation. Une compagnie d’assurance peut transformer chaque message de sinistre en dossier numéroté que l’assuré peut suivre.\n\nLe point commun de ces exemples est que la technologie sert la proposition de valeur : elle fait gagner du temps au client, réduit l’incertitude et renforce la fidélité. C’est sur cette base que les actions de communication digitale étudiées dans les modules suivants prennent tout leur sens.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Support de cours : Innovation du modèle d’affaires et transformation digitale",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "marketing-digital-module-2.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Quelles sont les quatre composantes d’un modèle d’affaires selon le support ?",
+          "reponses": [
+            "Produit, prix, place, promotion",
+            "Clients, fournisseurs, concurrents, publics",
+            "Proposition de valeur, structure commerciale, modèle de revenus, esprit d’entreprise",
+            "Notoriété, trafic, conversion, fidélité"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Qu’a fait Apple à partir de 2001 pour relancer sa croissance ?",
+          "reponses": [
+            "Baisser fortement le prix de ses ordinateurs",
+            "Associer un appareil, une plateforme et un mode de paiement",
+            "Racheter ses principaux concurrents",
+            "Se concentrer uniquement sur le logiciel"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Dans le modèle des trois horizons, l’horizon 3 correspond :",
+          "reponses": [
+            "Aux options d’avenir, visionnaires et difficiles à mettre en œuvre",
+            "À l’amélioration des activités actuelles",
+            "Aux nouvelles solutions proposées avec le modèle actuel",
+            "À la réduction des coûts de production"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Dans le cas XY, quelle a été la première étape après la constitution du groupe de projet et le cadrage ?",
+          "reponses": [
+            "L’achat immédiat d’un logiciel bon marché",
+            "Le recrutement d’un influenceur",
+            "Une enquête auprès des clients et des salariés",
+            "La fermeture des services jugés démodés"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Comment fonctionne le service proactif mis en place par XY pour les imprimantes ?",
+          "reponses": [
+            "Le client appelle dès qu’une panne survient",
+            "Un technicien passe chaque semaine chez le client",
+            "Les imprimantes sont remplacées chaque année",
+            "Le système détecte une cartouche bientôt vide et commande ou prévient à l’avance"
+          ],
+          "bonne": 3
+        }
+      ]
+    },
+    {
+      "titre": "Réseaux sociaux, vidéo et contenus",
+      "description": "Choisir les plateformes adaptées à ses objectifs, produire des contenus vidéo et des récits efficaces et les diffuser de façon coordonnée sur plusieurs canaux.",
+      "duree": "100",
+      "lecons": [
+        {
+          "titre": "Le paysage des médias sociaux et Facebook",
+          "type": "texte",
+          "texte": "Chaque plateforme sociale poursuit ses propres objectifs et s’adresse à un public spécifique. Le support classe les services selon leur fonction principale :\n• publier (Wikipédia) ;\n• partager (Spotify) ;\n• échanger des messages (Skype) ;\n• discuter (Reddit) ;\n• collaborer (Evernote) ;\n• créer des relations (Tinder).\n\nBeaucoup de plateformes sont spécialisées, mais les plus grandes, comme Facebook ou LinkedIn, combinent plusieurs fonctions et touchent ainsi un public beaucoup plus large. Les plateformes retenues pour le marketing sont Facebook, Instagram, YouTube, Twitter, LinkedIn, Pinterest et TikTok. Le support laisse de côté WhatsApp et Snapchat ; en Côte d’Ivoire, WhatsApp, et en particulier WhatsApp Business, mérite pourtant une place à part tant il est utilisé pour la relation commerciale.\n\nFacebook doit son succès à la diversité de ses fonctions : publication et commentaire de photos, groupes thématiques, messagerie intégrée (Messenger). Son audience est très large et très fidèle : environ deux utilisateurs actifs mensuels sur trois y reviennent chaque jour. Pour une entreprise, c’est un support publicitaire efficace qui permet :\n• d’accroître la notoriété d’une entreprise, d’une marque, d’un produit ou d’une personne ;\n• de fidéliser les clients en créant de la proximité et un dialogue ;\n• d’assurer une partie du service client et de l’assistance ;\n• de recueillir l’avis des clients sur un produit pour l’améliorer.\n\nSon principal inconvénient tient à la collecte massive de données personnelles, dont l’utilisateur ne sait jamais exactement ce qu’il advient ; cette incertitude peut freiner l’engagement.\n\nLe marketing sur Facebook repose sur quatre principes directeurs :\n• définir une stratégie sociale ;\n• utiliser une voix de marque authentique ;\n• créer des contenus que l’on a envie de partager ;\n• entretenir les liens avec la communauté.\n\nLes objectifs peuvent être très différents : promouvoir un produit, faire connaître une marque, augmenter le trafic vers un site. Le support insiste sur un point : l’objectif ne doit jamais être « seulement Facebook ». La page n’est pas une fin en soi, elle sert un objectif commercial.\n\nDans le cas XY, la page Facebook a rapproché les clients du service d’assistance, qu’ils ne connaissaient que par téléphone. Les publications « dans les coulisses » annoncent par exemple les maintenances prévues et invitent les clients à donner leur avis. Environ 40 % des retours quotidiens passent désormais par Messenger, l’entreprise est perçue comme plus moderne et les clients se montrent plus patients face aux pannes complexes, car ils se sentent accompagnés.\n\nPour une boutique de prêt-à-porter à Cocody, la même logique conduit à publier régulièrement les nouveautés, à répondre rapidement aux commentaires, à rediriger les demandes vers WhatsApp Business et à mesurer combien de commandes proviennent réellement de la page.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Instagram, YouTube et LinkedIn",
+          "type": "texte",
+          "texte": "Instagram met l’accent sur la narration visuelle : l’utilisateur est retenu par les images et les vidéos plus que par le texte. Conçu pour le mobile, il offre des filtres et des outils de retouche qui permettent de jouer sur les émotions. Son point faible est l’apparition de faux abonnés achetés, qui pose une question éthique et peut détourner les utilisateurs. Pour une entreprise, Instagram sert à :\n• faire connaître l’entreprise ;\n• éveiller l’intérêt de nouveaux clients par l’image et la vidéo ;\n• acquérir des clients et augmenter les ventes ;\n• créer une communauté de fans.\n\nIl faut choisir l’objectif prioritaire : un magasin de vêtements cherchera plutôt une communauté autour de sa marque, un autre commerce mettra le produit en avant pour vendre davantage. XY y a publié environ 300 courtes vidéos où des salariés volontaires présentent leur métier, avec le logo discrètement affiché, afin de développer la notoriété (brand awareness). Les tutoriels courts ont réduit d’environ 10 % les appels au service client et une communauté d’entraide s’est formée dans les commentaires.\n\nYouTube, fondé en 2005 et propriété de Google depuis 2006, est la plateforme vidéo de référence et le deuxième moteur de recherche après Google. Il touche cependant moins les personnes de plus de 50 ans, et beaucoup d’utilisateurs hésitent à quitter la vidéo pour cliquer vers un site, ce qui limite son rôle de source de trafic. Ses usages pour une entreprise sont nombreux : notoriété de la marque, actualités, modes d’emploi et explications, divertissement, chaîne gérée comme une chaîne de télévision. Les fonctions utiles sont le direct (live streaming) pour interagir en temps réel, les commentaires et les mentions « J’aime » pour mesurer la réception, et les playlists pour regrouper les vidéos. XY y diffuse des tutoriels sur les questions les plus fréquentes et a organisé un direct sur la connexion des imprimantes. Pour la publicité, elle privilégie les annonces vidéo, visibles aussi sur mobile.\n\nLinkedIn est orienté vers le développement du réseau professionnel, la mise en relation, la génération de prospects (leads) et le recrutement. Il propose des profils personnels et des pages entreprises, ainsi qu’une plateforme de formation riche de plus de 15 000 cours. Ses fonctions premium sont relativement chères. Les annonces doivent respecter des règles strictes (pas de tabac, de contenu politique ou religieux), utiliser des images de haute résolution et des textes soignés, et rester affichées plus longtemps que sur Facebook. Le ciblage permet de choisir précisément la zone géographique, l’âge ou le secteur des personnes visées. Pour XY, la page entreprise a permis de recruter environ cinq personnes en trois semaines et d’accroître sa visibilité en B2B. Pour un cabinet de conseil ou une école de formation à Abidjan, LinkedIn est souvent le réseau le plus pertinent.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Twitter, Pinterest, TikTok et la gestion de la présence sociale",
+          "type": "texte",
+          "texte": "Twitter se distingue par une fréquence de publication très élevée. Dans le domaine de l’actualité, il est souvent plus rapide que les canaux officiels. Un message (tweet) est limité à 280 caractères : c’est un atout pour diffuser vite une information, mais un handicap pour expliquer un sujet complexe, et sa portée auprès du grand public reste limitée. XY l’utilise pour son service client : un tweet hebdomadaire annonce les maintenances et les interruptions prévues, et la plateforme sert à recueillir rapidement l’avis des utilisateurs après une mise à jour.\n\nPinterest est une plateforme d’images (les épingles). Sa particularité est d’être tournée vers l’avenir : on y cherche des idées et des projets, alors que Facebook montre surtout le passé et le présent. Les utilisateurs y ont une forte intention d’achat, et plus de la moitié ne perçoivent pas les épingles sponsorisées comme de la publicité. Sa diffusion et ses outils publicitaires restent toutefois limités. XY y présente ses nouveaux matériels sous forme de tableaux, ce qui améliore son référencement sur Google et sa portée organique.\n\nTikTok, d’origine chinoise, est consacré aux vidéos courtes. Présent dans plus de 150 pays, il retient ses utilisateurs environ 40 minutes par jour et séduit la jeune génération par sa créativité. Ses limites sont les incertitudes sur le traitement des données et une offre publicitaire encore jeune. XY y publie de petites vidéos amusantes où les salariés présentent leur travail, afin d’attirer les clients de demain.\n\nLe bilan du cas XY montre ce qu’apporte une présence sociale bien gérée :\n• l’entreprise est présente là où se trouve sa cible ;\n• elle entretient un dialogue actif avec ses clients ;\n• elle génère des recettes publicitaires et des recrutements ;\n• sa marque gagne un visage humain et une communauté fidèle.\n\nDeux points de gestion méritent attention.\n\nLe marketing d’influence. XY collabore avec un influenceur du jeu vidéo qui utilise un ordinateur de la marque, logo bien visible. Cette action a nettement stimulé les ventes de ce modèle et la notoriété de l’entreprise, ce qui a convaincu la direction d’augmenter le budget consacré aux réseaux sociaux.\n\nLa communication de crise. Il faut communiquer rapidement et honnêtement, sans passer le problème sous silence, en répondant à quatre questions :\n• Que s’est-il passé ?\n• Quelles sont les conséquences pour les clients ?\n• Que fait-on en attendant ?\n• Quand le problème sera-t-il résolu ?\n\nEnfin, la présence sociale demande une personne responsable. XY a recruté un gestionnaire des réseaux sociaux (Social Media Manager) chargé des publications, des flux de contenus et de l’exploitation des retours clients. Pour une PME ivoirienne, cette fonction peut être confiée à un salarié formé ou à un prestataire, avec un calendrier éditorial et des règles de réponse aux messages.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le marketing vidéo et le storytelling",
+          "type": "texte",
+          "texte": "À l’heure du smartphone, la vidéo est devenue le contenu le plus efficace pour inciter les clients à s’intéresser à un produit et à l’acheter. Les images floues des débuts des réseaux sociaux ne suffisent plus : la qualité compte. Le support recommande :\n• une bonne caméra, à haute résolution ;\n• un trépied, souvent négligé, qui évite les images tremblantes ;\n• des micros de qualité, car un bon film devient inexploitable si le son est parasité ;\n• un éclairage maîtrisé, avec des lampes d’appoint et une balance des blancs réglée pour que les visages ne paraissent ni pâles ni teintés ;\n• éventuellement un fond vert, qui permet d’incruster ensuite des arrière-plans ou des graphiques à moindre coût.\n\nUne vidéo sans plan ni action ne convainc pas. Le storytelling consiste à construire un scénario qui raconte une histoire porteuse d’émotions, comme dans un film. Une bonne histoire réunit originalité, pertinence, suspense, identification et actualité. Plusieurs facteurs la rendent intéressante :\n• le spectateur peut s’identifier au personnage principal ;\n• le suspense tient de bout en bout ;\n• l’histoire met en scène des situations quotidiennes et des personnes ordinaires plutôt que des super-héros ;\n• elle est vraie : on peut y intégrer les difficultés rencontrées par l’entreprise, ce qui la rend authentique.\n\nLe support cite des ordres de grandeur favorables : la vidéo améliorerait le taux de conversion jusqu’à environ 80 % par rapport à l’image seule et serait partagée jusqu’à dix fois plus. Les vidéos explicatives (« how-to ») augmentent nettement la satisfaction des clients, et les sites qui intègrent des vidéos sont mieux référencés par les moteurs de recherche.\n\nLes sujets qui fonctionnent bien sont les coulisses de l’entreprise, le témoignage personnel d’un salarié, le processus de fabrication d’un produit que le client ne voit jamais, ou l’histoire de la fondation et les valeurs de la maison.\n\nDeux règles pratiques complètent ces conseils. La plupart des vidéos sont regardées sans le son : elles doivent être compréhensibles sans audio ou sous-titrées. À la fin de la vidéo, on adresse un appel à la communauté : laisser un commentaire, noter la vidéo ou visiter une page. Les réactions renseignent rapidement sur le comportement des clients.\n\nUn atelier de couture d’Abidjan peut ainsi filmer la confection d’une tenue en pagne, de la coupe à l’essayage, avec une cliente qui raconte pourquoi elle l’a commandée, des sous-titres en français et un message final invitant à commander sur WhatsApp. Un smartphone récent posé sur un trépied, un micro-cravate et une lumière naturelle bien orientée suffisent souvent pour commencer, même si le support note qu’en studio une caméra professionnelle reste supérieure au téléphone face aux variations de lumière et aux mouvements rapides.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le marketing cross-média : cas des tutoriels vidéo de XY",
+          "type": "texte",
+          "texte": "Autrefois, les entreprises menaient leurs actions sur un seul type de support (mailings, affiches, annonces, brochures) en espérant toucher le plus de monde possible, sans savoir mesurer le résultat. Le marketing cross-média diffuse au contraire un même contenu sur plusieurs canaux reliés entre eux, de sorte que le contact avec le client se prolonge d’un canal à l’autre au lieu de s’arrêter quand il quitte le premier.\n\nUne campagne cross-média se construit ainsi :\n• définir précisément le groupe cible ;\n• bâtir une histoire avec un fil rouge cohérent sur tous les supports, ce qui rejoint le storytelling ;\n• choisir les bons médias : inutile de privilégier YouTube si les clients sont sur Instagram et LinkedIn ;\n• fixer dès le départ des objectifs clairs pour chaque plateforme ;\n• prévoir des possibilités d’interaction pour que le public participe.\n\nLe cas XY illustre la démarche. Lors de chaque remplacement d’imprimantes, l’entreprise imprimait environ 2 000 notices papier, coûteuses, jugées démodées et si techniques que les clients rappelaient le service d’assistance. Un calcul des coûts (papier, heures de travail, clients mécontents) a convaincu la direction de financer un petit studio installé dans une ancienne salle informatique, avec fond vert, lampe de studio, trois micros capables de filtrer le bruit des machines, un trépied classique et une caméra professionnelle.\n\nPour la mise à jour d’environ 500 imprimantes d’un client, XY a tourné une première vidéo « how-to » avec l’aide d’un expert. Le présentateur est un apprenti, choisi pour que le spectateur se sente accompagné plutôt que face à un technicien expert. Le scénario comprend une introduction expliquant le passage à la vidéo, la présentation du présentateur, la partie technique décrite le plus simplement possible et une fin agréable. Le responsable du client a été associé à l’écriture pour exprimer les besoins réels des utilisateurs.\n\nLa vidéo a été annoncée par une newsletter contenant le lien. Lors des mises à jour précédentes, un peu moins de la moitié des 500 utilisateurs rappelaient le service client ; cette fois, une quarantaine seulement se sont manifestés, en majorité pour saluer l’initiative.\n\nXY a ensuite étendu la diffusion :\n• une chaîne YouTube, plus facile d’accès qu’un lien dans un e-mail interne ;\n• des annonces des nouvelles vidéos sur la page Facebook ;\n• un compte à rebours sur l’intranet avant chaque sortie ;\n• des vidéos proposées automatiquement par l’outil de tickets lorsqu’il reconnaît des mots-clés dans une demande.\n\nL’entreprise produit désormais environ trois vidéos par semaine, de cinq à quinze minutes, et a même créé un nouveau service rentable de « vidéo à la demande » pour une PME cliente. Elle a aussi constaté qu’un canal ne fonctionnait pas pour elle : LinkedIn, où l’attention se porte sur les personnes plutôt que sur l’entreprise. Mesurer chaque canal permet ainsi de concentrer les efforts là où ils rapportent.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Support de cours : Réseaux sociaux, vidéo et contenus",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "marketing-digital-module-3.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Selon le support, quelle part des utilisateurs actifs mensuels de Facebook y revient chaque jour ?",
+          "reponses": [
+            "Environ un sur dix",
+            "Environ deux sur trois",
+            "Environ la moitié",
+            "Presque tous"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Quel est le point faible d’Instagram mentionné dans le cours ?",
+          "reponses": [
+            "L’absence de vidéos",
+            "Une audience trop âgée",
+            "Les faux abonnés achetés",
+            "La limite de 280 caractères"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Quelle particularité distingue Pinterest des autres plateformes ?",
+          "reponses": [
+            "Il est tourné vers l’avenir : on y cherche des idées et des projets",
+            "Il est réservé au recrutement",
+            "Il ne contient que des vidéos courtes",
+            "Il est surtout utilisé par les médias"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "En communication de crise, que recommande le cours ?",
+          "reponses": [
+            "Attendre que le problème soit résolu avant de parler",
+            "Supprimer les commentaires négatifs",
+            "Communiquer uniquement par communiqué officiel",
+            "Communiquer vite et honnêtement en expliquant ce qui s’est passé et quand ce sera résolu"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Pourquoi le support recommande-t-il un trépied pour tourner une vidéo ?",
+          "reponses": [
+            "Pour éviter les images tremblantes",
+            "Pour améliorer le son",
+            "Pour régler la balance des blancs",
+            "Pour incruster un arrière-plan"
+          ],
+          "bonne": 0
+        }
+      ]
+    },
+    {
+      "titre": "Publicité en ligne, e-mail et référencement",
+      "description": "Piloter des campagnes payantes au résultat, calculer leurs coûts, concevoir bannières et e-mails efficaces et améliorer sa visibilité sur les moteurs de recherche.",
+      "duree": "100",
+      "lecons": [
+        {
+          "titre": "Le marketing de la performance et ses acteurs",
+          "type": "texte",
+          "texte": "Le marketing de la performance est une forme de marketing en ligne qui vise à déclencher chez le client des réactions ou des transactions mesurables : un clic, une inscription, une demande de devis, un achat. L’annonceur ne raisonne plus seulement en visibilité, mais en résultats observables.\n\nSes principales caractéristiques sont les suivantes :\n• la mesurabilité : chaque action peut être évaluée en temps réel ;\n• l’optimisation continue : on ajuste les textes, les images et les enchères pendant la campagne, ce qui influence directement son succès ;\n• l’interaction avec le marketing classique : la notoriété acquise par la publicité traditionnelle améliore les résultats des campagnes en ligne, et inversement.\n\nLe support décrit les principales disciplines du marketing de la performance, avec leurs atouts :\n• le référencement naturel (SEO) : pas de coût par clic ; le client cherche déjà activement le produit (logique « pull » plutôt que « push »), ce qui favorise la conversion, et les internautes font confiance aux résultats de Google ;\n• la publicité sur les moteurs de recherche (SEA) : facturée au clic, elle donne une bonne maîtrise du budget, peut être arrêtée à tout moment et repose elle aussi sur une recherche active du client ;\n• la publicité sur les réseaux sociaux : chaque plateforme a son public et ses exigences ;\n• l’affichage par bannières et l’e-mail marketing, étudiés plus loin.\n\nPlusieurs acteurs interviennent. L’annonceur fournit le budget et attend en retour que l’objectif publicitaire soit atteint. Les agences assurent l’analyse, le conseil, la mise en œuvre et le compte rendu des résultats (reporting). Elles sont souvent spécialisées : certaines ne font que de l’e-mail, d’autres des réseaux sociaux ou de Google Ads. Il faut donc définir clairement ses besoins avant d’en choisir une. Le recours à une agence présente plusieurs avantages :\n• des outils professionnels qu’une entreprise n’a pas toujours en interne ;\n• l’expérience acquise auprès d’autres clients ;\n• un regard extérieur qui évite l’« aveuglement d’entreprise » ;\n• des optimisations et des rapports réguliers ;\n• parfois de meilleures conditions d’achat d’espace.\n\nLe support souligne aussi une limite importante : la mesure n’est jamais parfaite. Les outils de suivi ne comptent pas tout avec précision, les utilisateurs passent du téléphone à l’ordinateur ou à la tablette, et le renforcement des règles sur les cookies et les données personnelles complique le suivi et le ciblage. Les chiffres indiquent donc des tendances qui orientent les décisions, plutôt que des vérités absolues.\n\nPour une entreprise ivoirienne, le marketing de la performance consiste par exemple à lancer une campagne Facebook dont l’objectif est un nombre de conversations WhatsApp ou de commandes payées par Mobile Money, puis à comparer le coût de chaque résultat obtenu.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Les modèles de prix de la publicité en ligne : cas pratique",
+          "type": "texte",
+          "texte": "La publicité en ligne peut être achetée selon plusieurs modèles de prix.\n\nLe CPM (coût pour mille) : on paie pour chaque millier d’affichages de l’annonce, comptés par un serveur publicitaire. Le prix dépend fortement de l’emplacement. Le support indique une fourchette habituelle de 10 à 120 francs suisses pour mille affichages sur son marché.\n\nCoût de la campagne = (Nombre d’affichages ÷ 1 000) × CPM\n\nL’emplacement fixe : on loue un espace pendant une durée déterminée (quelques jours, quelques semaines). L’espace est souvent partagé avec d’autres annonceurs et le trafic généré ne peut pas être suivi à 100 %, ce qui rend l’analyse difficile. Les régies sérieuses garantissent toutefois un nombre d’affichages.\n\nLe coût par action (« cost per X »), qui regroupe trois variantes :\n• le CPC (coût par clic) : on paie chaque clic sur l’annonce ; c’est le modèle de Google Ads ;\n• le CPL (coût par prospect, ou lead) : on paie chaque contact qualifié obtenu, par exemple un formulaire rempli ;\n• le CPO (coût par commande) : on paie chaque achat réalisé grâce à l’annonce.\n\nCPC = Coût total ÷ Nombre de clics\nCPL = Coût total ÷ Nombre de prospects\nCPO = Coût total ÷ Nombre de commandes\n\nDeux ratios complètent l’analyse :\n\nTaux de clic = Clics ÷ Affichages × 100\nTaux de conversion = Commandes ÷ Clics × 100\n\nCas pratique. Une boutique de pagnes d’Adjamé investit 150 000 FCFA dans une campagne Facebook d’une semaine. Résultats :\n• 300 000 affichages ;\n• 1 500 clics vers son catalogue WhatsApp Business ;\n• 200 conversations ouvertes (prospects) ;\n• 60 commandes payées par Mobile Money.\n\nCalculs :\n• CPM = 150 000 ÷ (300 000 ÷ 1 000) = 150 000 ÷ 300 = 500 FCFA\n• CPC = 150 000 ÷ 1 500 = 100 FCFA\n• Taux de clic = 1 500 ÷ 300 000 × 100 = 0,5 %\n• CPL = 150 000 ÷ 200 = 750 FCFA\n• CPO = 150 000 ÷ 60 = 2 500 FCFA\n• Taux de conversion = 60 ÷ 1 500 × 100 = 4 %\n\nInterprétation. Chaque commande a coûté 2 500 FCFA de publicité. Si la marge moyenne sur un pagne est de 4 000 FCFA, la campagne est rentable : 60 × 4 000 = 240 000 FCFA de marge pour 150 000 FCFA dépensés, soit 90 000 FCFA de gain. Si la marge n’était que de 2 000 FCFA, chaque vente ferait perdre 500 FCFA et il faudrait agir : améliorer le visuel pour augmenter le taux de clic, mieux cibler, ou améliorer la conversion (photos, prix affichés, réponse rapide aux messages).\n\nLe choix du modèle dépend de l’objectif. Le CPM convient à une campagne de notoriété ; le CPC, à la génération de trafic ; le CPL et le CPO transfèrent une partie du risque vers le diffuseur, puisque l’annonceur ne paie que des résultats concrets. Quel que soit le modèle, c’est le coût par résultat utile, comparé à la marge, qui permet de juger une campagne.",
+          "fichier": "",
+          "duree": "25 min"
+        },
+        {
+          "titre": "Publicité sociale, bannières, e-mail et neuromarketing",
+          "type": "texte",
+          "texte": "Publicité sur les réseaux sociaux. Chaque plateforme a son public : Facebook garde la plus grande portée générale et permet le dialogue par les commentaires ; Instagram touche davantage les jeunes grâce à des visuels de qualité ; Twitter est apprécié des médias et utile pour le service client et le B2B ; LinkedIn est fort en recrutement et en B2B. Pour les annonces vidéo, trois règles s’imposent : prévoir des sous-titres, car la lecture automatique se fait souvent sans le son ; montrer la marque dès les premières secondes ; viser une durée d’environ dix secondes pour être vu jusqu’au bout.\n\nLes bannières. Une bannière efficace :\n• correspond au public du site qui l’affiche (pas de bannière automobile sur un site de jardinage) ;\n• a un design clair et simple, avec des caractères lisibles ;\n• utilise une image qui attire l’œil sans masquer le message ;\n• fait contraster la couleur du message avec le fond ;\n• est animée, en tout ou en partie, plutôt que statique ;\n• comporte un message court et un bouton d’appel à l’action.\n\nLe support rappelle qu’un internaute ne regarde une bannière qu’environ deux secondes.\n\nL’e-mail marketing reste selon le support l’une des disciplines les plus efficaces. XY a commencé par ses clients existants, chez qui la vente additionnelle et la vente croisée sont possibles. Un grand client industriel ayant besoin d’environ 200 imprimantes, XY lui a adressé une newsletter présentant d’abord le prix avantageux des appareils, puis un abonnement aux cartouches calculé à partir de sa consommation réelle. Le client a souscrit immédiatement. L’étape suivante vise les clients inactifs avec un message du type « Vous nous avez oubliés ? », des offres attractives et un bouton d’appel à l’action. Rappelons que l’envoi doit se limiter aux personnes qui ont accepté de recevoir ces messages.\n\nLe neuromarketing étudie les ressorts psychologiques de la décision d’achat. Le support en présente quatre, appliqués par XY :\n• l’effet de groupe (herding) : lors d’un événement, XY a mis en avant une innovation adoptée par ses trois plus grands clients ; les plus petits ont voulu l’adopter à leur tour ;\n• les certificats et labels de qualité, qui inspirent confiance et doivent être tenus à jour ;\n• la rareté : une newsletter proposant des disques durs à bon prix précisait qu’il ne restait que 100 pièces ; le stock a été vendu en une heure environ ;\n• les formules de prix alternatives : au lieu d’un forfait unique, XY a proposé quatre formules de services ; beaucoup de clients ont choisi une formule plus chère et certains ont même demandé une offre premium.\n\nLocalement, on les retrouve dans les messages « stock limité » d’une boutique en ligne ou les trois forfaits d’un fournisseur d’accès internet. Ils doivent rester honnêtes : une fausse rareté découverte détruit la confiance.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Le référencement naturel (SEO)",
+          "type": "texte",
+          "texte": "Google traite jusqu’à six milliards de recherches par jour et détient plus de 85 % du marché des moteurs de recherche dans la plupart des pays. Lors d’une brève panne en 2013, le trafic mondial du web a chuté d’environ 40 % en quelques minutes. Être bien placé sur Google est donc décisif.\n\nLe référencement naturel (SEO, Search Engine Optimization) poursuit plusieurs objectifs :\n• réaliser des optimisations techniques, de contenu et de structure du site ;\n• améliorer le classement sur les termes de recherche pertinents ;\n• attirer davantage de visiteurs ;\n• générer finalement plus de prospects et de conversions, donc de revenus.\n\nL’algorithme de Google repose sur plus de 200 facteurs, qui évoluent en permanence.\n\nLe ciblage des mots-clés. Il faut associer à chaque page les mots-clés qui la décrivent le plus précisément : inutile d’insister sur « voiture » si l’on vend des motos. La cohérence doit s’étendre aux pages liées : catégorie, sous-catégorie, fiche produit, page de conseils. Chaque page de destination traite d’un seul thème principal, facile à identifier pour le moteur comme pour l’internaute.\n\nLes textes. Le moteur juge la pertinence d’une page d’après son contenu :\n• le sujet doit être clairement identifiable ;\n• le titre doit être pertinent, court et n’apparaître qu’une fois sur la page ;\n• le texte courant doit être correct, centré sur le thème, lisible et original, et apporter une réelle valeur à l’utilisateur (actualité, utilité).\n\nL’exploration (crawling). Les robots des moteurs parcourent le web en suivant les liens ; un maillage de liens utile facilite leur travail. Le fichier robots.txt permet d’indiquer quelles parties du site peuvent être explorées et lesquelles doivent être ignorées.\n\nL’indexation. Les contenus pertinents sont enregistrés dans l’index et peuvent apparaître dans les résultats ; les contenus sans intérêt peuvent en être exclus. Plusieurs conditions favorisent une bonne indexation :\n• un site utilisable sur tous les appareils (ordinateur, téléphone, tablette) ;\n• un protocole sécurisé (HTTPS) ;\n• une extension correspondant au pays visé, par exemple .ci pour la Côte d’Ivoire.\n\nLe temps de chargement. Les internautes ne supportent plus les pages lentes, et Google en fait un facteur de classement. Un site lent ou instable augmente les abandons, réduit les conversions et peut pénaliser les campagnes Google Ads. En Côte d’Ivoire, où beaucoup naviguent en données mobiles, des images légères et des pages rapides sont particulièrement importantes.\n\nExemple : une auto-école de Yamoussoukro qui souhaite apparaître sur « permis de conduire Yamoussoukro » créera une page dédiée portant ce titre unique, décrivant clairement ses formules, ses tarifs et son adresse, accessible en HTTPS, rapide sur mobile et reliée aux autres pages du site (horaires, inscription, avis des élèves).",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "La publicité sur les moteurs de recherche (SEA)",
+          "type": "texte",
+          "texte": "La publicité sur les moteurs de recherche (SEA, Search Engine Advertising) est la possibilité payante d’afficher des annonces dans les résultats de recherche. Comme les annonces sont déclenchées par des mots-clés, on parle aussi de publicité par mots-clés. Google Ads domine ce marché, devant Bing Ads, Yandex et Baidu.\n\nSes avantages sont nets :\n• une campagne se crée et se lance rapidement ;\n• les résultats sont rapides et bien mesurables, ce qui facilite la planification ;\n• l’annonceur ne paie que lorsqu’un internaute clique sur l’annonce ;\n• la campagne peut être modifiée ou arrêtée à tout moment.\n\nGoogle Ads propose plusieurs formats (texte, image, vidéo), les annonces placées dans les résultats de recherche étant textuelles. Pour savoir si une campagne produit réellement des ventes ou des inscriptions, on active le suivi des conversions intégré au compte. Il repose sur un cookie déposé sur l’appareil de l’internaute ; si celui-ci supprime ses cookies, le lien entre le clic et la conversion est perdu.\n\nLe cas XY montre une démarche structurée en sept points :\n• Les marchés : XY a utilisé l’outil Google Market Finder pour repérer les marchés où le prix des clics restait raisonnable, afin d’obtenir le maximum de trafic avec son budget.\n• Les audiences : avec un budget serré, les annonces ont été montrées en priorité aux personnes ayant déjà utilisé ses services ou visité son site, ce qui a bien fonctionné.\n• Les mots-clés : seulement des termes directement liés à l’entreprise, combinant mots-clés de marque, termes génériques et vocabulaire technique du secteur.\n• Les formats : des annonces essentiellement textuelles.\n• Les enchères : un débat interne a opposé ceux qui voulaient enchérir haut pour être visibles et la direction financière, qui voulait enchérir bas pour rentabiliser l’investissement. C’est l’arbitrage classique entre visibilité et rentabilité.\n• Les conversions : objectif principal, mesurées grâce au suivi des conversions pour prouver par des chiffres l’apport de la campagne.\n• La stratégie : définition du public visé selon la zone géographique, la langue et l’intérêt pour les services.\n\nSEO et SEA sont complémentaires. Le SEO construit une visibilité durable sans payer chaque clic, mais ses effets sont lents. Le SEA apporte une visibilité immédiate et pilotable, mais elle cesse dès que le budget s’arrête.\n\nExemple : une clinique dentaire de Marcory lance une campagne sur « dentiste Marcory » et « urgence dentaire Abidjan ». Elle limite la diffusion à Abidjan, aux heures d’ouverture, et rédige une annonce mentionnant son adresse, ses horaires et un numéro cliquable. Avec un budget de 100 000 FCFA et un CPC moyen de 125 FCFA, elle obtient 800 clics ; si 40 patients prennent rendez-vous, chaque rendez-vous lui coûte 2 500 FCFA. Elle compare ce coût au revenu moyen d’une consultation pour décider d’augmenter ou non ses enchères.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Support de cours : Marketing de la performance, SEO et SEA",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "marketing-digital-module-4.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "Quel avantage du référencement naturel (SEO) est cité par le support ?",
+          "reponses": [
+            "Il donne des résultats immédiats",
+            "Il n’y a pas de coût par clic",
+            "Il permet d’arrêter la visibilité à tout moment",
+            "Il garantit la première place sur Google"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Le modèle CPC consiste à payer :",
+          "reponses": [
+            "Chaque millier d’affichages",
+            "Chaque commande réalisée",
+            "Chaque clic sur l’annonce",
+            "Un espace loué pendant une durée fixe"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Une campagne de 150 000 FCFA génère 1 500 clics et 60 commandes. Quel est son taux de conversion ?",
+          "reponses": [
+            "4 %",
+            "0,5 %",
+            "25 %",
+            "40 %"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Selon le support, combien de temps un internaute regarde-t-il une bannière en moyenne ?",
+          "reponses": [
+            "Environ dix secondes",
+            "Environ une minute",
+            "Environ trente secondes",
+            "Environ deux secondes"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Quelle est la principale limite du SEA par rapport au SEO ?",
+          "reponses": [
+            "Ses effets sont très lents",
+            "La visibilité cesse dès que le budget s’arrête",
+            "Il est impossible à mesurer",
+            "Il ne fonctionne pas sur mobile"
+          ],
+          "bonne": 1
+        }
+      ]
+    },
+    {
+      "titre": "Mesure, pilotage et cadre juridique",
+      "description": "Mesurer l’efficacité de ses actions digitales avec les bons indicateurs, les suivre dans un outil d’analyse et respecter les règles applicables aux données et aux partenariats.",
+      "duree": "75",
+      "lecons": [
+        {
+          "titre": "Le digital analytics : mesurer pour décider",
+          "type": "texte",
+          "texte": "Le digital analytics consiste à collecter, mesurer et analyser des données numériques afin d’évaluer le comportement des utilisateurs sur les sites web, les sites et applications mobiles, les e-mails, les réseaux sociaux et les moteurs de recherche. Le terme est souvent associé à Google, dont l’outil Google Analytics est devenu un standard, mais la démarche dépasse un seul logiciel.\n\nLe support distingue deux activités complémentaires :\n• le reporting répond à la question « quoi ? » : il rassemble des indicateurs et des alertes qui montrent, par exemple, ce qui a moins bien fonctionné le mois dernier ;\n• l’analyse répond aux questions « comment ? » et « pourquoi ? » : pourquoi une annonce a-t-elle mieux fonctionné un mois qu’un autre ?\n\nCes travaux font appel à la modélisation statistique et à la science des données. La principale difficulté est de poser les bonnes questions. En principe, presque tout peut être collecté ; en pratique, seule une petite partie des données est réellement utile pour décider. Il faut donc partir des objectifs de l’entreprise et non de la masse de chiffres disponibles.\n\nUne distinction de base est celle entre dimension et métrique :\n• une dimension est une caractéristique descriptive du trafic, avec laquelle on ne calcule pas : le canal d’arrivée (recherche Google, Facebook, e-mail), la ville, l’âge, le type d’appareil ;\n• une métrique est une caractéristique de comportement, que l’on peut compter et calculer : nombre de visites, abandons, achats en ligne, durée de visite.\n\nUn rapport croise généralement les deux : par exemple, le nombre de commandes (métrique) selon le canal d’arrivée (dimension). On constate ainsi qu’un canal attire beaucoup de visites mais peu de commandes, tandis qu’un autre, plus discret, convertit bien.\n\nIl faut garder en tête les limites de la mesure rappelées dans le module précédent : les outils ne mesurent pas tout avec précision, les internautes changent d’appareil, et les règles sur les cookies et le consentement réduisent les données disponibles. Les chiffres indiquent des tendances ; ils servent à orienter les décisions, à condition d’être suivis de façon régulière et avec les mêmes définitions.\n\nPour une PME, une bonne pratique consiste à choisir trois à cinq questions prioritaires, par exemple :\n• D’où viennent nos visiteurs et nos clients ?\n• Quelles pages ou publications génèrent des demandes de devis ou des messages WhatsApp ?\n• Combien nous coûte un client obtenu par chaque canal ?\n• Nos clients reviennent-ils ?\n\nChaque question est ensuite reliée à une ou deux métriques et à une dimension d’analyse. Cette discipline évite de produire des tableaux de bord remplis de chiffres que personne n’utilise, et permet de relier chaque action marketing à un résultat observable.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Google Analytics et les KPI : cas pratique",
+          "type": "texte",
+          "texte": "Google Analytics est un outil d’analyse des sites web et des applications qui renseigne sur le comportement de navigation des visiteurs. Le support indique qu’il est utilisé par plus de 80 % des sites. Il a conquis sa position en offrant gratuitement des fonctions auparavant payantes ; Adobe Analytics et Matomo en sont des alternatives. Sa principale difficulté est technique : les utilisateurs peu expérimentés ont souvent besoin d’un appui extérieur pour l’installer et le paramétrer. Google Data Studio (aujourd’hui Looker Studio) complète l’outil pour le reporting : il présente les données sous forme visuelle et peut réunir des sources comme Google Analytics, Google Ads, Facebook ou Instagram.\n\nGoogle Analytics fournit notamment :\n• des informations sur les visiteurs : âge, sexe, localisation ;\n• la durée réelle passée sur le site ;\n• le nombre de pages vues par session ;\n• le taux de rebond : la part des visiteurs qui quittent le site sans aucune interaction ;\n• le suivi des conversions : ventes, inscriptions à la newsletter, mises à niveau de compte ;\n• la mesure des interactions, par exemple le nombre de lectures d’une vidéo intégrée ;\n• le suivi du commerce électronique, utile pour améliorer la boutique en ligne.\n\nLes KPI (Key Performance Indicators, indicateurs clés de performance) sont les indicateurs choisis pour mesurer le succès d’activités précises. Ils fonctionnent comme un système d’alerte précoce : lorsqu’un KPI se dégrade, on agit et on ajuste.\n\nTaux de rebond = Sessions sans interaction ÷ Sessions × 100\nTaux de conversion = Conversions ÷ Sessions × 100\nCoût par conversion = Dépenses ÷ Conversions\n\nCas pratique. Une école de formation professionnelle d’Abidjan analyse son site sur un mois :\n• 8 000 sessions ;\n• 3 600 sessions sans interaction ;\n• 160 demandes d’inscription envoyées par formulaire ;\n• 2 minutes de durée moyenne de visite ;\n• 120 000 FCFA dépensés en publicité Facebook, à l’origine de 2 000 sessions et de 20 demandes.\n\nCalculs :\n• Taux de rebond = 3 600 ÷ 8 000 × 100 = 45 %\n• Taux de conversion global = 160 ÷ 8 000 × 100 = 2 %\n• Taux de conversion des visites Facebook = 20 ÷ 2 000 × 100 = 1 %\n• Coût par demande via Facebook = 120 000 ÷ 20 = 6 000 FCFA\n\nLecture. Les visites venues de Facebook convertissent deux fois moins bien que la moyenne du site. Avant d’augmenter le budget, l’école doit vérifier que l’annonce renvoie vers la bonne page (celle de la formation annoncée et non l’accueil), que la page se charge vite sur mobile et que le formulaire est court. En croisant le taux de conversion (métrique) avec le canal ou l’appareil (dimensions), elle peut repérer précisément où se situe le blocage.\n\nUn tableau de bord utile tient sur une page : quelques KPI liés aux objectifs, leur valeur du mois, leur évolution et une décision associée. Chaque KPI doit avoir une définition stable pour que les comparaisons d’un mois à l’autre aient un sens.",
+          "fichier": "",
+          "duree": "25 min"
+        },
+        {
+          "titre": "Le cadre juridique : influenceurs et données personnelles",
+          "type": "texte",
+          "texte": "Le marketing digital s’exerce dans un cadre juridique qu’il faut connaître, notamment pour les partenariats avec des influenceurs et pour le traitement des données personnelles.\n\nLe contrat avec un influenceur. Le support recommande de prévoir au minimum :\n• l’objet de l’accord : quelle prestation, dans quel cadre, rédigée de façon compréhensible pour toutes les parties ;\n• la durée du contrat, avec une date de début et une date de fin ;\n• la rémunération et les modalités d’exécution de la prestation ;\n• le cas de maladie ou d’empêchement ;\n• une éventuelle clause de non-concurrence et son étendue ;\n• la confidentialité ;\n• la restitution des documents et des biens confiés ;\n• une éventuelle clause de limitation de responsabilité ;\n• des dispositions finales pour les points particuliers.\n\nS’y ajoutent des points propres aux contrats d’influence : les conséquences d’une rupture du contrat, les droits sur les images, les sons et les vidéos, et le sort des publications sur les réseaux sociaux, notamment leur éventuelle suppression à une date donnée. Ces contrats étant complexes et propres à chaque opération, il est préférable de faire appel à un spécialiste.\n\nLa protection des données personnelles. Le support présente le Règlement général sur la protection des données (RGPD) de l’Union européenne du point de vue d’une entreprise suisse. Une entreprise située hors de l’Union y est soumise lorsqu’elle :\n• a un établissement dans un pays de l’Union ;\n• propose des biens ou des services sur le territoire de l’Union, par exemple par une boutique en ligne ;\n• observe le comportement de personnes situées dans l’Union, par exemple leur navigation sur ses pages.\n\nUne entreprise ivoirienne qui vend en ligne à des clients résidant en Europe peut donc être concernée. L’article 6 du RGPD fixe les conditions de licéité du traitement ; le support en retient l’essentiel : la personne doit avoir donné son consentement au traitement de ses données. Les personnes disposent aussi de droits, dont le droit à l’effacement, ou droit à l’oubli : les données doivent être supprimées lorsqu’elles ont atteint leur finalité et ne sont plus nécessaires, et elles ne doivent pas être transmises à des tiers sans lien avec le traitement.\n\nEn Côte d’Ivoire, la protection des données personnelles est encadrée par la loi n° 2013-450 du 19 juin 2013, dont l’application est contrôlée par l’ARTCI (Autorité de régulation des télécommunications/TIC de Côte d’Ivoire). On y retrouve des principes proches : informer les personnes, recueillir leur consentement, limiter la collecte à ce qui est nécessaire, sécuriser les données et respecter les droits d’accès, de rectification et d’opposition.\n\nConcrètement, pour une campagne digitale, cela signifie :\n• n’ajouter à une liste d’envoi (e-mail, SMS, WhatsApp) que des personnes qui l’ont accepté ;\n• indiquer comment se désinscrire ;\n• ne pas réutiliser une base de contacts achetée ou collectée pour un autre usage ;\n• supprimer les données devenues inutiles.",
+          "fichier": "",
+          "duree": "20 min"
+        },
+        {
+          "titre": "Cas XY : mettre en place le pilotage et sécuriser les contrats",
+          "type": "texte",
+          "texte": "Le dernier volet du cas XY montre comment une entreprise encore peu avancée en digital organise sa mesure et son cadre contractuel.\n\nL’audit des contrats. Le service juridique du groupe, trop général pour couvrir des pays aux règles très différentes, laisse une grande latitude aux équipes. Le marketing a donc passé en revue tous ses contrats avec des partenaires externes, en commençant par les contrats d’influence. Plusieurs lacunes sont apparues et ont été corrigées :\n• des dates de début et de fin clairement indiquées ;\n• la restitution des documents et des biens au plus tard le dernier jour du contrat, pour éviter la circulation d’informations confidentielles sur les projets et les offres ;\n• une clause de non-concurrence précisée : pas de promotion directe d’un produit concurrent pendant au moins un an ;\n• les droits sur les images, les sons et les vidéos explicitement attribués, alors qu’ils n’étaient jusque-là évoqués qu’oralement ;\n• des conditions plus strictes sur la suppression et le retrait des publications.\n\nEffet observé : les partenaires lisent les contrats plus attentivement, posent des questions sur les clauses et leurs conséquences, et les relations sont plus claires pour tous.\n\nLa mise en place de Google Analytics. Les activités historiques de XY reposaient sur la prospection par téléphone et le contact direct. L’entreprise voulait vérifier par des chiffres si ses impressions sur les actions menées étaient justes. Elle a procédé par étapes :\n• des rapports périodiques envoyés automatiquement par e-mail pour suivre les métriques ;\n• la mesure du nombre de pages vues et des sites d’origine des visiteurs ;\n• l’analyse de la durée de visite et du taux de rebond ;\n• le filtrage des visiteurs par localisation, qui a révélé une forte audience francophone mal servie par des traductions insuffisantes ;\n• l’intégration de Google Analytics avec Google Ads, pour enrichir les statistiques et optimiser les campagnes.\n\nCe cas résume la logique de pilotage d’une stratégie digitale :\n• fixer des objectifs liés au modèle d’affaires ;\n• choisir des KPI qui traduisent ces objectifs ;\n• automatiser la collecte et la diffusion des rapports ;\n• analyser les écarts à l’aide des dimensions (canal, zone, appareil, langue) ;\n• décider et ajuster les actions ;\n• sécuriser juridiquement les partenariats et les données.\n\nPour une entreprise ivoirienne, une feuille de route réaliste peut être la suivante : installer un outil de mesure sur son site, relier les campagnes Facebook et Google à des objectifs de conversion (formulaire, clic vers WhatsApp, paiement Mobile Money), produire chaque mois une page de KPI commentée, et vérifier une fois par an ses contrats avec les influenceurs, les agences et les prestataires ainsi que la conformité de ses fichiers de contacts. C’est cette boucle continue entre action, mesure et correction qui distingue une présence en ligne subie d’une stratégie de marketing digital pilotée.",
+          "fichier": "",
+          "duree": "15 min"
+        },
+        {
+          "titre": "Support de cours : Digital analytics, KPI et droit du marketing",
+          "type": "pdf",
+          "texte": "Ce support reprend le cours complet du module. Ouvrez-le pour approfondir les notions vues dans les leçons et retrouver les exemples détaillés.",
+          "fichier": "marketing-digital-module-5.pdf",
+          "duree": "30 min"
+        }
+      ],
+      "test": [
+        {
+          "q": "En digital analytics, à quelle question répond le reporting ?",
+          "reponses": [
+            "« Pourquoi ? »",
+            "« Comment ? »",
+            "« Quoi ? »",
+            "« Combien coûtera la prochaine campagne ? »"
+          ],
+          "bonne": 2
+        },
+        {
+          "q": "Une école compte 3 600 sessions sans interaction sur 8 000 sessions. Quel est son taux de rebond ?",
+          "reponses": [
+            "45 %",
+            "36 %",
+            "22 %",
+            "55 %"
+          ],
+          "bonne": 0
+        },
+        {
+          "q": "Que sont les KPI ?",
+          "reponses": [
+            "Des logiciels de création de sites",
+            "Des indicateurs choisis pour mesurer le succès d’activités précises",
+            "Des clauses de contrats d’influence",
+            "Des formats d’annonces publicitaires"
+          ],
+          "bonne": 1
+        },
+        {
+          "q": "Quelle autorité contrôle l’application de la loi ivoirienne sur la protection des données personnelles ?",
+          "reponses": [
+            "La BCEAO",
+            "Le ministère du Commerce",
+            "La CNIL",
+            "L’ARTCI"
+          ],
+          "bonne": 3
+        },
+        {
+          "q": "Dans le cas XY, qu’a révélé le filtrage des visiteurs par localisation dans Google Analytics ?",
+          "reponses": [
+            "Une audience surtout composée de concurrents",
+            "Une forte audience francophone mal servie par des traductions insuffisantes",
+            "Un taux de rebond nul",
+            "Une baisse du trafic venant de Google Ads"
+          ],
+          "bonne": 1
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Selon le cours, quand un désir devient-il une demande ?",
+      "reponses": [
+        "Lorsqu’il est exprimé sur les réseaux sociaux",
+        "Lorsqu’il est partagé par un groupe de référence",
+        "Lorsque la personne dispose des ressources pour l’acheter",
+        "Lorsque l’entreprise lance une publicité"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Un client constate que le produit acheté dépasse ses attentes. Il est :",
+      "reponses": [
+        "enchanté",
+        "satisfait",
+        "en dissonance",
+        "indifférent"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Une entreprise qui conçoit une offre distincte pour chacun des segments qu’elle a retenus pratique :",
+      "reponses": [
+        "le marketing indifférencié",
+        "le marketing concentré",
+        "le micromarketing",
+        "le marketing différencié"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Une campagne touche 200 000 personnes exposées en moyenne 4 fois. Quelle est l’exposition totale ?",
+      "reponses": [
+        "50 000",
+        "800 000",
+        "204 000",
+        "200 000"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Dans le modèle des trois horizons, proposer de manière proactive de nouvelles solutions aux clients sans changer le modèle d’affaires relève de :",
+      "reponses": [
+        "l’horizon 1",
+        "l’horizon 3",
+        "l’horizon 2",
+        "aucun horizon"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Dans le cas XY, quel est l’apport principal de la conversion automatique des e-mails clients en tickets ?",
+      "reponses": [
+        "Rendre chaque demande mesurable et évaluable",
+        "Supprimer le service d’assistance",
+        "Réduire le prix des licences",
+        "Éviter tout contact avec le client"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Quel principe le support retient-il à propos des objectifs marketing sur Facebook ?",
+      "reponses": [
+        "L’objectif principal est d’obtenir le plus grand nombre de mentions « J’aime »",
+        "Il faut publier uniquement de la publicité",
+        "Les objectifs doivent être identiques pour toutes les entreprises",
+        "L’objectif ne doit jamais être « seulement Facebook »"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Pourquoi faut-il sous-titrer les vidéos publiées sur les réseaux sociaux ?",
+      "reponses": [
+        "Pour améliorer la résolution de l’image",
+        "Parce que la plupart des vidéos sont regardées sans le son",
+        "Parce que les plateformes l’imposent légalement",
+        "Pour réduire la durée de la vidéo"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "Dans une stratégie cross-média, quel élément assure la cohérence entre les différents canaux ?",
+      "reponses": [
+        "Un budget identique pour chaque canal",
+        "La publication simultanée de contenus différents",
+        "Le fil rouge de l’histoire racontée",
+        "L’utilisation exclusive de YouTube"
+      ],
+      "bonne": 2
+    },
+    {
+      "q": "Une campagne de 150 000 FCFA génère 300 000 affichages. Quel est son CPM ?",
+      "reponses": [
+        "500 FCFA",
+        "50 FCFA",
+        "2 000 FCFA",
+        "5 000 FCFA"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Avec le modèle CPO, l’annonceur paie :",
+      "reponses": [
+        "chaque millier d’affichages",
+        "chaque clic sur l’annonce",
+        "un emplacement pour une durée fixe",
+        "chaque commande réalisée grâce à l’annonce"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Une newsletter précise qu’il ne reste que 100 pièces en stock. Quel levier du neuromarketing est utilisé ?",
+      "reponses": [
+        "L’effet de groupe",
+        "La rareté",
+        "Le label de qualité",
+        "Les formules de prix alternatives"
+      ],
+      "bonne": 1
+    },
+    {
+      "q": "À quoi sert le fichier robots.txt dans le référencement naturel ?",
+      "reponses": [
+        "À indiquer aux robots d’exploration les parties du site à lire ou à ignorer",
+        "À accélérer le temps de chargement des pages",
+        "À payer les clics sur Google Ads",
+        "À sécuriser le site en HTTPS"
+      ],
+      "bonne": 0
+    },
+    {
+      "q": "Parmi les éléments suivants, lequel est une métrique et non une dimension ?",
+      "reponses": [
+        "Le canal d’arrivée",
+        "La ville du visiteur",
+        "Le type d’appareil",
+        "Le nombre d’achats en ligne"
+      ],
+      "bonne": 3
+    },
+    {
+      "q": "Selon le RGPD tel que présenté dans le support, quelle condition est essentielle pour traiter des données personnelles ?",
+      "reponses": [
+        "L’achat d’une base de contacts certifiée",
+        "Le consentement de la personne concernée",
+        "L’hébergement des données en Europe",
+        "La publication des données sur le site"
+      ],
+      "bonne": 1
+    }
+  ]
+}

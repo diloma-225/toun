@@ -1,0 +1,9 @@
+<?php
+require __DIR__.'/entreprise_init.php';
+$rows=[];
+try{
+$s=$con->prepare("SELECT p.*,f.titre_form FROM t_paiements p LEFT JOIN t_formations f ON f.id_form=p.id_form WHERE p.id_user=? ORDER BY p.date_paiement DESC");$s->execute([$userId]);$rows=$s->fetchAll();
+}catch(Throwable $e){}
+$active_page='paiements.php';
+?>
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Paiements — TOUN</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"><link rel="stylesheet" href="entreprise-menu.css"><link rel="stylesheet" href="entreprise-ui.css"></head><body><?php include __DIR__.'/menu_entreprise.php';?><main class="main-content"><div class="page"><div class="page-head"><div><span class="eyebrow">GESTION</span><h1>Paiements</h1><p>Consultez l'historique des paiements liés au compte entreprise.</p></div></div><section class="panel"><div class="table-wrap"><table class="table"><thead><tr><th>Référence</th><th>Formation</th><th>Montant</th><th>Mode</th><th>Statut</th><th>Date</th></tr></thead><tbody><?php if(!$rows):?><tr><td colspan="6" class="empty">Aucun paiement enregistré.</td></tr><?php else:foreach($rows as $r):?><tr><td><?=e($r['reference_paiement'])?></td><td><?=e($r['titre_form']??'—')?></td><td><?=number_format((float)$r['montant'],0,',',' ')?> FCFA</td><td><?=e($r['mode_paiement']??'—')?></td><td><span class="badge <?=$r['statut_paiement']==='confirme'?'ok':'off'?>"><?=e($r['statut_paiement'])?></span></td><td><?=e(date('d/m/Y',strtotime($r['date_paiement'])))?></td></tr><?php endforeach;endif;?></tbody></table></div></section></div></main></body></html>
